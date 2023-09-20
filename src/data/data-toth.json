@@ -1,0 +1,100 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "namespace": "itemDescriptionsExpanded",
+    "modifications": {
+        "items": [
+            {
+                "id": "melvorTotH:Corundum_Arrows",
+                "expandedDescription": "Dangerous arrows tipped with Corundum metal. Lightweight but unimaginably sharp."
+            },
+            {
+                "id": "melvorTotH:Augite_Arrows",
+                "expandedDescription": "Deadly arrows tipped with metallized Augite crystals. Once used to hunt ancient sea dragons."
+            },
+            {
+                "id": "melvorTotH:Divine_Arrows",
+                "expandedDescription": "Cataclysmic arrows tipped with Divine metal. Split the earth and break the sky."
+            },
+            {
+                "id": "melvorTotH:Ethereal_Arrows",
+                "expandedDescription": "Divine arrows infused with the grudge of powerful spirits. Their ethereal nature can punch through any defense."
+            },
+            {
+                "id": "melvorTotH:Onyx_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered Onyx. Darker than the night."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with Celestial metal. Call down the heavens on your foe!"
+            },
+            {
+                "id": "melvorTotH:Decay_Bolts",
+                "expandedDescription": "Onyx crossbow bolts covered in a potent poison. Deadly to the touch."
+            },
+            {
+                "id": "melvorTotH:Zephyte_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with a splintered gem of Divine origin. Destructive as it is beautiful."
+            },
+            {
+                "id": "melvorTotH:Burning_Amulet_of_Charcoal",
+                "expandedDescription": "A fire spirit gifted you this amulet after freeing it from the belly of a fire-eating snake. Firewood turns to charcoal at your touch."
+            },
+            {
+                "id": "melvorTotH:Woodcutting_Ring_Fragment",
+                "expandedDescription": "A strange metal ring found inside a raven's nest. It floats upward when tossed, as if attracted to something in the sky."
+            },
+            {
+                "id": "melvorTotH:Woodcutting_Amulet_Fragment",
+                "expandedDescription": "A strange metal ornament found inside a raven's nest. If you peer through the center at night, you can see previously unseen stars."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Woodcutting_Amulet",
+                "expandedDescription": "After fusing with celestial metal, this amulet has awoken its true power. As you swing your axe at the tree, it glows like a shooting star."
+            },
+            {
+                "id": "melvorTotH:Iridium_Onyx_Necklace",
+                "expandedDescription": "When hit with a projectile, this necklace absorbs some of the energy, allowing you to return the blow."
+            },
+            {
+                "id": "melvorTotH:Palladium_Onyx_Necklace",
+                "expandedDescription": "A favorite of the Hunters the world around. This amulet increases your hand-eye coordination, making it easier to harvest valuable materials from slain foes."
+            },
+            {
+                "id": "melvorTotH:Iridium_Oricha_Necklace",
+                "expandedDescription": "This amulet absorbs magical energy, which can be redirected into a projectile of the wearer's choosing, increasing their destructive power."
+            },
+            {
+                "id": "melvorTotH:Palladium_Oricha_Necklace",
+                "expandedDescription": "A precise shot and a quick, clean kill can drastically increase the value of a target's pelt."
+            },
+            {
+                "id": "melvorTotH:Iridium_Cerulean_Necklace",
+                "expandedDescription": "The powerful life enchantment on this stone saps at the wearer's life force, preventing their wounds from healing... but can sap your foes as well."
+            },
+            {
+                "id": "melvorTotH:Palladium_Cerulean_Necklace",
+                "expandedDescription": "The powerful enchantment life enchantment on this stone has been tweeted to drastically increase your healing speed, but at the cost of more bodily resources."
+            },
+            {
+                "id": "melvorTotH:Iridium_Runestone_Necklace",
+                "expandedDescription": "This magical gemstone drastically amplifies magical energy in the heavy presence of metal... like your foes armor."
+            },
+            {
+                "id": "melvorTotH:Palladium_Runestone_Necklace",
+                "expandedDescription": "The magical gemstone can preserve materials in a temporal bubble, preventing spoilage and increasing their value."
+            },
+            {
+                "id": "melvorTotH:Iridium_Zephyte_Necklace",
+                "expandedDescription": "A divine necklace gifted to those who would fight titans. May your feet never falter."
+            },
+            {
+                "id": "melvorTotH:Palladium_Zephyte_Necklace",
+                "expandedDescription": "Created to bring the mighty low, the magic of this divine amulet will serve to even the field when fighting beasts of legend."
+            },
+            {
+                "id": "melvorTotH:Poison_Lifesteal_Amulet",
+                "expandedDescription": "Anything can be a medicine in the right dose. Even poison."
+            }
+        ]
+    }
+}

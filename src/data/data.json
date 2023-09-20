@@ -1,0 +1,220 @@
+{
+    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
+    "namespace": "itemDescriptionsExpanded",
+    "modifications": {
+        "items": [
+            {
+                "id": "melvorD:Bronze_Arrows",
+                "expandedDescription": "Common arrows tipped with a Bronze head. Pointy!"
+            },
+            {
+                "id": "melvorD:Iron_Arrows",
+                "expandedDescription": "Common arrows tipped with an Iron head. Heavy!"
+            },
+            {
+                "id": "melvorD:Steel_Arrows",
+                "expandedDescription": "Well-crafted arrows tipped with a Steel head. A favorite of Bandits across Melvor."
+            },
+            {
+                "id": "melvorD:Mithril_Arrows",
+                "expandedDescription": "Rare arrows tipped with a Mithril head. It can easily channel holy power."
+            },
+            {
+                "id": "melvorD:Adamant_Arrows",
+                "expandedDescription": "Rare arrows tipped with an Adamant head. Popular among the people of the Arid Plains for their durability and penetrating power."
+            },
+            {
+                "id": "melvorD:Rune_Arrows",
+                "expandedDescription": "Powerful arrows tipped with a Runite head. Among the people of the Arid Plains, the use of Runite arrows is said to be the sign of a great Archer."
+            },
+            {
+                "id": "melvorD:Dragon_Arrows",
+                "expandedDescription": "Devastating arrows tipped with a Dragonite head. The people of the Arid Plans tell legends of how these arrows were once used to kill a god."
+            },
+            {
+                "id": "melvorD:Ice_Arrows",
+                "expandedDescription": "An Arrow embed with the magic of the Deep South. Careful how you handle them."
+            },
+            {
+                "id": "melvorF:Ancient_Arrow",
+                "expandedDescription": "Devastating arrows from a bygone era when gods walked the earth. Their production method has been lost to time."
+            },
+            {
+                "id": "melvorF:Topaz_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered topaz. Careful of the edges!"
+            },
+            {
+                "id": "melvorF:Sapphire_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered sapphire. Put a sparkle (and a bolt) in your enemy's eye!"
+            },
+            {
+                "id": "melvorF:Ruby_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered ruby. The red helps to hide the bloodstains."
+            },
+            {
+                "id": "melvorF:Emerald_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered emerald. Don't worry, they're not poisoned!"
+            },
+            {
+                "id": "melvorF:Diamond_Bolts",
+                "expandedDescription": "Iron crossbow bolts with splintered diamond. The quickest way to your enemy's heart!"
+            },
+            {
+                "id": "melvorF:Jadestone_Bolts",
+                "expandedDescription": "Iron crossbow bolts tipped with splintered Jadestone. Legend says they were designed by a Princess to kill her Dragon captor."
+            },
+            {
+                "id": "melvorD:Amulet_of_Fishing",
+                "expandedDescription": "You found this in an old chest. It releases a scent that attracts fish."
+            },
+            {
+                "id": "melvorD:Amulet_of_Strength",
+                "expandedDescription": "An amulet enchanted to increase its wearer's strength. Instant Muscles!"
+            },
+            {
+                "id": "melvorD:Amulet_of_Accuracy",
+                "expandedDescription": "An amulet enchanted to increase its wearer's reflexes. As you wear it, the world comes into clearer focus."
+            },
+            {
+                "id": "melvorD:Amulet_of_Defence",
+                "expandedDescription": "Amulet enchanted to harden your skin and protect the wearer from damage. Need some lotion?"
+            },
+            {
+                "id": "melvorD:Amulet_of_Ranged",
+                "expandedDescription": "An amulet enchanted to guide projectiles to their intended target. Banned in all Melvor sponsored athletic events."
+            },
+            {
+                "id": "melvorD:Amulet_of_Magic",
+                "expandedDescription": "An amulet enchanted to amplify magical energy. Runes not included."
+            },
+            {
+                "id": "melvorD:Amulet_of_Glory",
+                "expandedDescription": "A powerful amulet worn by only the most elite of knights. Both a badge of honor and a sign of duty."
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Strength",
+                "expandedDescription": "As you don this amulet, your muscles swell and burst from your shirt. Do you even lift, bro?"
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Accuracy",
+                "expandedDescription": "I can see... EVERYTHING!"
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Defence",
+                "expandedDescription": "Skin of stone and bones of steel. Not even gods can bring you to heel."
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Ranged",
+                "expandedDescription": "The Whistling Bandit once used this to amulet to slay an entire pirate ship... with a single arrow."
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Magic",
+                "expandedDescription": "The gods capped this after an enchanter used it to create a better one. Then he used that to make and even better one. And again, and again."
+            },
+            {
+                "id": "melvorD:Elite_Amulet_of_Glory",
+                "expandedDescription": "For when your glory is more glorious than the other guy's glory."
+            },
+            {
+                "id": "melvorD:Amulet_of_Fury",
+                "expandedDescription": "Each bead of this amulet is the polished scale of an ancient dragon, and the red gem, crystalized dragonfire."
+            },
+            {
+                "id": "melvorD:Amulet_of_Torture",
+                "expandedDescription": "An amulet used by a mysterious cult in profane rituals. You can hear souls of the trapped dead emanate from the gem at its center."
+            },
+            {
+                "id": "melvorD:Fury_of_the_Elemental_Zodiac",
+                "expandedDescription": "The Scales of Malcs are potent magical reagents. After absorbing the power of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class=\"ide fsi\">\"By your powers combined! I am OP!\"</span>"
+            },
+            {
+                "id": "melvorD:Amulet_of_Looting",
+                "expandedDescription": "Wearing this marks you as the Chief of the Pygmy spiders. Force them to bank your stuff."
+            },
+            {
+                "id": "melvorD:Bone_Necklace",
+                "expandedDescription": "This necklace was created by a necromancer who grew tired of cleaning up his messes. So he made his messes clean themselves up."
+            },
+            {
+                "id": "melvorD:Burning_Amulet_of_Gold",
+                "expandedDescription": "An enchanted amulet gifted to you by a fire spirit. As the flames die, you can spot flecks of gold among the ashes."
+            },
+            {
+                "id": "melvorD:Burning_Amulet_of_Stardust",
+                "expandedDescription": "An enchanted amulet gifted to you by a fire spirit. The ash of the magic tree is said to hold small bits of cosmic power."
+            },
+            {
+                "id": "melvorD:Burning_Amulet_of_Ash",
+                "expandedDescription": "An enchanted amulet gifted to you by a fire spirit. The ashes of a fire, well tended, hold many uses."
+            },
+            {
+                "id": "melvorD:Burning_Amulet_of_XP",
+                "expandedDescription": "An enchanted amulet gifted to you by a fire spirit. I'm not a pyromaniac, really!"
+            },
+            {
+                "id": "melvorF:Silver_Topaz_Necklace",
+                "expandedDescription": "The pairing of topaz and silver in this necklace sharpens your scenes and lightens your blade."
+            },
+            {
+                "id": "melvorF:Silver_Sapphire_Necklace",
+                "expandedDescription": "Silver and sapphire work together to turn magical energy into healing power."
+            },
+            {
+                "id": "melvorF:Silver_Ruby_Necklace",
+                "expandedDescription": "The warm ruby and chilling silver against your skin refreshes and strengthens your body."
+            },
+            {
+                "id": "melvorF:Silver_Emerald_Necklace",
+                "expandedDescription": "Silver and emeralds are said to bring good luck. Both in finding lost arrows... and ensuring they find your enemy."
+            },
+            {
+                "id": "melvorF:Silver_Diamond_Necklace",
+                "expandedDescription": "Why do silver and diamonds make you hit things harder with bit sticks? No one knows. It is one of the great mysteries of Melvor."
+            },
+            {
+                "id": "melvorF:Gold_Topaz_Necklace",
+                "expandedDescription": "This necklace is rumoured to attract wealth, making it popular among the nobility."
+            },
+            {
+                "id": "melvorF:Gold_Sapphire_Necklace",
+                "expandedDescription": "Gold and Sapphire, when paired together, sharpen the mind and make it easier to spot on-coming projectiles."
+            },
+            {
+                "id": "melvorF:Gold_Ruby_Necklace",
+                "expandedDescription": "Gold further improves the ruby's bolstering power, allowing it to heal quicker and to a greater extent."
+            },
+            {
+                "id": "melvorF:Gold_Emerald_Necklace",
+                "expandedDescription": "Emeralds set in gold have long been used to detect hostile magics, making them popular among the roguish type."
+            },
+            {
+                "id": "melvorF:Gold_Diamond_Necklace",
+                "expandedDescription": "Diamonds resonate with gold in the presence of magic to create a minor shield that can deflect the blow of a blade."
+            },
+            {
+                "id": "melvorF:Deadeye_Amulet",
+                "expandedDescription": "The greatest of Aeris' archers could hit a fly from 1000 meters. This diamond amulet was created in recognition of their skill. Rumored to hold a Virulent Poison."
+            },
+            {
+                "id": "melvorF:Warlock_Amulet",
+                "expandedDescription": "The warlocks of Glacia city were said to drain the life out of their foes. All who wore this amulet eventually succumb to the Burning Madness."
+            },
+            {
+                "id": "melvorF:Guardian_Amulet",
+                "expandedDescription": "An amulet gifted to provide protection in your most desperate moment. May its light Spike through the darkness and dispels all danger."
+            },
+            {
+                "id": "melvorF:Fighter_Amulet",
+                "expandedDescription": "This magic amulet was worn by the gladiators of the Lord of Chaos. As they fought, their Relentless Fury fueled the forges of war."
+            },
+            {
+                "id": "melvorF:Jeweled_Necklace",
+                "expandedDescription": "A simple amulet with a small glass gem. Rumored to bring good luck."
+            },
+            {
+                "id": "melvorF:Amulet_Of_Incantation",
+                "expandedDescription": "Though fragile, thus unsuited for battle, this enchanted Amulet is popular among spell casters for its ability to increase the caster's speech."
+            }
+        ]
+    }
+}

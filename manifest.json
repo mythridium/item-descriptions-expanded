@@ -1,0 +1,5 @@
+{
+    "namespace": "itemDescriptionsExpanded",
+    "setup": "setup.mjs",
+    "icon": "assets/logo.png"
+}
