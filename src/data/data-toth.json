@@ -94,6 +94,70 @@
             {
                 "id": "melvorTotH:Poison_Lifesteal_Amulet",
                 "expandedDescription": "Anything can be a medicine in the right dose. Even poison."
+            },
+            {
+                "id": "melvorTotH:Frostshield_Amulet",
+                "expandedDescription": "An Amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice."
+            },
+            {
+                "id": "melvorTotH:Lightning_Amulet",
+                "expandedDescription": "Amulet of RaZu, Lord of the Skies. RaZu's grudge against his icy foe offers you some protection from the creature."
+            },
+            {
+                "id": "melvorTotH:FrostSpark_Amulet",
+                "expandedDescription": "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet."
+            },
+            {
+                "id": "melvorTotH:Allure_Amulet",
+                "expandedDescription": "An amulet crafted by the Misty Sirens of the great lake. Simply looking at it makes you feel sleepy."
+            },
+            {
+                "id": "melvorTotH:Amulet_of_Prayers",
+                "expandedDescription": "There are many forms of worship on Melvor. Some of those include hitting your foes in the face."
+            },
+            {
+                "id": "melvorTotH:Corundum_Arrowtips",
+                "expandedDescription": "Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds."
+            },
+            {
+                "id": "melvorTotH:Augite_Arrowtips",
+                "expandedDescription": "Augite crystals are said to be poisonous to dragons. Even now, arrowtips left by would-be hunters can be found in the hides of older beasts."
+            },
+            {
+                "id": "melvorTotH:Divine_Arrowtips",
+                "expandedDescription": "Arrow tips made from a metal rumored to be Divine in origin. Whatever the truth, no hide nor armor has been found that they cannot pierce."
+            },
+            {
+                "id": "melvorTotH:Artisan_Pouch",
+                "expandedDescription": "A small pouch filled with various supplies any Artisan might need for their next project."
+            },
+            {
+                "id": "melvorTotH:Artisan_Pouch_II",
+                "expandedDescription": "Contains a small Gnome named Bob who magically improves your creations when you're not looking. Just don't stick your hand inside; he's a biter."
+            },
+            {
+                "id": "melvorTotH:Kindling_Pouch",
+                "expandedDescription": "Artisans find the ashes produced from burning this special kindling exceptionally valuable. The flames it produces are a bright golden color."
+            },
+            {
+                "id": "melvorTotH:Kindling_Pouch_II",
+                "expandedDescription": "When burned in a hot enough flame, this special kindling produces golden flakes that can be sold for a high price."
+            },
+            {
+                "id": "melvorTotH:Stamina_Pouch",
+                "expandedDescription": "A small pouch of white pills said to boost Stamina and increase agility. Warning, if you find yourself on the obstacle course for more than 4 hours, consult a doctor."
+            },
+            {
+                "id": "melvorTotH:Spirit_Bag",
+                "expandedDescription": "Alchemy-in-a-bag! Stick an object and some runes inside, shake it around and pull out a solid gold replica!"
+            },
+            {
+                "id": "melvorTotH:Chefs_Bag",
+                "expandedDescription": "This heat-proof pouch attaches to the side of a stove, allowing easy access to all the spices and ingredients a chef needs to make their masterpiece."
+            },
+            {
+                "id": "melvorTotH:Summoners_Bag",
+                "expandedDescription": "A small bag used by Ritualists during summoning ceremonies. It can focus and direct energy in a way that increases the effects of the summoning process."
             }
         ]
     }

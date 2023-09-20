@@ -36,10 +36,10 @@ export const de = {
     Elite_Amulet_of_Magic:
         'Die Götter haben dies begrenzt, nachdem ein Verzauberer es benutzt hat, um ein besseres zu schaffen. Dann hat er das benutzt, um ein noch besseres zu machen. Und wieder, und wieder.',
     Elite_Amulet_of_Glory: 'Für den Fall, dass deine Herrlichkeit glorreicher ist als die des anderen Typen.',
-    Amulet_of_Fury: 'Jede Perle dieses Amuletts ist die polierte Schuppe eines alten Drachen, und der rote Edelstein ist kristallisierter Drachenfeuer.',
-    Amulet_of_Torture: 'Ein Amulett, das von einem mysteriösen Kult bei profanen Ritualen verwendet wurde. Du kannst die Seelen der gefangenen Toten aus dem Edelstein in seiner Mitte hören.',
+    Amulet_of_Fury: 'Jede Perle dieses Amuletts ist die polierte Schuppe eines alten Drachen, während der rote Edelstein kristallisiertes Drachenfeuer ist.',
+    Amulet_of_Torture: 'Ein Amulett, das von einem mysteriösen Kult in profanen Ritualen verwendet wird. Du kannst die Seelen der gefangenen Toten aus dem Edelstein in seiner Mitte hören.',
     Fury_of_the_Elemental_Zodiac:
-        'Die Schuppen von Malcs sind mächtige magische Reagenzien. Nachdem sie die Kraft mehrerer mächtiger magischer Amulette absorbiert hat, hat dieses Amulett eine Macht erlangt, die nicht für sterbliche Hände bestimmt ist. - <span class="ide fsi">"Durch deine vereinten Kräfte! Ich bin OP!"</span>',
+        'Die Schuppen von Malcs sind mächtige magische Reagenzien. Nachdem sie die Energie mehrerer mächtiger magischer Amulette absorbiert haben, hat dieses Amulett eine Kraft erlangt, die nicht für sterbliche Hände bestimmt ist. - <span class="ide fsi">"Durch eure vereinten Kräfte! Ich bin unbesiegbar!"</span>',
     Amulet_of_Looting: 'Das Tragen dieses Amuletts markiert dich als Oberhaupt der Pygmäenspinnen. Zwing sie, deine Sachen zu lagern.',
     Bone_Necklace: 'Dieses Halsband wurde von einem Nekromanten geschaffen, der es satt hatte, seine Missgeschicke aufzuräumen. Also hat er seine Missgeschicke sich selbst aufräumen lassen.',
     Burning_Amulet_of_Gold: 'Ein verzaubertes Amulett, das dir von einem Feuergeist geschenkt wurde. Wenn die Flammen erlöschen, kannst du Goldflocken in der Asche erkennen.',
@@ -82,5 +82,55 @@ export const de = {
     Palladium_Runestone_Necklace: 'Der magische Edelstein kann Materialien in einer zeitlichen Blase konservieren, um Verderb zu verhindern und ihren Wert zu steigern.',
     Iridium_Zephyte_Necklace: 'Ein göttliches Amulett, das denjenigen geschenkt wird, die gegen Titanen kämpfen. Mögen deine Füße niemals wanken.',
     Palladium_Zephyte_Necklace: 'Entwickelt, um die Mächtigen zu stürzen, wird die Magie dieses göttlichen Amuletts dazu dienen, das Feld beim Kampf gegen Legendenbestien auszugleichen.',
-    Poison_Lifesteal_Amulet: 'Alles kann in der richtigen Dosis ein Medizin sein. Selbst Gift.'
+    Poison_Lifesteal_Amulet: 'Alles kann in der richtigen Dosis ein Medizin sein. Selbst Gift.',
+    Headless_Arrows: "Pfeile ohne Spitze: 'Gefiederte Pfeile, bereit zum Spitzen. Die Kunst des Federmachens ist so alt wie die Zeit.'",
+    Feathers: "Federn: 'Gereinigte Federn von verschiedenen geflügelten Kreaturen. Bereit, Pfeile zu fliegen oder in Tränke gebraut zu werden.'",
+    Headless_Bolts:
+        "Eisenarmbrustbolzen: 'Eisenarmbrustbolzen, die so konzipiert sind, dass sie in verschiedene Schussmechanismen passen. Die Spitzen sind so gestaltet, dass sie leicht Edelsteinsplitter anbringen und ihre Kraft erheblich erhöhen.'",
+    Arrow_Shafts: "Pfeilschäfte: 'Verschiedene Holzarten können zu Pfeilschäften verarbeitet werden, wobei hochwertigere Hölzer tendenziell bessere Ergebnisse liefern.'",
+    Bronze_Arrowtips: "Bronzepfeilspitzen: 'Pfeilspitzen aus Bronze geschmiedet. Bronze mag weich sein, aber auch die weichen Stellen deines Feindes.'",
+    Iron_Arrowtips: "Eisenpfeilspitzen: 'Hergestellt aus dem in den Ostbergen reichlich abgebauten Eisen sind diese Pfeilspitzen in Melvor sehr beliebt.'",
+    Steel_Arrowtips: "Stahlpfeilspitzen: 'Gehärteter Stahl verleiht diesen Pfeilspitzen außergewöhnliche Durchschlagskraft, was sie bei Banditen und Abenteurern gleichermaßen beliebt macht.'",
+    Mithril_Arrowtips: "Mithril-Pfeilspitzen: 'Die Bogenschützen der Heiligen Inseln bevorzugen Mithril vor allem anderen wegen seiner außergewöhnlichen Fähigkeit, heilige Kraft zu leiten.'",
+    Adamant_Arrowtips: "Adamant-Pfeilspitzen: 'Adamant-Pfeilspitzen sind unter den Stämmen der Arid Plains so begehrt, dass sie manchmal anstelle von Münzen verwendet werden.'",
+    Rune_Arrowtips:
+        "Runen-Pfeilspitzen: 'Für die Stammesmitglieder der Arid Plains ist es eine große Ehre, eine Runen-Pfeilspitze aus einer Wunde zu ziehen. Sie sind der Beweis dafür, dass man es mit einem Meisterbogenschützen aufgenommen hat und es überlebt hat.'",
+    Dragon_Arrowtips:
+        "Drachen-Pfeilspitzen: 'Für jeden großen Feind, den ein Häuptling der Arid Plains erschlägt, fügt er seinem Kopfschmuck eine Drachenit-Pfeilspitze hinzu. Sowohl als Zeichen der Ehre... als auch als Warnung.'",
+    Consumable_Enhancer:
+        "Verbrauchsmittel-Verstärker: 'Kleines Token, das von Handwerkern auf der ganzen Welt verwendet wird, um untereinander Gefallen auszutauschen. Diese können verwendet werden, um einen solchen Handwerker dazu zu bringen, eine Vielzahl nützlicher Taschen und Rollen [Upgrade] durchzuführen.'",
+    Thiefs_Moneysack: "Diebische Geldbörse: 'Eine versteckte Tasche, um gestohlenes Gold vor den Augen des Gesetzes... oder anderer klebriger Finger sicher aufzubewahren.'",
+    Seed_Pouch: "Saatgutbeutel: 'Neu! Von Ihren freundlichen Nachbarn bei Seed Co.! Unsere All-in-One-Saatgutbeutel garantieren eine ganzjährige Steigerung Ihres Ertrags!'",
+    Runecrafting_Pouch: "Runenkunstbeutel: 'Dieser verzauberte Beutel erzeugt Runenessenz aus der Luft, indem er die bei der Runenkunst erzeugte Abfallenergie absorbiert.'",
+    Alchemists_Bag: "Alchemistenbeutel: 'Ein kleiner Beutel mit grundlegenden alchemistischen Reagenzien, die entwickelt wurden, um die Wirksamkeit eines Tranks zu erhöhen.'",
+    Thiefs_Moneysack_II: "Diebische Geldbörse II: 'Diese verzauberte Tasche zieht Gold wie ein Magnet an! Ganz gleich, ob das Gold Ihnen gehört oder nicht.'",
+    Seed_Pouch_II: "Saatgutbeutel II: 'Vr. 2.0 von Ihren freundlichen Nachbarn bei Seed Co.! Jetzt weniger* wahrscheinlich als je zuvor, räuberische Horden von monströsen Insekten anzulocken!'",
+    Alchemists_Bag_II:
+        "Alchemistenbeutel II: 'Diese seltenen alchemistischen Reagenzien können die Wirkung eines Tranks drastisch erhöhen, mit wenig oder keinen Nebenwirkungen. Sie schmecken jedoch furchtbar.'",
+    Whetstone: "Schleifstein: 'Ein gewöhnlicher natürlicher Schleifstein. Steine wie dieser werden oft von allen möglichen Leuten mitgeführt.'",
+    Frostshield_Amulet:
+        "Frostschutz-Amulett: 'Ein Amulett, das aus dem kalten Herzen eines Eis-Hydra geschnitzt ist. Seine Magie gewährt Ihnen etwas von der Kraft der Kreatur, wenn Sie von Eis umgeben sind.'",
+    Lightning_Amulet: "Blitz-Amulett: 'Amulett von RaZu, dem Herrn der Lüfte. RaZus Groll gegen seinen eisigen Feind bietet Ihnen Schutz vor der Kreatur.'",
+    FrostSpark_Amulet: "Frostfunkel-Amulett: 'Indem Sie den Groll des Herrn des Himmels mit dem eiskalten Blut des Eis-Hydra besänftigen, haben Sie die wahre Kraft dieses Amuletts freigeschaltet.'",
+    Allure_Amulet: "Verlockungs-Amulett: 'Ein Amulett, das von den Nebel-Sirenen des großen Sees gefertigt wurde. Schon das Ansehen lässt Sie schläfrig werden.'",
+    Amulet_of_Prayers: "Amulett der Gebete: 'Es gibt viele Formen der Verehrung in Melvor. Einige davon beinhalten das Schlagen Ihrer Feinde ins Gesicht.'",
+    Corundum_Arrowtips: "Korund-Pfeilspitzen: 'Pfeilspitzen aus Korund-Metall sind so scharf, dass sie verheerende, anhaltende Wunden hinterlassen können.'",
+    Augite_Arrowtips:
+        "Augit-Pfeilspitzen: 'Man sagt, dass Augit-Kristalle für Drachen giftig sind. Selbst jetzt können Pfeilspitzen von angehenden Jägern in den Häuten älterer Bestien gefunden werden.'",
+    Divine_Arrowtips:
+        "Göttliche Pfeilspitzen: 'Pfeilspitzen aus einem Metall, von dem gemunkelt wird, es sei göttlichen Ursprungs. Was auch immer die Wahrheit ist, es wurde keine Haut oder Rüstung gefunden, die sie nicht durchdringen können.'",
+    Artisan_Pouch: "Handwerker-Beutel: 'Ein kleiner Beutel, gefüllt mit verschiedenen Materialien, die ein Handwerker für sein nächstes Projekt benötigen könnte.'",
+    Artisan_Pouch_II:
+        "Handwerker-Beutel II: 'Enthält einen kleinen Gnom namens Bob, der Ihre Kreationen magisch verbessert, wenn Sie nicht hinsehen. Stecken Sie einfach nicht Ihre Hand hinein; er beißt.'",
+    Kindling_Pouch:
+        "Anzündbeutel: 'Handwerker finden die Asche, die beim Verbrennen dieses besonderen Anzündholzes entsteht, außergewöhnlich wertvoll. Die Flammen, die es erzeugt, haben eine leuchtend goldene Farbe.'",
+    Kindling_Pouch_II:
+        "Anzündbeutel II: 'Wenn es in einer heiß genug brennenden Flamme verbrannt wird, erzeugt dieses spezielle Anzündholz goldene Flocken, die zu einem hohen Preis verkauft werden können.'",
+    Stamina_Pouch:
+        "Stamina-Beutel: 'Ein kleiner Beutel mit weißen Pillen, die angeblich die Ausdauer steigern und die Beweglichkeit erhöhen. Achtung, wenn Sie sich länger als 4 Stunden auf dem Hindernisparcours befinden, konsultieren Sie einen Arzt.'",
+    Spirit_Bag: "Geisterbeutel: 'Alchemie in einem Beutel! Stecken Sie einen Gegenstand und einige Runen hinein, schütteln Sie ihn und ziehen Sie eine massive Goldreplik heraus!'",
+    Chefs_Bag:
+        "Kochbeutel: 'Dieser hitzebeständige Beutel lässt sich an der Seite eines Herds befestigen und ermöglicht einen einfachen Zugang zu allen Gewürzen und Zutaten, die ein Koch benötigt, um sein Meisterwerk zu schaffen.'",
+    Summoners_Bag:
+        "Beschwörer-Beutel: 'Ein kleiner Beutel, den Ritualisten während Beschwörungszeremonien verwenden. Er kann die Energie auf eine Weise konzentrieren und lenken, die die Wirkung des Beschwörungsprozesses erhöht.'"
 };

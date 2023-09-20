@@ -117,7 +117,7 @@
             },
             {
                 "id": "melvorD:Amulet_of_Fury",
-                "expandedDescription": "Each bead of this amulet is the polished scale of an ancient dragon, and the red gem, crystalized dragonfire."
+                "expandedDescription": "Each bead of this amulet is the polished scale of an ancient dragon, while the red gem is crystalized dragonfire."
             },
             {
                 "id": "melvorD:Amulet_of_Torture",
@@ -125,7 +125,7 @@
             },
             {
                 "id": "melvorD:Fury_of_the_Elemental_Zodiac",
-                "expandedDescription": "The Scales of Malcs are potent magical reagents. After absorbing the power of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class=\"ide fsi\">\"By your powers combined! I am OP!\"</span>"
+                "expandedDescription": "The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class=\"ide fsi\">\"By your powers combined! I am OP!\"</span>"
             },
             {
                 "id": "melvorD:Amulet_of_Looting",
@@ -153,7 +153,7 @@
             },
             {
                 "id": "melvorF:Silver_Topaz_Necklace",
-                "expandedDescription": "The pairing of topaz and silver in this necklace sharpens your scenes and lightens your blade."
+                "expandedDescription": "The pairing of topaz and silver in this necklace sharpens your senses and lightens your blade."
             },
             {
                 "id": "melvorF:Silver_Sapphire_Necklace",
@@ -214,6 +214,86 @@
             {
                 "id": "melvorF:Amulet_Of_Incantation",
                 "expandedDescription": "Though fragile, thus unsuited for battle, this enchanted Amulet is popular among spell casters for its ability to increase the caster's speech."
+            },
+            {
+                "id": "melvorD:Headless_Arrows",
+                "expandedDescription": "Feathered arrows ready to be tipped. The art of fletching is as old as time."
+            },
+            {
+                "id": "melvorD:Feathers",
+                "expandedDescription": "Cleaned feathers from various winged creatures. Ready to flight arrows, or be brewed into potions."
+            },
+            {
+                "id": "melvorD:Headless_Bolts",
+                "expandedDescription": "Iron crossbow bolts designed to fit into a variety of firing mechanisms. The tips are fashioned to easily attach gem splinters, greatly increasing their power."
+            },
+            {
+                "id": "melvorF:Arrow_Shafts",
+                "expandedDescription": "Various types of wood can be made into arrow shafts, though higher quality woods tend to show better results."
+            },
+            {
+                "id": "melvorD:Bronze_Arrowtips",
+                "expandedDescription": "Arrowtips forged from bronze. Bronze may be soft, but so are your enemy's squishy bits."
+            },
+            {
+                "id": "melvorD:Iron_Arrowtips",
+                "expandedDescription": "Made from the iron mined in abundance from the east mountains, these arrow tips are some of the most popular in Melvor."
+            },
+            {
+                "id": "melvorD:Steel_Arrowtips",
+                "expandedDescription": "Hardened steel give these arrowtips exceptional penetration power, making them popular among bandits and adventurers alike."
+            },
+            {
+                "id": "melvorD:Mithril_Arrowtips",
+                "expandedDescription": "The archers of the Holy Isles prefer mithril above all else for its exceptional ability to conduct holy power."
+            },
+            {
+                "id": "melvorD:Adamant_Arrowtips",
+                "expandedDescription": "Adamant arrowtips are so prized among the tribes of the Arid Plains, that they are sometimes used in lieu of coinage."
+            },
+            {
+                "id": "melvorD:Rune_Arrowtips",
+                "expandedDescription": "Among the tribesmen of the Arid Plains, it is counted a great honor to dig a rune arrowtip from a wound. They are proof of facing a master archer and living to tell the tale."
+            },
+            {
+                "id": "melvorD:Dragon_Arrowtips",
+                "expandedDescription": "For every great foe slain, an Arid Plains Chieftain will add a Dragonite Arrowtip to their headpiece. Both as a sign of honor... and a warning."
+            },
+            {
+                "id": "melvorF:Consumable_Enhancer",
+                "expandedDescription": "Small token used by Craftsmen around the world to trade favors among themselves. These can be used to have one such Craftsmen [Upgrade] a variety of useful Bags and Scrolls."
+            },
+            {
+                "id": "melvorF:Thiefs_Moneysack",
+                "expandedDescription": "A hidden satchel in which to keep ill-gotten gold safe from the eyes of the law... or other sticky fingers."
+            },
+            {
+                "id": "melvorF:Seed_Pouch",
+                "expandedDescription": "New! From your friendly neighbors at Seed Co.! Our all-in-one Seed Pouches are guaranteed to increase your crop yield all year round!"
+            },
+            {
+                "id": "melvorF:Runecrafting_Pouch",
+                "expandedDescription": "This enchanted pouch creates Rune Essence out of thin air by absorbing the waste energy produced during Runecrafting."
+            },
+            {
+                "id": "melvorF:Alchemists_Bag",
+                "expandedDescription": "A small pouch of basic Alchemical reagents designed to increase the effectiveness of a potion."
+            },
+            {
+                "id": "melvorF:Thiefs_Moneysack_II",
+                "expandedDescription": "This enchanted satchel attracts gold like a magnet! Regardless if said gold belongs to you or not."
+            },
+            {
+                "id": "melvorF:Seed_Pouch_II",
+                "expandedDescription": "Vr. 2.0 from your friendly neighbors at Seed Co.! Now less* likely than ever to attract ravenous hordes of monstrous insects!"
+            },
+            {
+                "id": "melvorF:Alchemists_Bag_II",
+                "expandedDescription": "These rare Alchemical reagents can drastically increase the effects of a potion with little to no side-effects. They taste horrible, however."
+            },
+            {
+                "id": "melvorF:Whetstone",
+                "expandedDescription": "A common natural whetstone. Stones like this are often carried by all types of people."
             }
         ]
     }

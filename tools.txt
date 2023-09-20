@@ -1,0 +1,17 @@
+// this script takes the json data and outputs the language objects. Run in browser dev tools
+
+const data = [
+    {
+        "id": "melvorTotH:Frostshield_Amulet",
+        "expandedDescription": "An Amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice."
+    }
+]
+
+const obj = {};
+
+for (const item of data) {
+
+    obj[item.id.split(':')[1]] = item.expandedDescription;
+}
+
+JSON.stringify(obj);

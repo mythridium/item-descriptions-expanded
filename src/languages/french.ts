@@ -35,10 +35,10 @@ export const fr = {
     Elite_Amulet_of_Ranged: "Le Bandit Sifflant utilisait autrefois cette amulette pour abattre tout un navire de pirates... d'une seule flèche.",
     Elite_Amulet_of_Magic: "Les dieux ont limité cela après qu'un enchanteur l'ait utilisé pour en créer un meilleur. Puis il a utilisé ça pour en faire un encore meilleur. Et encore, et encore.",
     Elite_Amulet_of_Glory: "Quand votre gloire est plus glorieuse que celle de l'autre gars.",
-    Amulet_of_Fury: "Chaque perle de cette amulette est l'écaille polie d'un dragon ancien, et la gemme rouge, le feu de dragon cristallisé.",
-    Amulet_of_Torture: 'Une amulette utilisée par une secte mystérieuse lors de rituels profanes. Vous pouvez entendre les âmes des morts piégées émaner de la gemme au centre.',
+    Amulet_of_Fury: "Chaque perle de ce collier est l'écaille polie d'un dragon ancien, tandis que la gemme rouge est du feu de dragon cristallisé.",
+    Amulet_of_Torture: 'Un amulette utilisée par une secte mystérieuse dans des rituels profanes. Vous pouvez entendre les âmes des morts piégées émaner de la gemme au centre.',
     Fury_of_the_Elemental_Zodiac:
-        'Les Échelles de Malcs sont de puissants réactifs magiques. Après avoir absorbé le pouvoir de plusieurs amulettes magiques puissantes, cette amulette a obtenu un pouvoir qui n\'était pas destiné aux mains mortelles. - <span class="ide fsi">"En combinant vos pouvoirs ! Je suis surpuissant !"</span>',
+        'Les Écailles de Malcs sont de puissants réactifs magiques. Après avoir absorbé l\'énergie de plusieurs amulettes magiques puissantes, cette amulette a acquis un pouvoir qui n\'est pas destiné aux mains des mortels. - <span class="ide fsi">"En combinant vos pouvoirs ! Je suis surpuissant !"</span>',
     Amulet_of_Looting: 'Le port de cela vous désigne comme le Chef des araignées pygmées. Forcez-les à mettre vos affaires en banque.',
     Bone_Necklace: 'Ce collier a été créé par un nécromancien qui en avait assez de nettoyer ses dégâts. Alors il a fait en sorte que ses dégâts se nettoient eux-mêmes.',
     Burning_Amulet_of_Gold: "Une amulette enchantée vous a été offerte par un esprit du feu. À mesure que les flammes s'éteignent, vous pouvez repérer des paillettes d'or parmi les cendres.",
@@ -82,5 +82,59 @@ export const fr = {
     Palladium_Runestone_Necklace: 'La pierre magique peut préserver les matériaux dans une bulle temporelle, empêchant leur détérioration et augmentant leur valeur.',
     Iridium_Zephyte_Necklace: 'Un collier divin offert à ceux qui combattront les titans. Que vos pieds ne chancellent jamais.',
     Palladium_Zephyte_Necklace: 'Créée pour abaisser les puissants, la magie de cette amulette divine servira à équilibrer le champ de bataille lors de la lutte contre des bêtes légendaires.',
-    Poison_Lifesteal_Amulet: "N'importe quoi peut être un remède en bonne dose. Même le poison."
+    Poison_Lifesteal_Amulet: "N'importe quoi peut être un remède en bonne dose. Même le poison.",
+    Headless_Arrows: "Flèches sans tête : 'Flèches emplumées prêtes à être pointées. L'art de la flèche est aussi vieux que le temps.'",
+    Feathers: "Plumes : 'Plumes nettoyées de diverses créatures ailées. Prêtes à être transformées en flèches, ou à être brassées dans des potions.'",
+    Headless_Bolts:
+        "Boulons sans tête : 'Boulons de arbalète en fer conçus pour s'adapter à divers mécanismes de tir. Les pointes sont conçues pour fixer facilement des éclats de gemmes, augmentant ainsi considérablement leur puissance.'",
+    Arrow_Shafts: "Tiges de flèche : 'Divers types de bois peuvent être transformés en tiges de flèche, bien que les bois de meilleure qualité aient tendance à donner de meilleurs résultats.'",
+    Bronze_Arrowtips: "Pointes de flèches en bronze : 'Pointes de flèches forgées en bronze. Le bronze peut être mou, mais aussi les parties molles de votre ennemi.'",
+    Iron_Arrowtips: "Pointes de flèches en fer : 'Fabriquées à partir du fer extrait en abondance des montagnes de l'est, ces pointes de flèches sont parmi les plus populaires à Melvor.'",
+    Steel_Arrowtips:
+        "Pointes de flèches en acier : 'L'acier trempé confère à ces pointes de flèches une exceptionnelle puissance de pénétration, les rendant populaires auprès des bandits et des aventuriers.'",
+    Mithril_Arrowtips: "Pointes de flèches en mithril : 'Les archers des Îles Sacrées préfèrent le mithril avant tout pour sa capacité exceptionnelle à conduire le pouvoir sacré.'",
+    Adamant_Arrowtips:
+        "Pointes de flèches en adamantium : 'Les pointes de flèches en adamantium sont tellement prisées par les tribus des plaines arides qu'elles sont parfois utilisées à la place de la monnaie.'",
+    Rune_Arrowtips:
+        "Pointes de flèches runiques : 'Parmi les membres des tribus des plaines arides, il est considéré comme un grand honneur de retirer une pointe de flèche runique d'une blessure. Elles sont la preuve d'avoir affronté un maître archer et d'en être sorti vivant.'",
+    Dragon_Arrowtips:
+        "Pointes de flèches dragon : 'Pour chaque grand ennemi vaincu, un chef des plaines arides ajoutera une pointe de flèche en dragonite à son couvre-chef. À la fois en signe d'honneur... et d'avertissement.'",
+    Consumable_Enhancer:
+        "Améliorateur consommable : 'Petit jeton utilisé par les artisans du monde entier pour s'échanger des faveurs entre eux. Ils peuvent être utilisés pour faire en sorte qu'un tel artisan [Améliore] une variété de sacs et de parchemins utiles.'",
+    Thiefs_Moneysack: "Bourse de voleurs : 'Un sac caché dans lequel garder en sécurité l'or mal acquis à l'abri des yeux de la loi... ou d'autres mains collantes.'",
+    Seed_Pouch: "Pochette de graines : 'Nouveau ! De vos voisins sympathiques de chez Seed Co.! Nos pochettes de graines tout-en-un garantissent d'augmenter votre récolte toute l'année !'",
+    Runecrafting_Pouch: "Pochette de runologie : 'Cette pochette enchantée crée de l'Essence runique à partir de rien en absorbant l'énergie perdue produite lors de la runologie.'",
+    Alchemists_Bag: "Sac d'alchimiste : 'Une petite pochette contenant des réactifs alchimiques de base conçus pour augmenter l'efficacité d'une potion.'",
+    Thiefs_Moneysack_II: "Bourse de voleurs II : 'Cette sacoche enchantée attire l'or comme un aimant ! Peu importe si cet or vous appartient ou non.'",
+    Seed_Pouch_II: "Pochette de graines II : 'Vr. 2.0 de vos voisins sympathiques chez Seed Co.! Maintenant, moins* susceptible que jamais d'attirer des hordes voraces d'insectes monstrueux !'",
+    Alchemists_Bag_II:
+        "Sac d'alchimiste II : 'Ces réactifs alchimiques rares peuvent considérablement augmenter les effets d'une potion avec peu ou pas d'effets secondaires. Cependant, ils ont un goût horrible.'",
+    Whetstone: "Pierre à aiguiser : 'Une pierre à aiguiser naturelle commune. Des pierres comme celle-ci sont souvent portées par toutes sortes de gens.'",
+    Frostshield_Amulet:
+        "Amulette de bouclier de givre : 'Une amulette sculptée dans le cœur froid d'un Hydra de glace. Sa magie vous accorde une partie du pouvoir de la créature lorsque vous êtes entouré de glace.'",
+    Lightning_Amulet: "Amulette de foudre : 'Amulette de RaZu, Seigneur des Cieux. La rancune de RaZu envers son ennemi glacé vous offre une certaine protection contre la créature.'",
+    FrostSpark_Amulet:
+        "Amulette d'étincelle de givre : 'En satisfaisant la rancune du Seigneur des Cieux avec le sang glacial de l'Hydra de glace, vous avez débloqué le véritable pouvoir de cette amulette.'",
+    Allure_Amulet: "Amulette de séduction : 'Une amulette fabriquée par les Sirènes Brumeuses du grand lac. Il vous suffit de la regarder pour vous sentir endormi.'",
+    Amulet_of_Prayers: "Amulette des prières : 'Il existe de nombreuses formes de culte à Melvor. Certaines d'entre elles consistent à frapper vos ennemis au visage.'",
+    Corundum_Arrowtips:
+        "Pointes de flèches en corindon : 'Des pointes de flèches forgées à partir de métal de corindon sont si tranchantes qu'elles peuvent laisser des blessures débilitantes et persistantes.'",
+    Augite_Arrowtips:
+        "Pointes de flèches en augite : 'On dit que les cristaux d'augite sont toxiques pour les dragons. Même maintenant, on peut trouver des pointes de flèches laissées par des chasseurs en herbe dans la peau de bêtes plus anciennes.'",
+    Divine_Arrowtips:
+        "Pointes de flèches divines : 'Des pointes de flèches fabriquées à partir d'un métal dont on dit qu'il est d'origine divine. Quelle que soit la vérité, aucune peau ni aucune armure n'a été trouvée qu'elles ne peuvent pas perforer.'",
+    Artisan_Pouch: "Pochette d'artisan : 'Une petite pochette remplie de divers fournitures dont pourrait avoir besoin un artisan pour son prochain projet.'",
+    Artisan_Pouch_II:
+        "Pochette d'artisan II : 'Contient un petit gnome nommé Bob qui améliore magiquement vos créations lorsque vous ne regardez pas. Ne mettez simplement pas votre main à l'intérieur ; il mord.'",
+    Kindling_Pouch:
+        "Pochette d'allume-feu : 'Les artisans trouvent les cendres produites par la combustion de cette allume-feu spécial exceptionnellement précieuses. Les flammes qu'il produit sont d'un brillant doré.'",
+    Kindling_Pouch_II:
+        "Pochette d'allume-feu II : 'Lorsqu'il est brûlé dans une flamme suffisamment chaude, cet allume-feu spécial produit des flocons dorés qui peuvent être vendus à un prix élevé.'",
+    Stamina_Pouch:
+        "Pochette d'endurance : 'Une petite pochette de pilules blanches censées augmenter l'endurance et accroître l'agilité. Attention, si vous vous retrouvez sur le parcours d'obstacles pendant plus de 4 heures, consultez un médecin.'",
+    Spirit_Bag: "Sac d'esprit : 'Alchimie-en-sac ! Insérez un objet et quelques runes à l'intérieur, secouez-le et sortez une réplique en or massif !'",
+    Chefs_Bag:
+        "Sac de chef : 'Ce sac résistant à la chaleur se fixe sur le côté d'une cuisinière, permettant un accès facile à toutes les épices et aux ingrédients dont un chef a besoin pour créer son chef-d'œuvre.'",
+    Summoners_Bag:
+        "Sac de summoner : 'Un petit sac utilisé par les ritualistes lors des cérémonies d'invocation. Il peut concentrer et diriger l'énergie d'une manière qui augmente les effets du processus d'invocation.'"
 };

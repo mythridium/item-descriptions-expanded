@@ -53,6 +53,8 @@ export class App {
     }
 
     private patchDataModification() {
+        const that = this;
+
         this.context.patch(Item, 'applyDataModification').after(function (_patch, modData) {
             if (modData.expandedDescription !== undefined) {
                 this._expandedDescription = modData.expandedDescription;
@@ -60,28 +62,51 @@ export class App {
         });
 
         this.context.patch(Item, 'hasDescription').get(function (patch) {
-            const hasDescription = patch();
+            if (patch()) {
+                return true;
+            }
 
-            return hasDescription || this._expandedDescription !== undefined;
+            if (this instanceof EquipmentItem && this.modifiers !== undefined) {
+                return false;
+            }
+
+            return this._expandedDescription !== undefined;
         });
 
         this.context.patch(Item, 'description').get(function (patch) {
-            let description = patch();
-
-            if (this._expandedDescription) {
-                // no item description
-                if (description === loadedLangJson['BANK_STRING_38']) {
-                    description = '';
-                }
-
-                if (description) {
-                    description += `<br /><br />`;
-                }
-
-                description += `<span class="ide fc">${getLangString(`IDE_${this.localID}`)}</span>`;
+            if (this instanceof PotionItem || this instanceof EquipmentItem || this instanceof TokenItem) {
+                return patch();
             }
 
-            return description;
+            return that.getItemDescription(this, patch);
         });
+
+        this.context.patch(EquipmentItem, 'description').get(function (patch) {
+            return that.getItemDescription(this, patch);
+        });
+
+        this.context.patch(PotionItem, 'description').get(function (patch) {
+            return that.getItemDescription(this, patch);
+        });
+
+        this.context.patch(TokenItem, 'description').get(function (patch) {
+            return that.getItemDescription(this, patch);
+        });
+    }
+
+    private getItemDescription(item: Item, patch: () => string) {
+        let description = patch();
+
+        if (item._expandedDescription) {
+            description = description.replace(loadedLangJson['BANK_STRING_38'], '');
+
+            if (description) {
+                description += `<br /><br />`;
+            }
+
+            description += `<span class="ide fc">${getLangString(`IDE_${item.localID}`)}</span>`;
+        }
+
+        return description;
     }
 }

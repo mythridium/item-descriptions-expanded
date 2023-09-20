@@ -35,10 +35,10 @@ export const it = {
     Elite_Amulet_of_Ranged: 'Il Bandito Fischiettante una volta usava questo amuleto per abbattere una nave pirata intera... con una sola freccia.',
     Elite_Amulet_of_Magic: "Gli dei hanno limitato questo dopo che un incantatore l'ha usato per crearne uno migliore. Poi ha usato quello per crearne uno ancora migliore. E ancora, e ancora.",
     Elite_Amulet_of_Glory: "Quando la tua gloria è più gloriosa di quella dell'altro tipo.",
-    Amulet_of_Fury: 'Ogni perla di questo amuleto è la squama lucidata di un drago antico, e il gioiello rosso è il fuoco di drago cristallizzato.',
-    Amulet_of_Torture: 'Un amuleto usato da una misteriosa setta in rituali profani. Puoi sentire le anime dei morti intrappolate emanare dal gioiello al suo centro.',
+    Amulet_of_Fury: 'Ogni perla di questo amuleto è la squama lucidata di un drago antico, mentre il gioiello rosso è il fuoco di drago cristallizzato.',
+    Amulet_of_Torture: "Un'amuleto usato da una misteriosa setta in rituali profani. Puoi sentire le anime dei morti intrappolate emanare dalla gemma al centro.",
     Fury_of_the_Elemental_Zodiac:
-        'Le Scale di Malcs sono potenti reagenti magici. Dopo aver assorbito il potere di diversi amuleti magici potenti, questo Amuleto ha ottenuto un potere non destinato alle mani mortali. - <span class="ide fsi">"Unendo i tuoi poteri! Sono OP!"</span>',
+        'Le Scaglie di Malcs sono potenti reagenti magici. Dopo aver assorbito l\'energia di diverse amuleti magici potenti, questo amuleto ha ottenuto un potere non destinato alle mani mortali. - <span class="ide fsi">"Unendo i vostri poteri! Sono imbattibile!"</span>',
     Amulet_of_Looting: 'Indossarlo ti segna come il Capo dei ragni Pigmei. Costringili a depositare le tue cose.',
     Bone_Necklace: 'Questo collare è stato creato da un negromante stanco di pulire i suoi pasticci. Così ha fatto in modo che i suoi pasticci si pulissero da soli.',
     Burning_Amulet_of_Gold: "Un amuleto incantato donato a te da uno spirito del fuoco. Mentre le fiamme si spengono, puoi individuare fiocchi d'oro tra le ceneri.",
@@ -79,5 +79,53 @@ export const it = {
     Palladium_Runestone_Necklace: 'Il gioiello magico può preservare i materiali in una bolla temporale, impedendo il deterioramento e aumentandone il valore.',
     Iridium_Zephyte_Necklace: 'Una collana divina donata a coloro che combattono i titani. Che i tuoi piedi non vacillino mai.',
     Palladium_Zephyte_Necklace: 'Creato per abbattere i potenti, la magia di questo amuleto divino servirà a equilibrare il campo di battaglia quando si combattono bestie leggendarie.',
-    Poison_Lifesteal_Amulet: 'Qualsiasi cosa può essere una medicina nella giusta dose. Anche il veleno.'
+    Poison_Lifesteal_Amulet: 'Qualsiasi cosa può essere una medicina nella giusta dose. Anche il veleno.',
+    Headless_Arrows: "Piume: 'Frecce piumate pronte per essere appuntite. L'arte della piumatura è antica quanto il tempo.'",
+    Feathers: "Piume: 'Piume pulite provenienti da varie creature alate. Pronte per frecce al volo, o da infondere in pozioni.'",
+    Headless_Bolts:
+        "Balestre di ferro: 'Balestre di ferro progettate per adattarsi a una varietà di meccanismi di sparo. Le punte sono modellate per attaccare facilmente schegge di gemme, aumentandone notevolmente la potenza.'",
+    Arrow_Shafts: "Aste per frecce: 'Diversi tipi di legno possono essere trasformati in aste per frecce, anche se i legni di alta qualità tendono a dare risultati migliori.'",
+    Bronze_Arrowtips: "Punte di freccia in bronzo: 'Punte di freccia forgiate in bronzo. Il bronzo può essere morbido, ma lo sono anche i punti deboli del tuo nemico.'",
+    Iron_Arrowtips: "Punte di freccia in ferro: 'Realizzate con il ferro estratto in abbondanza dalle montagne orientali, queste punte di freccia sono tra le più popolari a Melvor.'",
+    Steel_Arrowtips: "Punte di freccia in acciaio: 'L'acciaio temprato conferisce a queste punte di freccia un'eccezionale potenza di penetrazione, rendendole popolari tra banditi ed avventurieri.'",
+    Mithril_Arrowtips: "Punte di freccia in mithril: 'Gli arcieri delle Isole Sacre preferiscono il mithril sopra ogni altra cosa per la sua eccezionale capacità di condurre il potere sacro.'",
+    Adamant_Arrowtips: "Punte di freccia in adamantio: 'Le punte di freccia in adamantio sono così preziose tra le tribù delle Arid Plains, che a volte vengono usate al posto delle monete.'",
+    Rune_Arrowtips:
+        "Punte di freccia runiche: 'Tra i membri delle tribù delle Arid Plains, è considerato un grande onore estrarre una punta di freccia runica da una ferita. Sono la prova di aver affrontato un maestro arciere e di essere sopravvissuti per raccontare la storia.'",
+    Dragon_Arrowtips:
+        "Punte di freccia di Dragonite: 'Per ogni grande nemico ucciso, un capo delle Arid Plains aggiungerà una punta di freccia di Dragonite al proprio copricapo. Sia come segno d'onore... che come avvertimento.'",
+    Consumable_Enhancer:
+        "Potenziatore consumabile: 'Piccolo gettone usato dai Maestri di mestiere di tutto il mondo per scambiarsi favori tra di loro. Questi possono essere usati per far sì che uno di questi artigiani [Aggiorni] una varietà di sacche e pergamene utili.'",
+    Thiefs_Moneysack: "Sacchetto di denaro dei ladri: 'Una bisaccia nascosta in cui conservare l'oro illecitamente ottenuto al riparo dagli occhi della legge... o dalle altre dita appiccicose.'",
+    Seed_Pouch: "Sacca di semi: 'Nuova! Dai tuoi amichevoli vicini alla Seed Co.! Le nostre sacche di semi tutto-in-uno sono garantite per aumentare il tuo raccolto tutto l'anno!'",
+    Runecrafting_Pouch: "Sacca per l'arte delle rune: 'Questa sacca incantata crea Essenza di Rune dal nulla assorbendo l'energia sprecata prodotta durante la creazione delle rune.'",
+    Alchemists_Bag: "Sacca degli alchimisti: 'Una piccola sacca di reagenti alchemici di base progettati per aumentare l'efficacia di una pozione.'",
+    Thiefs_Moneysack_II: "Borsa dei ladri II: 'Questa bisaccia incantata attira l'oro come un magnete! Indipendentemente dal fatto che detto oro ti appartenga o meno.'",
+    Seed_Pouch_II: "Sacca di semi II: 'Vr. 2.0 dai tuoi amichevoli vicini alla Seed Co.! Ora meno* probabile che attragga orde di insetti mostruosi!'",
+    Alchemists_Bag_II:
+        "Sacca degli alchimisti II: 'Questi rari reagenti alchemici possono aumentare drasticamente gli effetti di una pozione con pochi o nessun effetto collaterale. Tuttavia, hanno un sapore orribile.'",
+    Whetstone: "Cote: 'Una cote naturale comune. Pietre come questa sono spesso portate da tutti i tipi di persone.'",
+    Frostshield_Amulet:
+        "Amuleto dello scudo di ghiaccio: 'Un amuleto intagliato dal cuore freddo di un Idra di Ghiaccio. La sua magia ti concede parte del potere della creatura quando sei circondato dal ghiaccio.'",
+    Lightning_Amulet: "Amuleto del Fulmine: 'Amuleto di RaZu, Signore dei Cieli. Il rancore di RaZu contro il suo nemico ghiacciato ti offre una certa protezione dalla creatura.'",
+    FrostSpark_Amulet: "Amuleto Scintilla di Ghiaccio: 'Saziando il rancore del Signore del Cielo con il sangue gelido dell'Idra di Ghiaccio, hai sbloccato il vero potere di questo amuleto.'",
+    Allure_Amulet: "Amuleto dell'Attrazione: 'Un amuleto creato dalle Sirene Nebbiose del grande lago. Basta guardarlo per sentirsi soporiferi.'",
+    Amulet_of_Prayers: "Amuleto delle Preghiere: 'Esistono molte forme di culto a Melvor. Alcune di esse includono colpire i tuoi nemici in faccia.'",
+    Corundum_Arrowtips: "Punte di freccia di corindone: 'Punte di freccia forgiate in metallo di corindone sono così affilate che possono lasciare ferite debilitanti e durature.'",
+    Augite_Arrowtips:
+        "Punte di freccia di Augite: 'Si dice che i cristalli di Augite siano velenosi per i draghi. Ancora oggi, è possibile trovare punte di freccia lasciate da cacciatori aspiranti nelle pelli di bestie più vecchie.'",
+    Divine_Arrowtips:
+        "Punte di freccia divine: 'Punte di freccia fatte di un metallo di cui si vocifera essere di origine divina. Qualunque sia la verità, non è stata trovata pelle né armatura che non possano trapassare.'",
+    Artisan_Pouch: "Sacca dell'artigiano: 'Una piccola sacca piena di forniture varie che potrebbero servire a qualsiasi artigiano per il suo prossimo progetto.'",
+    Artisan_Pouch_II: "Sacca dell'artigiano II: 'Contiene un piccolo Gnomo di nome Bob che migliora magicamente le tue creazioni quando non stai guardando. Ma non mettere la mano dentro; morde.'",
+    Kindling_Pouch:
+        "Sacca di Accendini: 'Gli artigiani trovano eccezionalmente preziose le ceneri prodotte dalla combustione di questo legno da accendino speciale. Le fiamme che produce sono di un luminoso colore dorato.'",
+    Kindling_Pouch_II: "Sacca di Accendini II: 'Quando bruciato in una fiamma abbastanza calda, questo legno da accendino speciale produce scaglie d'oro che possono essere vendute a caro prezzo.'",
+    Stamina_Pouch:
+        "Sacchetto di Resistenza: 'Un piccolo sacchetto di pillole bianche che si dice aumentino la resistenza e l'agilità. Attenzione, se ti trovi nel percorso ad ostacoli per più di 4 ore, consulta un medico.'",
+    Spirit_Bag: "Borsa degli Spiriti: 'Alchimia in una borsa! Infila un oggetto e alcune rune all'interno, agita il tutto e tira fuori una replica in oro massiccio!'",
+    Chefs_Bag:
+        "Borsa dello Chef: 'Questa borsa resistente al calore si attacca al fianco di una stufa, permettendo un facile accesso a tutte le spezie e gli ingredienti di cui uno chef ha bisogno per creare il suo capolavoro.'",
+    Summoners_Bag:
+        "Borsa degli Evocatori: 'Una piccola borsa usata dai Ritualisti durante le cerimonie di evocazione. Può concentrare e dirigere l'energia in modo da aumentare gli effetti del processo di evocazione.'"
 };

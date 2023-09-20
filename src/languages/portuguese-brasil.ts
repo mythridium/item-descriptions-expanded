@@ -35,10 +35,10 @@ export const ptBR = {
     Elite_Amulet_of_Ranged: 'O Bandido Assobiador usou este amuleto para abater um navio pirata inteiro... com uma única flecha.',
     Elite_Amulet_of_Magic: 'Os deuses limitaram isso depois que um encantador o usou para criar um melhor. Então ele usou isso para fazer um ainda melhor. E de novo, e de novo.',
     Elite_Amulet_of_Glory: 'Quando sua glória é mais gloriosa do que a do outro cara.',
-    Amulet_of_Fury: 'Cada conta deste amuleto é a escama polida de um dragão antigo, e a gema vermelha, fogo de dragão cristalizado.',
-    Amulet_of_Torture: 'Um amuleto usado por um culto misterioso em rituais profanos. Você pode ouvir almas dos mortos aprisionados emanando da gema no centro.',
+    Amulet_of_Fury: 'Cada conta deste amuleto é a escama polida de um dragão antigo, enquanto a gema vermelha é o fogo de dragão cristalizado.',
+    Amulet_of_Torture: 'Um amuleto usado por uma seita misteriosa em rituais profanos. Você pode ouvir almas dos mortos presas emanando da gema em seu centro.',
     Fury_of_the_Elemental_Zodiac:
-        'As Escamas de Malcs são poderosos reagentes mágicos. Após absorver o poder de vários amuletos mágicos poderosos, este Amuleto obteve poder não destinado às mãos mortais. - <span class="ide fsi">"Com seus poderes combinados! Eu sou OP!"</span>',
+        'As Escamas de Malcs são reagentes mágicos potentes. Após absorver a energia de vários amuletos mágicos poderosos, este amuleto adquiriu poder não destinado a mãos mortais. - <span class="ide fsi">"Unindo seus poderes! Sou invencível!"</span>',
     Amulet_of_Looting: 'Usar isso marca você como o Chefe das aranhas Pigmeus. Força-os a guardar suas coisas.',
     Bone_Necklace: 'Este colar foi criado por um necromante que se cansou de limpar suas bagunças. Então ele fez suas bagunças se limparem.',
     Burning_Amulet_of_Gold: 'Um amuleto encantado presenteado por um espírito do fogo. Conforme as chamas morrem, você pode ver fragmentos de ouro entre as cinzas.',
@@ -76,5 +76,47 @@ export const ptBR = {
     Palladium_Runestone_Necklace: 'A gema mágica pode preservar materiais em uma bolha temporal, impedindo a deterioração e aumentando seu valor.',
     Iridium_Zephyte_Necklace: 'Um colar divino presenteado àqueles que lutariam contra titãs. Que seus pés nunca vacilem.',
     Palladium_Zephyte_Necklace: 'Criado para derrubar os poderosos, a magia deste amuleto divino servirá para nivelar o campo de batalha ao enfrentar bestas lendárias.',
-    Poison_Lifesteal_Amulet: 'Qualquer coisa pode ser remédio na dose certa. Até mesmo veneno.'
+    Poison_Lifesteal_Amulet: 'Qualquer coisa pode ser remédio na dose certa. Até mesmo veneno.',
+    Headless_Arrows: 'Flechas empenadas prontas para serem pontiagudas. A arte de empenar é tão antiga quanto o tempo.',
+    Feathers: 'Penas limpas de várias criaturas aladas. Prontas para flechas ou para serem preparadas em poções.',
+    Headless_Bolts:
+        'Setas de besta de ferro projetadas para se encaixarem em uma variedade de mecanismos de disparo. As pontas são feitas para se fixarem facilmente em fragmentos de gemas, aumentando muito seu poder.',
+    Arrow_Shafts: 'Vários tipos de madeira podem ser transformados em hastes de flechas, embora madeiras de maior qualidade geralmente apresentem melhores resultados.',
+    Bronze_Arrowtips: 'Pontas de flecha forjadas em bronze. O bronze pode ser macio, mas as partes macias de seu inimigo também são.',
+    Iron_Arrowtips: 'Feitas do ferro extraído em abundância das montanhas do leste, essas pontas de flecha são algumas das mais populares em Melvor.',
+    Steel_Arrowtips: 'O aço endurecido confere a essas pontas de flecha um poder de penetração excepcional, tornando-as populares entre bandidos e aventureiros.',
+    Mithril_Arrowtips: 'Os arqueiros das Ilhas Sagradas preferem o mithril acima de tudo por sua excepcional capacidade de conduzir o poder sagrado.',
+    Adamant_Arrowtips: 'As pontas de flecha de adamantio são tão valorizadas entre as tribos das Planícies Áridas que às vezes são usadas em vez de moedas.',
+    Rune_Arrowtips:
+        'Entre os membros das tribos das Planícies Áridas, é considerada uma grande honra retirar uma ponta de flecha rúnica de uma ferida. Elas são prova de enfrentar um arqueiro mestre e sobreviver para contar a história.',
+    Dragon_Arrowtips:
+        'Para cada grande inimigo abatido, um Chefe das Planícies Áridas adicionará uma Ponta de Flecha de Dragonite à sua peça de cabeça. Tanto como sinal de honra... quanto como um aviso.',
+    Consumable_Enhancer:
+        'Pequena ficha usada por Artesãos de todo o mundo para trocar favores entre eles. Elas podem ser usadas para ter um desses Artesãos [Aprimorar] uma variedade de Bolsas e Pergaminhos úteis.',
+    Thiefs_Moneysack: 'Uma bolsa oculta para guardar ouro adquirido ilegalmente, longe dos olhos da lei... ou de dedos ágeis.',
+    Seed_Pouch: 'Novidade! Dos seus vizinhos amigáveis da Seed Co.! Nossas Bolsas de Sementes tudo-em-um garantem um aumento na produção de colheitas o ano todo!',
+    Runecrafting_Pouch: 'Esta bolsa encantada cria Essência Rúnica do nada, absorvendo a energia residual produzida durante a Criação de Runas.',
+    Alchemists_Bag: 'Uma pequena bolsa de reagentes alquímicos básicos projetada para aumentar a eficácia de uma poção.',
+    Thiefs_Moneysack_II: 'Esta bolsa encantada atrai ouro como um ímã! Independentemente de esse ouro pertencer a você ou não.',
+    Seed_Pouch_II: 'Versão 2.0 dos seus vizinhos amigáveis da Seed Co.! Agora menos* propenso do que nunca a atrair hordas vorazes de insetos monstruosos!',
+    Alchemists_Bag_II: 'Esses raros reagentes alquímicos podem aumentar drasticamente os efeitos de uma poção com poucos ou nenhum efeito colateral. No entanto, eles têm um gosto horrível.',
+    Whetstone: 'Uma pedra de afiar natural comum. Pedras como esta são frequentemente carregadas por todos os tipos de pessoas.',
+    Frostshield_Amulet: 'Um Amuleto esculpido do coração frio de uma Hidra de Gelo. Sua magia concede a você parte do poder da criatura quando cercado por gelo.',
+    Lightning_Amulet: 'Amuleto de RaZu, Senhor dos Céus. A rixa de RaZu contra seu adversário gélido oferece alguma proteção contra a criatura.',
+    FrostSpark_Amulet: 'Ao saciar a rixa do Senhor dos Céus com o sangue gélido da Hidra de Gelo, você desbloqueou o verdadeiro poder deste amuleto.',
+    Allure_Amulet: 'Um amuleto criado pelas Sereias Nebulosas do grande lago. A simples visão dele faz você sentir sono.',
+    Amulet_of_Prayers: 'Existem muitas formas de adoração em Melvor. Algumas delas incluem atingir seus inimigos no rosto.',
+    Corundum_Arrowtips: 'Pontas de flecha forjadas em metal de Corundum são tão afiadas que podem deixar feridas debilitantes e duradouras.',
+    Augite_Arrowtips:
+        'Diz-se que cristais de Augite são venenosos para dragões. Mesmo agora, pontas de flechas deixadas por caçadores em potencial podem ser encontradas nas peles de feras mais antigas.',
+    Divine_Arrowtips: 'Pontas de flecha feitas de um metal que se diz ser de origem Divina. Seja qual for a verdade, não foi encontrada pele nem armadura que elas não possam perfurar.',
+    Artisan_Pouch: 'Uma pequena bolsa cheia de vários suprimentos que qualquer Artesão pode precisar para seu próximo projeto.',
+    Artisan_Pouch_II: 'Contém um pequeno Gnome chamado Bob que melhora magicamente suas criações quando você não está olhando. Apenas não coloque sua mão dentro; ele morde.',
+    Kindling_Pouch: 'Artífices acham as cinzas produzidas pela queima deste tipo de lenha excepcionalmente valiosas. As chamas que ela produz são de um dourado brilhante.',
+    Kindling_Pouch_II: 'Quando queimada em uma chama suficientemente quente, esta lenha especial produz flocos dourados que podem ser vendidos por um preço alto.',
+    Stamina_Pouch:
+        'Uma pequena bolsa de pílulas brancas que se diz aumentar a resistência e aumentar a agilidade. Aviso: se você ficar na pista de obstáculos por mais de 4 horas, consulte um médico.',
+    Spirit_Bag: 'Alquimia-em-uma-bolsa! Coloque um objeto e algumas runas dentro, agite-o e puxe uma réplica de ouro maciço!',
+    Chefs_Bag: 'Esta bolsa à prova de calor se prende ao lado de um fogão, permitindo fácil acesso a todas as especiarias e ingredientes de que um chef precisa para criar sua obra-prima.',
+    Summoners_Bag: 'Uma pequena bolsa usada por Ritualistas durante cerimônias de invocação. Ela pode focar e direcionar energia de maneira que aumenta os efeitos do processo de invocação.'
 };
