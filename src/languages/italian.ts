@@ -111,6 +111,9 @@ export const it = {
     FrostSpark_Amulet: "Amuleto Scintilla di Ghiaccio: 'Saziando il rancore del Signore del Cielo con il sangue gelido dell'Idra di Ghiaccio, hai sbloccato il vero potere di questo amuleto.'",
     Allure_Amulet: "Amuleto dell'Attrazione: 'Un amuleto creato dalle Sirene Nebbiose del grande lago. Basta guardarlo per sentirsi soporiferi.'",
     Amulet_of_Prayers: "Amuleto delle Preghiere: 'Esistono molte forme di culto a Melvor. Alcune di esse includono colpire i tuoi nemici in faccia.'",
+    Voodoo_Trinket: 'Una piccola effigie di paglia usata dagli occultisti per lanciare maledizioni. Puoi giurare di vedere qualcosa muoversi al suo interno se guardi abbastanza a lungo.',
+    Amulet_of_Curse_Totem_Summon:
+        "Uno Spirito Supremo è stato una volta diviso in tre parti da un malvagio Nercromante. Questo Amuleto è stato creato dal suo corpo. Chiunque incontri il suo sguardo sarà maledetto per l'eternità.",
     Corundum_Arrowtips: "Punte di freccia di corindone: 'Punte di freccia forgiate in metallo di corindone sono così affilate che possono lasciare ferite debilitanti e durature.'",
     Augite_Arrowtips:
         "Punte di freccia di Augite: 'Si dice che i cristalli di Augite siano velenosi per i draghi. Ancora oggi, è possibile trovare punte di freccia lasciate da cacciatori aspiranti nelle pelli di bestie più vecchie.'",

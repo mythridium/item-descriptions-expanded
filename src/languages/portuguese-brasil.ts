@@ -106,6 +106,9 @@ export const ptBR = {
     FrostSpark_Amulet: 'Ao saciar a rixa do Senhor dos Céus com o sangue gélido da Hidra de Gelo, você desbloqueou o verdadeiro poder deste amuleto.',
     Allure_Amulet: 'Um amuleto criado pelas Sereias Nebulosas do grande lago. A simples visão dele faz você sentir sono.',
     Amulet_of_Prayers: 'Existem muitas formas de adoração em Melvor. Algumas delas incluem atingir seus inimigos no rosto.',
+    Voodoo_Trinket: 'Uma pequena efígie de palha usada por ocultistas para lançar maldições. Você pode jurar que vê algo se mexendo dentro dela se olhar por tempo suficiente.',
+    Amulet_of_Curse_Totem_Summon:
+        'Um Grande Espírito foi uma vez dividido em três partes por um Necromante maligno. Este Amuleto foi feito a partir de seu corpo. Qualquer um que encontre o seu olhar será amaldiçoado para a eternidade.',
     Corundum_Arrowtips: 'Pontas de flecha forjadas em metal de Corundum são tão afiadas que podem deixar feridas debilitantes e duradouras.',
     Augite_Arrowtips:
         'Diz-se que cristais de Augite são venenosos para dragões. Mesmo agora, pontas de flechas deixadas por caçadores em potencial podem ser encontradas nas peles de feras mais antigas.',

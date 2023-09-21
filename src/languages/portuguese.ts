@@ -107,6 +107,9 @@ export const pt = {
     FrostSpark_Amulet: "Amuleto de Fagulha de Gelo: 'Ao saciar a rixa do Senhor dos Céus com o sangue gelado da Hidra de Gelo, você desbloqueou o verdadeiro poder deste amuleto.'",
     Allure_Amulet: "Amuleto de Encanto: 'Um amuleto feito pelas Sereias Nebulosas do grande lago. Só de olhar para ele você se sente sonolento.'",
     Amulet_of_Prayers: "Amuleto de Orações: 'Existem muitas formas de adoração em Melvor. Algumas delas incluem bater em seus inimigos na cara.'",
+    Voodoo_Trinket: 'Uma pequena efígie de palha usada por ocultistas para lançar maldições. Você pode jurar que vê algo se mexendo dentro dela se olhar por tempo suficiente.',
+    Amulet_of_Curse_Totem_Summon:
+        'Um Grande Espírito foi uma vez dividido em três partes por um Necromante maligno. Este Amuleto foi feito a partir de seu corpo. Qualquer um que encontre o seu olhar será amaldiçoado para a eternidade.',
     Corundum_Arrowtips: "Pontas de flecha de Coríndon: 'Pontas de flecha forjadas em metal de coríndon são tão afiadas que podem deixar feridas debilitantes e duradouras.'",
     Augite_Arrowtips:
         "Pontas de flecha de Augita: 'Diz-se que os cristais de Augita são venenosos para os dragões. Mesmo agora, pontas de flecha deixadas por caçadores em potencial podem ser encontradas nas peles de feras mais antigas.'",

@@ -102,6 +102,9 @@ export const en = {
     FrostSpark_Amulet: "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet.",
     Allure_Amulet: 'An amulet crafted by the Misty Sirens of the great lake. Simply looking at it makes you feel sleepy.',
     Amulet_of_Prayers: 'There are many forms of worship on Melvor. Some of those include hitting your foes in the face.',
+    Voodoo_Trinket: 'A small straw effigy used by occultists to place curses. You can swear you see something squirming within if you stare long enough.',
+    Amulet_of_Curse_Totem_Summon:
+        'A Great Spirit was once split into three parts by an evil Necromancer. This Amulet was crafted from its body. Anyone who meets its gaze will be cursed for eternity.',
     Corundum_Arrowtips: 'Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds.',
     Augite_Arrowtips: 'Augite crystals are said to be poisonous to dragons. Even now, arrowtips left by would-be hunters can be found in the hides of older beasts.',
     Divine_Arrowtips: 'Arrow tips made from a metal rumored to be Divine in origin. Whatever the truth, no hide nor armor has been found that they cannot pierce.',

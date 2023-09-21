@@ -116,6 +116,14 @@
                 "expandedDescription": "There are many forms of worship on Melvor. Some of those include hitting your foes in the face."
             },
             {
+                "id": "melvorTotH:Voodoo_Trinket",
+                "expandedDescription": "A small straw effigy used by occultists to place curses. You can swear you see something squirming within if you stare long enough."
+            },
+            {
+                "id": "melvorTotH:Amulet_of_Curse_Totem_Summon",
+                "expandedDescription": "A Great Spirit was once split into three parts by an evil Necromancer. This Amulet was crafted from its body. Anyone who meets its gaze will be cursed for eternity."
+            },
+            {
                 "id": "melvorTotH:Corundum_Arrowtips",
                 "expandedDescription": "Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds."
             },

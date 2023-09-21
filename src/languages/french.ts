@@ -117,6 +117,10 @@ export const fr = {
         "Amulette d'étincelle de givre : 'En satisfaisant la rancune du Seigneur des Cieux avec le sang glacial de l'Hydra de glace, vous avez débloqué le véritable pouvoir de cette amulette.'",
     Allure_Amulet: "Amulette de séduction : 'Une amulette fabriquée par les Sirènes Brumeuses du grand lac. Il vous suffit de la regarder pour vous sentir endormi.'",
     Amulet_of_Prayers: "Amulette des prières : 'Il existe de nombreuses formes de culte à Melvor. Certaines d'entre elles consistent à frapper vos ennemis au visage.'",
+    Voodoo_Trinket:
+        "Un petit fétiche en paille utilisé par les occultistes pour jeter des malédictions. Vous pouvez jurer que vous voyez quelque chose remuer à l'intérieur si vous regardez assez longtemps.",
+    Amulet_of_Curse_Totem_Summon:
+        "Un Grand Esprit a été autrefois divisé en trois parties par un nécromancien maléfique. Cet amulette a été fabriquée à partir de son corps. Toute personne qui croise son regard sera maudite pour l'éternité.",
     Corundum_Arrowtips:
         "Pointes de flèches en corindon : 'Des pointes de flèches forgées à partir de métal de corindon sont si tranchantes qu'elles peuvent laisser des blessures débilitantes et persistantes.'",
     Augite_Arrowtips:

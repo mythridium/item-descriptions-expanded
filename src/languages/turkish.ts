@@ -102,6 +102,8 @@ export const tr = {
     FrostSpark_Amulet: "Gökyüzü Efendisi'nin düşmanlığını buzlu Hydra'nın soğuk kanı ile doyurarak bu amuletin gerçek gücünü açığa çıkardınız.",
     Allure_Amulet: 'Büyük gölün Sisli Sirenleri tarafından yapılmış bir amulet. Sadece ona bakmak sizi uykulu hissettirir.',
     Amulet_of_Prayers: "Melvor'da birçok tapınma şekli bulunmaktadır. Bunlardan bazıları düşmanlarınıza yüzünüze vurmayı içerir.",
+    Voodoo_Trinket: 'Büyücülerin lanetler koymak için kullandığı küçük bir saman efendisi. Uzun süre yeterince bakarsanız içinde bir şeylerin kıpırdadığını söyleyebilirsiniz.',
+    Amulet_of_Curse_Totem_Summon: 'Büyük Bir Ruh bir zamanlar kötü bir Nekromant tarafından üç parçaya bölündü. Bu Amulet onun bedeninden yapıldı. Bakışına gelen herkes sonsuza dek lanetlenecek.',
     Corundum_Arrowtips: 'Corundum metalinden dövülen ok uçları o kadar keskindir ki sakat bırakan, kalıcı yaralar bırakabilirler.',
     Augite_Arrowtips: 'Augite kristallerinin ejderhalara zehirli olduğu söylenir. Şu anda bile, avcı olmaya çalışanların bıraktığı ok uçları eski yaratıkların derilerinde bulunabilir.',
     Divine_Arrowtips: 'İddialara göre tanrısal kökenli bir metalden yapılmış ok uçları. Gerçek ne olursa olsun, delip geçemedikleri hiçbir deri veya zırh bulunmamıştır.',

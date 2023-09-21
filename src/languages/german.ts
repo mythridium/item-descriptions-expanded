@@ -114,6 +114,10 @@ export const de = {
     FrostSpark_Amulet: "Frostfunkel-Amulett: 'Indem Sie den Groll des Herrn des Himmels mit dem eiskalten Blut des Eis-Hydra besänftigen, haben Sie die wahre Kraft dieses Amuletts freigeschaltet.'",
     Allure_Amulet: "Verlockungs-Amulett: 'Ein Amulett, das von den Nebel-Sirenen des großen Sees gefertigt wurde. Schon das Ansehen lässt Sie schläfrig werden.'",
     Amulet_of_Prayers: "Amulett der Gebete: 'Es gibt viele Formen der Verehrung in Melvor. Einige davon beinhalten das Schlagen Ihrer Feinde ins Gesicht.'",
+    Voodoo_Trinket:
+        'Ein kleines Strohpüppchen, das von Okkultisten verwendet wird, um Flüche zu legen. Du kannst schwören, dass du etwas darin siehst, das sich bewegt, wenn du lange genug hinsiehst.',
+    Amulet_of_Curse_Totem_Summon:
+        'Ein Großer Geist wurde einst von einem bösen Nekromanten in drei Teile gespalten. Dieses Amulett wurde aus seinem Körper gefertigt. Jeder, der seinen Blick trifft, wird für die Ewigkeit verflucht sein.',
     Corundum_Arrowtips: "Korund-Pfeilspitzen: 'Pfeilspitzen aus Korund-Metall sind so scharf, dass sie verheerende, anhaltende Wunden hinterlassen können.'",
     Augite_Arrowtips:
         "Augit-Pfeilspitzen: 'Man sagt, dass Augit-Kristalle für Drachen giftig sind. Selbst jetzt können Pfeilspitzen von angehenden Jägern in den Häuten älterer Bestien gefunden werden.'",

@@ -107,6 +107,9 @@ export const es = {
     FrostSpark_Amulet: 'Al saciar el resentimiento del Señor del Cielo con la sangre helada de la Hidra de Hielo, has desbloqueado el verdadero poder de este amuleto.',
     Allure_Amulet: 'Un amuleto creado por las Sirenas Brumosas del gran lago. Solo con mirarlo te hace sentir somnoliento.',
     Amulet_of_Prayers: 'En Melvor hay muchas formas de adoración. Algunas de ellas incluyen golpear a tus enemigos en la cara.',
+    Voodoo_Trinket: 'Una pequeña efigie de paja utilizada por ocultistas para lanzar maldiciones. Puedes jurar que ves algo retorcerse en su interior si miras el tiempo suficiente.',
+    Amulet_of_Curse_Totem_Summon:
+        'Un Gran Espíritu fue una vez dividido en tres partes por un malvado Nigromante. Este Amuleto fue creado a partir de su cuerpo. Cualquiera que se encuentre con su mirada será maldito por la eternidad.',
     Corundum_Arrowtips: 'Las puntas de flecha forjadas en metal corindón son tan afiladas que pueden dejar heridas debilitantes y duraderas.',
     Augite_Arrowtips: 'Se dice que los cristales augita son venenosos para los dragones. Incluso ahora, se pueden encontrar puntas de flecha dejadas por cazadores en la piel de bestias más antiguas.',
     Divine_Arrowtips: 'Puntas de flecha hechas de un metal que se rumorea que es de origen divino. Sea cual sea la verdad, no se ha encontrado piel ni armadura que no puedan atravesar.',
