@@ -41,7 +41,7 @@ Import and add the new volume to `data/volumes/index.mts`
 
 Run the `npm run generate` command to automatically generate the `json` and `english` translation files.
 
-No grab the english key/values and feed them through Chat-GPT to update all the other languages. ()
+Now grab the english key/values and feed them through Chat-GPT to update all the other languages.
 
 ### Setup
 - Fork this git repo
