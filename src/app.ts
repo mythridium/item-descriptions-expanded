@@ -1,4 +1,3 @@
-import { languages } from './languages';
 import './app.scss';
 
 declare global {
@@ -23,7 +22,7 @@ export class App {
 
     public async init() {
         this.patchDataModification();
-        this.addTranslations();
+        await this.addTranslations();
 
         await this.loadDescriptions();
     }
@@ -40,14 +39,32 @@ export class App {
         }
     }
 
-    private addTranslations() {
+    private async addTranslations() {
         let lang = setLang;
 
         if (lang === 'lemon' || lang === 'carrot') {
             lang = 'en';
         }
 
-        for (const [key, value] of Object.entries<string>(languages[lang])) {
+        const languages = {
+            en: 'english',
+            'zh-CN': 'chinese-simplified',
+            'zh-TW': 'chinese-traditional',
+            fr: 'french',
+            de: 'german',
+            it: 'italian',
+            ko: 'korean',
+            ja: 'japanese',
+            pt: 'portuquese',
+            'pt-br': 'portuguese-brasil',
+            es: 'spanish',
+            ru: 'russian',
+            tr: 'turkish'
+        };
+
+        const { language } = await this.context.loadModule(`${languages[lang]}.mjs`);
+
+        for (const [key, value] of Object.entries<string>(language)) {
             loadedLangJson[`IDE_${key}`] = value;
         }
     }

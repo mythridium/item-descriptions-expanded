@@ -302,6 +302,78 @@
             {
                 "id": "melvorTotH:Burning_Reel",
                 "expandedDescription": "A strange fishing line made of an unknown material. It appears mundane at first, but when soaked in water, it will ignite on contact with open air."
+            },
+            {
+                "id": "melvorTotH:Pure_Essence",
+                "expandedDescription": "The Academia Arcanum was built atop the purest vein of magic known to Melvor. The essence mined here is so concentrated, even the gemstones have become something else."
+            },
+            {
+                "id": "melvorTotH:Corundumite_Ore",
+                "expandedDescription": "This ore was once thought useless, until a innovative technique by a young blacksmith unlocked its true potential. The gold-rush that followed made many men, and broke many more."
+            },
+            {
+                "id": "melvorTotH:Iridium_Ore",
+                "expandedDescription": "Wars have been fought over small deposits of this mineral. In modern times, deposits, both known and unknown are considered the exclusive property of the Crown."
+            },
+            {
+                "id": "melvorTotH:Palladium_Ore",
+                "expandedDescription": "The few location where this rare, magically conductive metal can be can be found are jealously guarded. More so is the method to properly work it."
+            },
+            {
+                "id": "melvorTotH:Augite_Ore",
+                "expandedDescription": "Augite crystals are known as the \"growing stone\" for its ability to propagate itself. While a slow process, crystals still need to be regularly culled, lest they eat into other ore deposits."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Ore",
+                "expandedDescription": "What happens with a star dies? This ore is filled with vast amounts of Celestial power, but only those who regularly study the heavens have any hope of ever finding it."
+            },
+            {
+                "id": "melvorTotH:Divinite_Ore",
+                "expandedDescription": "No one quite knows where this ore comes from. It appears seemingly at random in abandon mines otherwise long empty. Over time, people just attributed it to the whim of the gods."
+            },
+            {
+                "id": "melvorTotH:Iridium_Bar",
+                "expandedDescription": "Iridium's ability to amplify forces, both magical and mundane, makes it exceedingly valuable. So much so that trade between nations is done in iridium rather than gold."
+            },
+            {
+                "id": "melvorTotH:Corundumite_Bar",
+                "expandedDescription": "When properly worked, Corundumite weapons can produce a magical blade so sharp that they can cut through any defense and leave debilitating wounds."
+            },
+            {
+                "id": "melvorTotH:Palladium_Bar",
+                "expandedDescription": "Palladium is prized for its ability to conduct magical energy and is theorized to the be the key in many lost technologies. Scholars are only now relearning its secrets."
+            },
+            {
+                "id": "melvorTotH:Augite_Bar",
+                "expandedDescription": "A wound from an Augite blade can turn a man into crystal in hours, while Augite armor has the ability to \"regrow\" if given enough time, giving it the nickname of the \"living metal.\""
+            },
+            {
+                "id": "melvorTotH:Meteorite_Bar",
+                "expandedDescription": "These Celestial Bars have strange properties that aren't fully understood. One moment they are light enough to float, the next, so heavy that they sink into the earth."
+            },
+            {
+                "id": "melvorTotH:Divinite_Bar",
+                "expandedDescription": "It was once thought that only gods could work this metal. Now it is mortal hands that make the miracles into reality. Go forth and create Legends."
+            },
+            {
+                "id": "melvorTotH:Onyx",
+                "expandedDescription": "This midnight black gem has an odd affinity to magical energy, and can be used to generate powerful shields... or break through them."
+            },
+            {
+                "id": "melvorTotH:Oricha",
+                "expandedDescription": "A purple gem that glows with an inner light. This gem's ability to absorb and direct energy makes it a powerful focus for a wide range of pursuits."
+            },
+            {
+                "id": "melvorTotH:Cerulean",
+                "expandedDescription": "The intense, pure energy that radiates from this rare gem reacts with biological life in strange ways. Correctly controlled, is a key piece of many powerful healing enchantments."
+            },
+            {
+                "id": "melvorTotH:Runestone",
+                "expandedDescription": "A more common gem transformed by the presence of Pure Runestone. While not as specialized as other gems, Runestone is by-far the more versatile."
+            },
+            {
+                "id": "melvorTotH:Zephyte",
+                "expandedDescription": "A gemstone so rare it is often called a myth. Enchantments created with this gem as their focus contain devastating, almost divine, power."
             }
         ]
     }

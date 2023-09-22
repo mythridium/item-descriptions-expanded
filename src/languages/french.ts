@@ -1,4 +1,4 @@
-export const fr = {
+export const language = {
     Bronze_Arrows: 'Flèches communes avec une pointe en bronze. Pointues !',
     Iron_Arrows: 'Flèches communes avec une pointe en fer. Lourdes !',
     Steel_Arrows: 'Flèches bien fabriquées avec une pointe en acier. Les bandits à travers Melvor les adorent.',
@@ -422,5 +422,88 @@ export const fr = {
     Golden_Reel:
         "Tissée à partir des cheveux et des écailles d'une Sirène, cette ligne de pêche dorée-rouge attire les poissons même sans appât. Cependant, méfiez-vous, sinon vous tomberez vous aussi sous son charme.",
     Burning_Reel:
-        "Une étrange ligne de pêche faite d'un matériau inconnu. Elle semble banale au premier abord, mais lorsqu'elle est trempée dans l'eau, elle s'enflamme au contact de l'air."
+        "Une étrange ligne de pêche faite d'un matériau inconnu. Elle semble banale au premier abord, mais lorsqu'elle est trempée dans l'eau, elle s'enflamme au contact de l'air.",
+    Miners_Helmet:
+        'Portez toujours votre équipement de protection individuelle pour votre propre sécurité. Si ça commence à vous parler, ignorez-le. Ce ne sont que les vapeurs de la grotte.',
+    Rune_Essence:
+        "La magie sous sa forme la plus pure. Ces 'pierres' sont de l'énergie magique condensée qui n'a pas encore été canalisée à travers l'art de la runecraft.",
+    Copper_Ore:
+        "Minerai de cuivre commun de la chaîne de montagnes centrale. Il a de nombreuses utilisations populaires, mais il est le plus souvent allié avec de l'étain pour créer du bronze.",
+    Tin_Ore:
+        'Les montagnes centrales de Melvor détiennent les veines les plus riches et les plus pures de minerai au monde. Allié avec du cuivre de ces mêmes montagnes, il crée un bronze supérieur.',
+    Iron_Ore:
+        "Les montagnes de l'est du Melvor central contiennent de vastes veines de fer et de charbon. C'est grâce à cette ressource que la capitale est restée le siège du pouvoir pendant des siècles.",
+    Coal_Ore:
+        "On dit que le charbon extrait de la chaîne de montagnes de l'est brûle deux fois plus longtemps et trois fois plus chaud. D'autres prétendent que ce ne sont que de la propagande de la part de la capitale.",
+    Silver_Ore:
+        "Loin à l'ouest, au-delà des côtes de l'Académie Arcanum, se trouve une chaîne de montagnes faite d'argent pur. Du moins, c'est ce que prétendent les marchands de minerai.",
+    Gold_Ore:
+        "La plus grande mine d'or du monde se trouve sous les Pics Périlleux. Beaucoup ont essayé de revendiquer ses richesses. La plupart ont été mangés par les dragons.",
+    Mithril_Ore:
+        "La seule mine de mithril jamais découverte se trouvait sur les 'Iles Saintes'. Ce minerai précieux a fait de cette petite nation à la fois l'une des puissances mondiales... et une cible.",
+    Adamantite_Ore:
+        "De petites grains d'adamantite peuvent être extraits des sables des plaines arides et de son nord désolé. On raconte qu'il existe une grande mine quelque part sous les sables.",
+    Runite_Ore:
+        'On ne le trouve que dans les terres gelées du sud, on dit que ce minerai est la raison pour laquelle Glacia a construit sa ville dans une terre aussi inhospitalière.',
+    Dragonite_Ore:
+        "Ce minerai n'est trouvé qu'à l'est, dans les terres mystérieuses au-delà des régions extérieures. Le voyage est périlleux, mais les récompenses sont au-delà de l'imaginaire.",
+    Pure_Essence:
+        "L'Académie Arcanum a été construite au-dessus de la veine la plus pure de magie connue de Melvor. L'essence extraite ici est tellement concentrée que même les gemmes sont devenues autre chose.",
+    Corundumite_Ore:
+        "Ce minerai était autrefois considéré comme inutile, jusqu'à ce qu'une technique innovante d'un jeune forgeron en débloque le véritable potentiel. La ruée qui a suivi a enrichi de nombreux hommes, et brisé beaucoup d'autres.",
+    Iridium_Ore:
+        'Des guerres ont été menées pour de petits gisements de ce minéral. De nos jours, les gisements, connus ou inconnus, sont considérés comme la propriété exclusive de la Couronne.',
+    Palladium_Ore:
+        "Les rares endroits où l'on peut trouver ce métal rare et conducteur de magie sont jalousement gardés. Plus encore est la méthode pour le travailler correctement.",
+    Augite_Ore:
+        "Les cristaux d'augite sont connus sous le nom de 'pierre qui pousse' pour leur capacité à se propager d'eux-mêmes. Bien que cela soit un processus lent, les cristaux doivent toujours être régulièrement éliminés, sous peine de s'attaquer à d'autres gisements de minerai.",
+    Meteorite_Ore:
+        "Que se passe-t-il quand une étoile meurt ? Ce minerai est rempli d'une grande quantité de puissance céleste, mais seuls ceux qui étudient régulièrement les cieux ont une chance de le trouver un jour.",
+    Divinite_Ore:
+        "Personne ne sait vraiment d'où vient ce minerai. Il semble apparaître de manière aléatoire dans d'anciennes mines autrement depuis longtemps abandonnées. Au fil du temps, les gens l'ont simplement attribué au caprice des dieux.",
+    Bronze_Bar:
+        "La légende dit que les Gobelins ont été les premiers à apprendre à travailler le bronze. Même si cela fait l'objet de débats, personne ne peut nier que l'histoire de ce métal est aussi ancienne que le monde lui-même.",
+    Iron_Bar: 'Polyvalent, durable et facile à travailler, le fer a été et reste la base de la société à Melvor.',
+    Steel_Bar:
+        "La pierre angulaire du pouvoir de la capitale, tant sur le plan financier que militaire. Avec de vastes réserves de fer et un approvisionnement apparemment inépuisable en charbon, les fondations de la capitale sont faites d'acier.",
+    Silver_Bar:
+        "La légende parle d'une cité endormie faite d'argent quelque part à l'ouest. De tous ceux qui sont partis à sa recherche, peu sont revenus.",
+    Mithril_Bar:
+        "Très recherché pour sa capacité à conduire le pouvoir divin, les Iles Saintes gardent jalousement leur réserve de mithril, ce qui a repoussé d'innombrables assauts.",
+    Gold_Bar:
+        "L'or fait tourner le monde. Trouver ne serait-ce qu'une petite veine de ce métal précieux peut mettre un homme à l'abri pour le reste de sa vie. Mais l'homme n'est pas le seul être qui convoite ce métal...",
+    Adamantite_Bar:
+        "L'adamantite joue un rôle majeur dans la culture et le mode de vie du peuple des plaines arides. Lorsqu'aucun groupe de guerriers n'est appelé, de nombreux membres de tribus passent leur temps à extraire des flocons d'adamantite des sables.",
+    Runite_Bar:
+        'Même une petite quantité de runite dans un alliage suffit à augmenter considérablement sa durabilité et sa résistance. En grande quantité, elle peut amplifier la magie.',
+    Dragonite_Bar:
+        "Les marchands orientaux ont apporté le minerai de dragonite à l'ouest comme une curiosité. Jusqu'à ce qu'on découvre que l'alliage du minerai avec le runite occidental augmentait considérablement le potentiel des deux métaux.",
+    Iridium_Bar:
+        "La capacité de l'iridium à amplifier les forces, à la fois magiques et profanes, en fait une matière extrêmement précieuse. À tel point que le commerce entre les nations se fait en iridium plutôt qu'en or.",
+    Corundumite_Bar:
+        "Lorsqu'il est correctement travaillé, les armes en corundumite peuvent produire une lame magique si tranchante qu'elle peut traverser n'importe quelle défense et infliger des blessures débilitantes.",
+    Palladium_Bar:
+        "Le palladium est prisé pour sa capacité à conduire l'énergie magique et on pense qu'il est la clé de nombreuses technologies perdues. Les chercheurs commencent tout juste à en réapprendre les secrets.",
+    Augite_Bar:
+        "Une blessure causée par une lame d'augite peut transformer un homme en cristal en quelques heures, tandis qu'une armure d'augite a la capacité de 'repousser' si on lui donne suffisamment de temps, ce qui lui vaut le surnom de 'métal vivant'.",
+    Meteorite_Bar:
+        "Ces barres célestes ont des propriétés étranges qui ne sont pas encore entièrement comprises. Un moment, elles sont assez légères pour flotter, le suivant, elles sont si lourdes qu'elles s'enfoncent dans la terre.",
+    Divinite_Bar:
+        'On pensait autrefois que seuls les dieux pouvaient travailler ce métal. Maintenant, ce sont les mains mortelles qui réalisent les miracles. Avancez et créez des légendes.',
+    Topaz: "Lorsqu'il est chargé d'énergie magique, le topaze peut augmenter les réflexes ou la chance d'une personne, selon qu'il est associé à de l'argent ou de l'or. Certains se demandent si ce ne sont pas simplement les mêmes choses.",
+    Sapphire:
+        "Le saphir a de nombreuses utilisations, mais la plus populaire est celle d'un focus pour diverses barrières magiques. Autrefois, d'immenses barrières de saphir retenaient un mal ancien.",
+    Ruby: "Le rubis est célèbre pour sa chaleur nourrissante et est essentiel dans la plupart des enchantements de régénération ou de renforcement corporel. Il peut même être utilisé dans les potions par quelqu'un de suffisamment compétent.",
+    Emerald:
+        "Les émeraudes excellent dans les enchantements de liaison et de contrôle, ce qui en fait le focus préféré pour les rituels d'automatisation ou de liaison d'âme.",
+    Diamond:
+        "Surtout considérées comme de jolies pierres, les avancées magiques récentes ont montré que ces gemmes ont la capacité singulière d'affecter la probabilité. Quelles sont les chances ?",
+    Onyx: "Cette gemme noire de minuit a une affinité étrange avec l'énergie magique et peut être utilisée pour générer de puissants boucliers... ou les briser.",
+    Oricha: "Une gemme violette qui brille d'une lumière intérieure. La capacité de cette gemme à absorber et à diriger l'énergie en fait un focus puissant pour un large éventail de poursuites.",
+    Cerulean:
+        "L'intense énergie pure qui émane de cette gemme rare réagit de manière étrange avec la vie biologique. Correctement contrôlée, elle est un élément clé de nombreux enchantements de guérison puissants.",
+    Runestone:
+        "Une gemme plus commune transformée par la présence de la pierre runique pure. Bien qu'elle ne soit pas aussi spécialisée que d'autres gemmes, la runestone est de loin la plus polyvalente.",
+    Zephyte:
+        "Une gemme si rare qu'elle est souvent appelée un mythe. Les enchantements créés avec cette gemme comme focus contiennent un pouvoir dévastateur, presque divin."
 };

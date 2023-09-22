@@ -4,7 +4,22 @@ import { resolve } from 'path';
 
 const config = {
     mode: 'production',
-    entry: { setup: './src/setup.ts' },
+    entry: {
+        setup: './src/setup.ts',
+        english: './src/languages/english.ts',
+        'chinese-simplified': './src/languages/chinese-simplified.ts',
+        'chinese-traditional': './src/languages/chinese-traditional.ts',
+        french: './src/languages/french.ts',
+        german: './src/languages/german.ts',
+        italian: './src/languages/italian.ts',
+        japanese: './src/languages/japanese.ts',
+        korean: './src/languages/korean.ts',
+        'portuguese-brasil': './src/languages/portuguese-brasil.ts',
+        portuguese: './src/languages/portuguese.ts',
+        russian: './src/languages/russian.ts',
+        spanish: './src/languages/spanish.ts',
+        turkish: './src/languages/turkish.ts'
+    },
     output: {
         filename: '[name].mjs',
         path: resolve(__dirname, 'packed'),

@@ -1,4 +1,4 @@
-export const tr = {
+export const language = {
     Bronze_Arrows: 'Bronz başlı yay okları. Sivri!',
     Iron_Arrows: 'Demir başlı yay okları. Ağır!',
     Steel_Arrows: 'Çelik başlı iyi yapılmış oklar. Melvor genelinde haydutların favorisi.',
@@ -403,5 +403,88 @@ export const tr = {
     Golden_Reel:
         'Siren saçları ve pullarından dokunan bu altın-kırmızı olta, yem kullanmadan bile balıkları çeker. Ancak dikkatli olun, aynı şekilde büyüsüne kapılmaktan kaçının.',
     Burning_Reel:
-        'Bilinmeyen bir malzemeden yapılmış garip bir olta. İlk başta sıradan görünüyor, ancak suya batırıldığında açık hava ile temas ettiğinde tutuşuyor.'
+        'Bilinmeyen bir malzemeden yapılmış garip bir olta. İlk başta sıradan görünüyor, ancak suya batırıldığında açık hava ile temas ettiğinde tutuşuyor.',
+    Miners_Helmet:
+        'Kendi güvenliğiniz için her zaman Kişisel Koruyucu Ekipmanlarınızı giyin. Eğer size konuşmaya başlarsa, görmezden gelin. Bu sadece mağara dumanlarından başka bir şey değil.',
+    Rune_Essence:
+        "Saf formundaki sihir. Bu 'taşlar', henüz Rune Sanatı'nın havadan geçmemiş sihirli enerjiyi yoğunlaştıran enerjisidir.",
+    Copper_Ore:
+        'Merkezi Dağlar arasından gelen yaygın bakır cevheri. Popüler birçok kullanım alanı bulunsa da, genellikle bronz yapmak için kalay ile alaşım yapılır.',
+    Tin_Ore:
+        "Melvor'un Merkezi Dağları, dünyanın en zengin ve saf maden damarlarını barındırıyor. Aynı dağlardan gelen bakır ile alaşıldığında üstün kalitede bir bronz yapar.",
+    Iron_Ore:
+        "Merkezi Melvor'un Doğu Dağı, geniş demir ve kömür damarlarına sahiptir. Bu kaynak sayesinde Başkent yüzyıllardır iktidar merkezi olarak kalmıştır.",
+    Coal_Ore:
+        'Doğu Dağlarından kazılan kömürün, iki kat daha uzun süre ve üç kat daha sıcak yandığı söylenir. Diğerleri bunun sadece Başkent tarafından yapılan propaganda olduğunu iddia ediyor.',
+    Silver_Ore:
+        "Akademi Arcanum'un kıyılarından uzak batıda, saf gümüşten yapılmış bir dağ sırasının olduğu söylenir. En azından maden tüccarları iddia ediyor.",
+    Gold_Ore:
+        "Dünyanın en büyük altın madeni Tehlikeli Zirveler'in altında bulunmaktadır. Birçok kişi zenginliklerini iddia etmek için denemiştir. Çoğu ejderhalar tarafından yenilmiştir.",
+    Mithril_Ore:
+        "Şimdiye kadar keşfedilen tek Mithril madeni 'Kutsal Adalar'da bulunmuştur. Bu değerli maden, bu küçük milleti dünya güçlerinden biri yaptı... ve bir hedef haline getirdi.",
+    Adamantite_Ore:
+        'Kumlu Ovalar ve ıssız kuzeylerin kumlarından Adamantit taneleri çıkarılabilir. Söylentiye göre kumların altında bir büyük maden olduğu konuşulur.',
+    Runite_Ore:
+        "Sadece güneydeki donmuş çöllerde bulunur, bu cevherin Glacia'nın şehri neden bu kadar yaşanmaz bir yerde inşa ettiği söylenir.",
+    Dragonite_Ore:
+        'Bu maden sadece doğuda, Dış Bölgelerin ötesindeki gizemli topraklarda bulunur. Yolculuk tehlikelidir, ancak ödüller hayal edilenden daha fazladır.',
+    Pure_Essence:
+        "Akademi Arcanum, Melvor'un bilinen en saf büyü damarının üzerine inşa edildi. Buradan çıkarılan öz, o kadar yoğundur ki, hatta değerli taşlar başka bir şey haline gelmiştir.",
+    Corundumite_Ore:
+        'Bu maden eskiden işe yaramaz olarak düşünülüyordu, ta ki genç bir demircinin yenilikçi bir tekniği gerçek potansiyelini açığa çıkarana kadar. Ardından gelen altın hücumu birçok kişiyi zenginleştirdi ve daha fazlasını iflas ettirdi.',
+    Iridium_Ore:
+        'Bu madenin küçük yatakları üzerinde savaşlar yapılmıştır. Modern zamanlarda, bilinen ve bilinmeyen depoların tümü, taçın özel mülkiyeti olarak kabul edilir.',
+    Palladium_Ore:
+        'Bu nadir, sihirsel enerjiyi iletebilen metalin bulunabileceği tek yerler kıskançlıkla korunur. Daha da önemlisi, onunla doğru bir şekilde çalışma yöntemi daha fazla korunur.',
+    Augite_Ore:
+        'Augit kristalleri, kendini yayma yeteneği nedeniyle "büyüyen taş" olarak bilinir. Yavaş bir süreç olsa da, kristaller düzenli olarak temizlenmelidir, aksi takdirde diğer cevher yataklarına girebilirler.',
+    Meteorite_Ore:
+        'Bir yıldız öldüğünde ne olur? Bu cevher, Göksel gücün büyük miktarlarını içeriyor, ancak gökyüzünü düzenli olarak inceleyenlerin umutları varsa onu bulma umudu var.',
+    Divinite_Ore:
+        'Bu madenin nereden geldiğini kimse tam olarak bilmiyor. Terk edilmiş madenlerde rastgele görünüyor gibi görünüyor. Zamanla, insanlar sadece tanrıların kaprisine bağladı.',
+    Bronze_Bar:
+        'Efsaneye göre, Goblinlerin ilk olarak bronz işlemeyi öğrendiği söylenir. Bu tartışmaya açık olsa da, hiç kimse bu metalin tarihinin dünya kadar eski olduğunu inkar edemez.',
+    Iron_Bar:
+        "Çok yönlü, dayanıklı ve kolay işlenebilir olan Demir, Melvor'daki toplumun geliştiği temel taştı ve hala öyledir.",
+    Steel_Bar:
+        "Başkent'in finansal ve askeri gücünün temeli olarak, demir envanterlerinin geniş deposu ve görünüşte sonsuz kömür kaynağı ile Başkent'in temelleri çelikten yapılmıştır.",
+    Silver_Bar: 'Uyuyan bir gümüş şehri olduğuna inanılan bir yerde. Arayanların çoğu geri dönmedi.',
+    Mithril_Bar:
+        "Kutsal Adalar'ın Mithril'in gücünü iletmek için yüksek talebi vardır ve bu, sayısız saldırıyı püskürtmüş bir inançla korunmaktadır.",
+    Gold_Bar:
+        'Altın dünyayı döndürüyor. Bu değerli metalin küçük bir damarı bile bir kişiyi ömür boyu ayarlayabilir. Ama insan bu metali arzulayan tek yaratık değil...',
+    Adamantite_Bar:
+        'Adamantite, Kumlu Ovalar halkının kültürü ve yaşam tarzında büyük bir rol oynar. Savaş grupları çağrılmadığında, birçok kabileden adam, kumların altından Adamantit taneleri çıkartarak geçimini sağlar.',
+    Runite_Bar:
+        'Bir alaşımın içindeki küçük bir Runit miktarı, dayanıklılığını ve gücünü büyük ölçüde artırmak için yeterlidir. Büyük miktarlarda büyüyü artırabilir.',
+    Dragonite_Bar:
+        'Doğu tüccarları, Dragonite cevherini merakla batıya getirdi. Batı Runit ile cevheri alaşımlaştırmanın her iki metalin potansiyelini büyük ölçüde artırdığını bulana kadar.',
+    Iridium_Bar:
+        "Iridium'un hem sihirsel hem de sıradan güçleri büyütebilme yeteneği onu son derece değerli kılıyor. Bu kadar değerli ki uluslar arası ticaret altın yerine iridyumla yapılıyor.",
+    Corundumite_Bar:
+        'Doğru bir şekilde çalışıldığında, Corundumite silahları herhangi bir savunmayı delebilecek kadar keskin bir sihirli bıçak üretebilir ve sakatlayıcı yaralar bırakabilir.',
+    Palladium_Bar:
+        'Palladium, sihir enerjisini iletebilme yeteneği nedeniyle övgü alır ve birçok kayıp teknolojinin anahtarı olarak teorize edilir. Bilim adamları sırlarını yeni yeni keşfetmeye başlıyorlar.',
+    Augite_Bar:
+        "Augit kılıcının bir yaralanması, bir adamı saatler içinde kristalleştirebilirken, yeterince zaman verildiğinde Augit zırhı 'yeniden büyüme' yeteneğine sahiptir, bu da ona 'yaşayan metal' adını kazandırmıştır.",
+    Meteorite_Bar:
+        'Bu Göksel Barların tam olarak anlaşılmayan garip özellikleri vardır. Bir an yüzmek için yeterince hafif olurlar, bir sonraki an yer yüzeyine batmaya başlarlar.',
+    Divinite_Bar:
+        'Bu metali sadece tanrıların kullanabileceği düşünülüyordu. Şimdi mucizeleri gerçekleştiren ölümlü ellerdir. Git ve efsaneler yarat.',
+    Topaz: 'Büyülü enerji ile şarj edildiğinde, Topaz bir kişinin reflekslerini veya şansını artırabilir, bu da gümüş veya altınla eşleştirilip eşleştirilmediğine bağlıdır. Bazıları bunların sadece aynı şey olup olmadığını sorgular.',
+    Sapphire:
+        'Safirin birçok kullanımı vardır, ancak en popüler olanı çeşitli sihirli engellerin odak noktası olarak kullanılmasıdır. Dev Safir engelleri bir zamanlar eski bir kötülüğü tutmuştu.',
+    Ruby: 'Ruby sıcaklık veren sıcaklığıyla ünlüdür ve çoğu yeniden doğma veya vücut güçlendirme büyüsünün anahtarıdır. Onları yeterince yetenekli biri tarafından iksirlere de kullanılabilir.',
+    Emerald:
+        'Zümrütler bağlama ve kontrol büyülerinde mükemmel, bu nedenle otomasyon veya ruh bağlama ritüelleri için tercih edilen odak noktasıdır.',
+    Diamond:
+        'Çoğunlukla güzel bir kaya olarak düşünülen elmasların son zamanlardaki büyüsel ilerlemeler, bu değerli taşların olasılıkları etkileyebilecek tuhaf bir yeteneğe sahip olduğunu gösterdi. Ne olasılıklar var?',
+    Onyx: 'Bu gece yarısı siyah değerli taş, sihirli enerji ile garip bir bağa sahiptir ve güçlü kalkanlar üretmek veya kırabilmek için kullanılabilir.',
+    Oricha: 'İçsel bir ışıkla parlayan mor bir değerli taş. Bu değerli taşın enerjiyi emme ve yönlendirme yeteneği, birçok güçlü iyileştirme büyüsünün anahtarıdır.',
+    Cerulean:
+        'Bu nadir değerli taştan yayılan yoğun ve saf enerji biyolojik yaşamla garip bir şekilde tepki verir. Doğru bir şekilde kontrol edildiğinde, güçlü bir iyileştirme büyüsünün anahtar parçasıdır.',
+    Runestone:
+        "Daha yaygın bir değerli taşı, Saf Run Taşı'nın varlığı tarafından dönüştürülmüştür. Diğer değerli taşlar kadar özelleşmemiş olsa da, Runestone, açık ara en çok yönlü olandır.",
+    Zephyte:
+        'Çok nadir bir değerli taş olduğu için sıklıkla bir efsane olarak adlandırılır. Bu değerli taşla oluşturulan büyüler, yıkıcı, neredeyse ilahi bir güce sahiptir.'
 };

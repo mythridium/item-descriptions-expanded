@@ -1,4 +1,4 @@
-export const ptBR = {
+export const language = {
     Bronze_Arrows: 'Setas comuns com uma ponta de bronze. Pontiagudas!',
     Iron_Arrows: 'Setas comuns com uma ponta de ferro. Pesadas!',
     Steel_Arrows: 'Setas bem feitas com uma ponta de aço. Favoritas dos bandidos em todo Melvor.',
@@ -412,5 +412,89 @@ export const ptBR = {
     Golden_Reel:
         'Tecida com cabelo e escamas de uma Sereia, esta linha de pesca vermelha e dourada atrai peixes mesmo quando não há isca. Mas cuidado para não cair sob seu encanto também.',
     Burning_Reel:
-        'Uma linha de pesca estranha feita de um material desconhecido. Parece mundano a princípio, mas quando encharcado em água, se inflama ao entrar em contato com o ar.'
+        'Uma linha de pesca estranha feita de um material desconhecido. Parece mundano a princípio, mas quando encharcado em água, se inflama ao entrar em contato com o ar.',
+    Miners_Helmet:
+        'Sempre use o seu EPI para sua própria segurança. Se ele começar a falar com você, ignore-o. São apenas os gases da caverna.',
+    Rune_Essence:
+        "Magia em sua forma mais pura. Essas 'pedras' são energia mágica condensada que ainda não passou pelo processo de Runecrafting.",
+    Copper_Ore:
+        'Minério de cobre comum da Cordilheira Central. Tem uma ampla gama de usos populares, mas é mais frequentemente ligado ao estanho para criar bronze.',
+    Tin_Ore:
+        'As Montanhas Centrais de Melvor abrigam as veias mais ricas e puras de minério do mundo. Quando ligado ao cobre das mesmas montanhas, cria um bronze superior.',
+    Iron_Ore:
+        'As Montanhas Orientais do centro de Melvor contêm vastas veias de ferro e carvão. É graças a esse recurso que a Capital permaneceu como o centro do poder por séculos.',
+    Coal_Ore:
+        'Dizem que o carvão retirado da Cordilheira Oriental queima por duas vezes mais tempo e três vezes mais quente. Outros afirmam que isso é apenas propaganda da Capital.',
+    Silver_Ore:
+        'Bem a oeste, além das costas da Academia Arcanum, dizem que há uma cordilheira feita de prata pura. Pelo menos é o que os comerciantes de minério afirmam.',
+    Gold_Ore:
+        'A maior mina de ouro do mundo fica sob os Picos Perigosos. Muitos tentaram reivindicar suas riquezas. A maioria foi devorada pelos Dragões.',
+    Mithril_Ore:
+        "A única mina de Mithril já descoberta estava nas 'Ilhas Sagradas'. Este minério valioso tornou esta pequena nação tanto uma das potências mundiais quanto um alvo.",
+    Adamantite_Ore:
+        'Pequenos grãos de Adamantite podem ser retirados das areias das Planícies Áridas e seu Norte Desolado. Há rumores de uma grande mina em algum lugar sob as areias.',
+    Runite_Ore:
+        'Encontrado apenas nos desertos congelados ao sul, rumores dizem que este minério é a razão pela qual Glacia construiu sua cidade em uma terra tão inóspita.',
+    Dragonite_Ore:
+        'Este minério é encontrado apenas no extremo leste, nas terras misteriosas além das Regiões Exteriores. A jornada é perigosa, mas as recompensas são inimagináveis.',
+    Pure_Essence:
+        'A Academia Arcanum foi construída em cima da veia mais pura de magia conhecida por Melvor. A essência minerada aqui é tão concentrada que até as pedras preciosas se transformaram em algo diferente.',
+    Corundumite_Ore:
+        'Este minério costumava ser considerado inútil, até que uma técnica inovadora de um jovem ferreiro desbloqueou seu verdadeiro potencial. A corrida do ouro que se seguiu fez muitos homens e quebrou muitos outros.',
+    Iridium_Ore:
+        'Guerras foram travadas por pequenos depósitos deste mineral. Nos tempos modernos, depósitos, conhecidos e desconhecidos, são considerados propriedade exclusiva da Coroa.',
+    Palladium_Ore:
+        'Os poucos locais onde este raro metal condutor de magia pode ser encontrado são zelosamente guardados. Mais ainda é o método de trabalhá-lo corretamente.',
+    Augite_Ore:
+        "Os cristais de Augite são conhecidos como a 'pedra crescente' por sua capacidade de se propagar. Embora seja um processo lento, os cristais ainda precisam ser regularmente eliminados, para não consumirem outros depósitos de minério.",
+    Meteorite_Ore:
+        'O que acontece quando uma estrela morre? Este minério está cheio de vastas quantidades de poder celestial, mas apenas aqueles que estudam regularmente os céus têm alguma esperança de encontrá-lo.',
+    Divinite_Ore:
+        'Ninguém sabe ao certo de onde vem este minério. Ele aparece aparentemente aleatoriamente em minas abandonadas há muito tempo vazias. Com o tempo, as pessoas simplesmente atribuíram isso ao capricho dos deuses.',
+    Bronze_Bar:
+        'A lenda diz que os Goblins foram os primeiros a aprender a trabalhar o bronze. Embora isso seja motivo de debate, ninguém pode negar que a história deste metal é tão antiga quanto o mundo em si.',
+    Iron_Bar:
+        'Versátil, durável e fácil de trabalhar, o ferro foi e continua a ser a base sobre a qual a sociedade em Melvor se desenvolveu.',
+    Steel_Bar:
+        'A pedra angular do poder da Capital, tanto financeiramente quanto militarmente. Com vastos estoques de ferro e um suprimento aparentemente infinito de carvão, os ossos da Capital são feitos de aço.',
+    Silver_Bar:
+        'A lenda fala de uma cidade adormecida feita de prata em algum lugar a oeste. Dos que partiram em busca dela, poucos retornaram.',
+    Mithril_Bar:
+        'Muito procurado por sua capacidade de conduzir o poder sagrado, as Ilhas Sagradas guardam seu suprimento de Mithril com uma devoção que repeliu inúmeros ataques.',
+    Gold_Bar:
+        'O ouro faz o mundo girar. Encontrar até mesmo uma pequena veia deste metal precioso pode proporcionar uma vida inteira a alguém. Mas o homem não é a única criatura que cobiça esse metal...',
+    Adamantite_Bar:
+        'O Adamantite desempenha um papel importante na cultura e no estilo de vida do povo das Planícies Áridas. Quando não são convocados grupos de guerra, muitos membros da tribo ganham a vida removendo lascas de Adamantite das areias.',
+    Runite_Bar:
+        'Mesmo uma pequena quantidade de Runite em uma liga é suficiente para aumentar drasticamente sua durabilidade e resistência. Em grandes quantidades, pode amplificar a magia.',
+    Dragonite_Bar:
+        'Os mercadores do leste trouxeram minério de Draginite para o oeste como uma curiosidade. Até que se descobriu que a liga do minério com Runite ocidental aumentava drasticamente o potencial de ambos os metais.',
+    Iridium_Bar:
+        'A capacidade do irídio de amplificar forças, tanto mágicas quanto mundanas, o torna excessivamente valioso. Tanto que o comércio entre as nações é feito em irídio em vez de ouro.',
+    Corundumite_Bar:
+        'Quando trabalhado corretamente, as armas de Corundumite podem produzir uma lâmina mágica tão afiada que pode cortar qualquer defesa e deixar feridas debilitantes.',
+    Palladium_Bar:
+        'O Palladium é valorizado por sua capacidade de conduzir energia mágica e teoriza-se que seja a chave de muitas tecnologias perdidas. Os estudiosos estão apenas começando a aprender seus segredos novamente.',
+    Augite_Bar:
+        "Um ferimento de uma lâmina de Augite pode transformar um homem em cristal em horas, enquanto a armadura de Augite tem a capacidade de 'regenerar' se for dada tempo suficiente, ganhando o apelido de 'metal vivo'.",
+    Meteorite_Bar:
+        'Essas Barras Celestiais têm propriedades estranhas que não são completamente compreendidas. Em um momento, elas são leves o suficiente para flutuar, no próximo, tão pesadas que afundam na terra.',
+    Divinite_Bar:
+        'Costumava-se pensar que apenas os deuses poderiam trabalhar com esse metal. Agora, são mãos mortais que transformam os milagres em realidade. Vá em frente e crie lendas.',
+    Topaz: 'Quando carregado com energia mágica, o Topázio pode aumentar os reflexos ou a sorte de uma pessoa, dependendo se é emparelhado com prata ou ouro. Alguns questionam se essas não são simplesmente a mesma coisa.',
+    Sapphire:
+        'A Safira tem muitos usos, mas o mais popular é como foco de várias barreiras mágicas. Grandes barreiras de Safira uma vez contiveram um antigo mal.',
+    Ruby: 'A Rubi é famosa por seu calor acolhedor e é fundamental na maioria das encantarias de regeneração ou fortalecimento do corpo. Elas também podem ser usadas em poções por quem é habilidoso o suficiente.',
+    Emerald:
+        'As Esmeraldas se destacam em encantarias de ligação e controle, tornando-as o foco preferido para automação ou rituais de ligação de almas.',
+    Diamond:
+        'Geralmente pensado como uma pedra bonita, avanços mágicos recentes mostraram que essas gemas têm a peculiar capacidade de afetar a probabilidade. Quais são as chances?',
+    Onyx: 'Esta gema preta da meia-noite tem uma afinidade estranha com energia mágica e pode ser usada para gerar escudos poderosos... ou atravessá-los.',
+    Oricha: 'Uma gema roxa que brilha com uma luz interior. A capacidade desta gema de absorver e direcionar energia a torna um foco poderoso para uma ampla variedade de atividades.',
+    Cerulean:
+        'A intensa e pura energia que irradia desta gema rara reage de maneira estranha com a vida biológica. Controlado corretamente, é uma peça-chave de muitas encantarias de cura poderosas.',
+    Runestone:
+        'Uma gema mais comum transformada pela presença de Pure Runestone. Embora não seja tão especializada quanto outras gemas, a Runestone é de longe a mais versátil.',
+    Zephyte:
+        'Uma gema tão rara que é frequentemente chamada de mito. Encantos criados com esta gema como foco contêm um poder devastador, quase divino.'
 };

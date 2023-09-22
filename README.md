@@ -4,48 +4,44 @@ This mod is a community effort to add item descriptions to all items in the game
 
 ![Description](images/description.png)
 
-Translations for all descriptions have been gathered through chat-gpt, they may be incorrect.
-
-## Currently Added
-- Base Game
-  - Amulets
-  - Arrows
-
-- TotH
-   - Amulets
-   - Arrows
+Translations for all descriptions have been obtained through chat-gpt, they may be incorrect.
 
 ## Description Contributors
 - TheRealOsamaru
 
-## How to Contribute
-Add the `id` and the `expandedDescription` to the relevant expansions json file located in `sec/data`.
-
-From here, add the relevant key/value pair into each of the language translations found in `sec/languages`.
-
-For example.
-
-`src/data/data.json`
-
-```
-{
-    "id": "melvorD:Bronze_Arrows",
-    "expandedDescription": "Common arrows tipped with a Bronze head. Pointy!"
-}
-```
-
-`src/languages/english.ts`
-
-```
-Bronze_Arrows: 'Common arrows tipped with a Bronze head. Pointy!',
-```
-
-Repeat this for ALL languages.
-
 ## Dependencies
-Download and install NodeJS https://nodejs.org/en
+Download and install NodeJS https://nodejs.org/en The latest LTS version is fine.
 
-The latest LTS version is fine.
+### Game Data Files
+Next we need to get the games data files locally so we can look up the correct item id's and pieces things together.
+
+Create a new folder named `game-data` in the `data` folder.
+
+Copy the json from the following urls:
+* https://melvoridle.com/assets/data/melvorDemo.json
+* https://melvoridle.com/assets/data/melvorFull.json
+* https://melvoridle.com/assets/data/melvorTotH.json
+* https://melvoridle.com/assets/data/melvorExpansion2.json
+
+And paste the contents into json files named:
+* melvorD.json
+* melvorF.json
+* melvorTotH.json
+* melvorAoD.json
+
+## How to Contribute
+
+Add new volumes to `data/volumes` in the following format:
+
+```
+Item Name - Description
+```
+
+Import and add the new volume to `data/volumes/index.mts`
+
+Run the `npm run generate` command to automatically generate the `json` and `english` translation files.
+
+No grab the english key/values and feed them through Chat-GPT to update all the other languages. ()
 
 ### Setup
 - Fork this git repo

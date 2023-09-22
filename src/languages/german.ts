@@ -1,4 +1,4 @@
-export const de = {
+export const language = {
     Bronze_Arrows: 'Gewöhnliche Pfeile mit einer Bronzekopfspitze. Spitz!',
     Iron_Arrows: 'Gewöhnliche Pfeile mit einem Eisenkopf. Schwer!',
     Steel_Arrows: 'Gut gefertigte Pfeile mit einem Stahlkopf. Ein Favorit der Banditen in ganz Melvor.',
@@ -417,5 +417,89 @@ export const de = {
     Golden_Reel:
         'Gewebt aus Haaren und Schuppen einer Sirene, zieht diese gold-rote Angelschnur Fische an, selbst wenn sie nicht geangelt ist. Aber Vorsicht, sonst verfällst du ebenfalls ihrem Bann.',
     Burning_Reel:
-        'Eine seltsame Angelschnur aus unbekanntem Material. Auf den ersten Blick sieht sie unscheinbar aus, aber wenn sie ins Wasser getaucht wird, entzündet sie sich bei Kontakt mit der Luft.'
+        'Eine seltsame Angelschnur aus unbekanntem Material. Auf den ersten Blick sieht sie unscheinbar aus, aber wenn sie ins Wasser getaucht wird, entzündet sie sich bei Kontakt mit der Luft.',
+    Miners_Helmet:
+        'Tragen Sie immer Ihre persönliche Schutzausrüstung (PSA) für Ihre eigene Sicherheit. Wenn es anfängt, mit Ihnen zu sprechen, ignorieren Sie es. Das sind nur die Höhlendämpfe.',
+    Rune_Essence:
+        "Magie in ihrer reinsten Form. Diese 'Steine' sind kondensierte magische Energie, die noch nicht durch die Luft des Runenhandwerks kanalisiert wurde.",
+    Copper_Ore:
+        'Gewöhnlicher Kupfererz aus dem Zentralgebirge. Es hat eine breite Palette von beliebten Anwendungen, wird aber meistens mit Zinn legiert, um Bronze herzustellen.',
+    Tin_Ore:
+        'Die Zentralgebirge von Melvor beherbergen die reichsten und reinsten Erzadern der Welt. Legiert mit Kupfer aus denselben Bergen entsteht überlegene Bronze.',
+    Iron_Ore:
+        'Die östlichen Berge im Zentrum von Melvor enthalten riesige Eisenerz- und Kohlelagerstätten. Dank dieser Ressource hat die Hauptstadt seit Jahrhunderten die Macht inne.',
+    Coal_Ore:
+        'Man sagt, dass Kohle aus dem östlichen Gebirge doppelt so lange und dreimal so heiß brennt. Andere behaupten, dass dies nur Propaganda der Hauptstadt ist.',
+    Silver_Ore:
+        'Weit im Westen, jenseits der Ufer der Academia Arcanum, soll sich ein Gebirge aus reinem Silber befinden. Zumindest behaupten das die Erzhändler.',
+    Gold_Ore:
+        'Die größte Goldmine der Welt liegt unter den Gefährlichen Gipfeln. Viele haben versucht, ihren Reichtum zu beanspruchen. Die meisten wurden von Drachen gefressen.',
+    Mithril_Ore:
+        "Die einzige jemals entdeckte Mithril-Mine befand sich auf den 'Heiligen Inseln'. Dieses wertvolle Erz hat diese winzige Nation sowohl zu einer Weltmacht als auch zu einem Ziel gemacht.",
+    Adamantite_Ore:
+        'Kleine Körner aus Adamantit können aus den Sanden der Arid Plains und ihrem öden Norden gewonnen werden. Gerüchten zufolge gibt es irgendwo unter den Sanden eine große Mine.',
+    Runite_Ore:
+        'Nur in den gefrorenen Wüsten im Süden zu finden, wird gemunkelt, dass dieses Erz der Grund dafür ist, dass Glacia ihre Stadt in einem so unwirtlichen Land gebaut hat.',
+    Dragonite_Ore:
+        'Dieses Erz ist nur weit im Osten in den mysteriösen Ländern jenseits der äußeren Regionen zu finden. Die Reise ist gefährlich, aber die Belohnungen sind unvorstellbar.',
+    Pure_Essence:
+        'Die Academia Arcanum wurde über der reinsten Magieader von Melvor erbaut. Die hier abgebaute Essenz ist so konzentriert, dass selbst die Edelsteine zu etwas anderem geworden sind.',
+    Corundumite_Ore:
+        'Dieses Erz galt einst als nutzlos, bis eine innovative Technik eines jungen Schmieds sein wahres Potenzial entfaltete. Der Goldrausch, der folgte, machte viele Männer reich und brach noch mehr.',
+    Iridium_Ore:
+        'Über kleine Vorkommen dieses Minerals wurden Kriege geführt. In der modernen Zeit gelten sowohl bekannte als auch unbekannte Lagerstätten als exklusives Eigentum der Krone.',
+    Palladium_Ore:
+        'Die wenigen Orte, an denen dieses seltene, magisch leitfähige Metall zu finden ist, werden eifersüchtig bewacht. Noch mehr wird die Methode, es ordnungsgemäß zu verarbeiten, gehütet.',
+    Augite_Ore:
+        "Augitkristalle werden wegen ihrer Fähigkeit zur Selbstvermehrung als 'wachsender Stein' bezeichnet. Obwohl es ein langsamer Prozess ist, müssen Kristalle dennoch regelmäßig entfernt werden, um nicht in andere Erzlagerstätten einzudringen.",
+    Meteorite_Ore:
+        'Was passiert, wenn ein Stern stirbt? Dieses Erz ist mit enormer himmlischer Energie gefüllt, aber nur diejenigen, die regelmäßig die Himmel studieren, haben überhaupt eine Chance, es jemals zu finden.',
+    Divinite_Ore:
+        'Niemand weiß so genau, woher dieses Erz stammt. Es scheint scheinbar zufällig in längst verlassenen Minen aufzutauchen. Im Laufe der Zeit haben die Menschen es einfach der Laune der Götter zugeschrieben.',
+    Bronze_Bar:
+        'Die Legende besagt, dass die Goblins die ersten waren, die gelernt haben, mit Bronze zu arbeiten. Ob das umstritten ist, niemand kann leugnen, dass die Geschichte dieses Metalls so alt ist wie die Welt selbst.',
+    Iron_Bar:
+        'Vielseitig, langlebig und einfach zu bearbeiten, war Eisen und ist die Grundlage, auf der die Gesellschaft in Melvor entwickelt wurde.',
+    Steel_Bar:
+        'Der Eckpfeiler der Macht der Hauptstadt, sowohl finanziell als auch militärisch. Mit riesigen Eisenreserven und einer scheinbar endlosen Versorgung mit Kohle sind die Grundlagen der Hauptstadt aus Stahl gebaut.',
+    Silver_Bar:
+        'Die Legende erzählt von einer schlafenden Stadt aus Silber irgendwo im fernen Westen. Von all denen, die auf die Suche gegangen sind, sind nur wenige zurückgekehrt.',
+    Mithril_Bar:
+        'Hoch begehrt wegen seiner Fähigkeit, göttliche Kraft zu leiten, bewahren die Heiligen Inseln ihren Vorrat an Mithril mit einer Begeisterung auf, die unzählige Angriffe abgewehrt hat.',
+    Gold_Bar:
+        'Gold lässt die Welt sich drehen. Das Finden auch nur einer kleinen Ader dieses kostbaren Metalls kann einen Menschen fürs Leben versorgen. Aber der Mensch ist nicht das einzige Wesen, das dieses Metall begehrt...',
+    Adamantite_Bar:
+        'Adamantit spielt eine große Rolle in der Kultur und im Lebensstil der Leute der Arid Plains. Wenn keine Kriegsbanden gerufen werden, verbringen viele Stammesmitglieder ihre Zeit damit, Adamantitflocken aus den Sanden zu sammeln.',
+    Runite_Bar:
+        'Schon eine kleine Menge Runit in einer Legierung reicht aus, um ihre Haltbarkeit und Festigkeit drastisch zu erhöhen. In großen Mengen kann es die Magie verstärken.',
+    Dragonite_Bar:
+        'Östliche Händler brachten Dragonite-Erz in den Westen als Kuriosität. Bis man feststellte, dass die Legierung des Erzes mit westlichem Runit das Potenzial beider Metalle erheblich steigerte.',
+    Iridium_Bar:
+        'Die Fähigkeit von Iridium, Kräfte, sowohl magische als auch profane, zu verstärken, macht es äußerst wertvoll. So sehr, dass der Handel zwischen Nationen in Iridium statt in Gold abgewickelt wird.',
+    Corundumite_Bar:
+        'Wenn es richtig bearbeitet wird, können Corundumit-Waffen eine magische Klinge erzeugen, die jede Verteidigung durchschneiden und verkrüppelnde Wunden hinterlassen kann.',
+    Palladium_Bar:
+        'Palladium wird für seine Fähigkeit geschätzt, magische Energie zu leiten, und wird als Schlüssel zu vielen verlorenen Technologien betrachtet. Gelehrte lernen seine Geheimnisse erst jetzt wieder.',
+    Augite_Bar:
+        "Eine Wunde von einer Augit-Klinge kann einen Mann in wenigen Stunden in Kristall verwandeln, während Augit-Rüstungen die Fähigkeit haben, sich zu 'regenerieren', wenn ihnen genügend Zeit gegeben wird, was ihnen den Spitznamen 'lebendiges Metall' einbrachte.",
+    Meteorite_Bar:
+        'Diese Himmelsbarsche haben seltsame Eigenschaften, die noch nicht vollständig verstanden sind. Einen Moment lang sind sie leicht genug, um zu schweben, und im nächsten so schwer, dass sie in die Erde sinken.',
+    Divinite_Bar:
+        'Es wurde einst gedacht, dass nur Götter mit diesem Metall arbeiten könnten. Jetzt sind es sterbliche Hände, die die Wunder Wirklichkeit werden lassen. Geht voran und schafft Legenden.',
+    Topaz: 'Wenn es mit magischer Energie aufgeladen wird, kann Topas die Reflexe oder das Glück einer Person erhöhen, je nachdem, ob es mit Silber oder Gold kombiniert wird. Einige bezweifeln, ob dies nicht einfach dasselbe ist.',
+    Sapphire:
+        'Saphir hat viele Verwendungszwecke, aber der beliebteste ist als Fokus für verschiedene magische Barrieren. Gigantische Saphirbarrieren hielten einst ein altes Übel zurück.',
+    Ruby: 'Rubin ist für seine wärmende Wirkung bekannt und spielt eine Schlüsselrolle in den meisten Regenerations- oder Körperstärkungszaubern. Er kann sogar von jemandem, der geschickt genug ist, in Tränken verwendet werden.',
+    Emerald:
+        'Smaragde sind besonders gut für Bindungs- und Kontrollzauber geeignet und sind der bevorzugte Fokus für Automatisierungs- oder Seelenbindungsrituale.',
+    Diamond:
+        'Meistens werden sie als hübsche Steine betrachtet, aber neueste magische Fortschritte haben gezeigt, dass diese Edelsteine die eigenartige Fähigkeit haben, die Wahrscheinlichkeit zu beeinflussen. Was sind die Chancen?',
+    Onyx: 'Dieser Mitternachtsschwarze Edelstein hat eine seltsame Affinität zur magischen Energie und kann verwendet werden, um mächtige Schilde zu erzeugen... oder sie zu durchbrechen.',
+    Oricha: 'Ein violetter Edelstein, der von innen leuchtet. Die Fähigkeit dieses Edelsteins, Energie zu absorbieren und zu lenken, macht ihn zu einem mächtigen Fokus für eine Vielzahl von Bestrebungen.',
+    Cerulean:
+        'Die intensive, reine Energie, die von diesem seltenen Edelstein ausgeht, reagiert auf biologisches Leben auf seltsame Weise. Bei richtiger Kontrolle ist er ein Schlüsselstück vieler mächtiger Heilzauber.',
+    Runestone:
+        'Ein häufigerer Edelstein, der durch die Anwesenheit von reinem Runenstein transformiert wird. Obwohl er nicht so spezialisiert ist wie andere Edelsteine, ist Runenstein bei weitem vielseitiger.',
+    Zephyte:
+        'Ein so seltener Edelstein, dass er oft als Mythos bezeichnet wird. Verzauberungen, die mit diesem Edelstein als Fokus erstellt wurden, enthalten eine verheerende, fast göttliche Macht.'
 };

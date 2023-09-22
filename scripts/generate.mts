@@ -1,11 +1,8 @@
-import { volume1 } from '../data/volumes/volume-1.mjs';
-import { volume2 } from '../data/volumes/volume-2.mjs';
-import { volume3 } from '../data/volumes/volume-3.mjs';
-import { volume4 } from '../data/volumes/volume-4.mjs';
 import demo from '../data/game-data/melvorD.json' assert { type: 'json' };
 import full from '../data/game-data/melvorF.json' assert { type: 'json' };
 import toth from '../data/game-data/melvorTotH.json' assert { type: 'json' };
 import aod from '../data/game-data/melvorAoD.json' assert { type: 'json' };
+import { volumes } from '../data/volumes/index.mjs';
 import { writeFile } from 'fs/promises';
 
 interface Item {
@@ -38,7 +35,7 @@ const items: any[] = [
     ...aod.data.items.map(item => attachNamespace(item, 'melvorAoD:'))
 ];
 
-const descriptions = `${volume1}${volume2}${volume3}${volume4}`
+const descriptions = volumes
     .split(/\r?\n/)
     .filter(line => line.trim() !== '')
     .map(row => {

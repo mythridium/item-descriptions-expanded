@@ -1,3 +1,7 @@
+v0.3.0
+
+-   added volume 5 descriptions
+
 v0.2.0
 
 -   added volume 3 descriptions

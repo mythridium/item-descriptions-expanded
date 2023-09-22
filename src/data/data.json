@@ -591,6 +591,110 @@
             {
                 "id": "melvorF:Prayer_Scroll",
                 "expandedDescription": "A Prayer is far more effective when one knows what to ask for, and how."
+            },
+            {
+                "id": "melvorF:Miners_Helmet",
+                "expandedDescription": "Always wear your PPE for your own safety. If it starts talking to you, ignore it. That's just the cave fumes."
+            },
+            {
+                "id": "melvorD:Rune_Essence",
+                "expandedDescription": "Magic in its purest form. This 'stones' are condensed magical energy that has yet to be tuned through the air of Runecrafting."
+            },
+            {
+                "id": "melvorD:Copper_Ore",
+                "expandedDescription": "Common copper ore from the Central Mountain range. It has a wide range of popular uses, but is most often alloyed with tin to create bronze."
+            },
+            {
+                "id": "melvorD:Tin_Ore",
+                "expandedDescription": "The Central Mountains of Melvor hold the richest and purest veins of ore in the world. Alloyed with copper from the same mountains, it makes a superior bronze."
+            },
+            {
+                "id": "melvorD:Iron_Ore",
+                "expandedDescription": "The Eastern Mountain of central Melvor contain vast veins of iron and coal. It is thanks to this resource that the Capital has remained the seat of power for centuries."
+            },
+            {
+                "id": "melvorD:Coal_Ore",
+                "expandedDescription": "Coal dug from the Eastern Mountain range is said to burn for twice as long and three times as hot. Others claim this is just propaganda from the Capital."
+            },
+            {
+                "id": "melvorD:Silver_Ore",
+                "expandedDescription": "Far to the west, past the shores of the Academia Arcanum, is said to be a mountain range made of pure silver. At least that's what the ore merchants claim."
+            },
+            {
+                "id": "melvorD:Gold_Ore",
+                "expandedDescription": "The largest gold mine in the world sits under the Perilous Peaks. Many have tried to lay claim to its riches. Most have been eaten by the Dragons."
+            },
+            {
+                "id": "melvorD:Mithril_Ore",
+                "expandedDescription": "The only Mithril mine ever discovered was on the \"Holy Isles\". This valuable ore has made this tiny nation both one of the world powers... and a target."
+            },
+            {
+                "id": "melvorD:Adamantite_Ore",
+                "expandedDescription": "Small grains of Adamantite can be shifted from the sands of the Arid Plains and its Desolate north. Rumor speaks of a grand mine somewhere under the sands."
+            },
+            {
+                "id": "melvorD:Runite_Ore",
+                "expandedDescription": "Only found in the frozen wastes to the south, it is rumored this ore is why Glacia built her city in such an inhospitable land."
+            },
+            {
+                "id": "melvorD:Dragonite_Ore",
+                "expandedDescription": "This ore is only found far to the East, in the mysterious lands beyond the Outer Regions. The trek is parlous, but the rewards beyond imagining."
+            },
+            {
+                "id": "melvorD:Bronze_Bar",
+                "expandedDescription": "Legend says the Golbin were the first people learn how to work bronze. While that is up for debate, none can deny that this metal's history is as long as the world itself."
+            },
+            {
+                "id": "melvorD:Iron_Bar",
+                "expandedDescription": "Versatile, durable and easy to work, Iron was and is the foundation on which society in Melvor has developed."
+            },
+            {
+                "id": "melvorD:Steel_Bar",
+                "expandedDescription": "The cornerstone of the Capital's power, both financially and militarily. With vast stores of iron and a seemingly endless supply of coal, the Capital's bones are built from Steel."
+            },
+            {
+                "id": "melvorD:Silver_Bar",
+                "expandedDescription": "Legend speaks of a sleeping city made of Silver somewhere in the far west. Of all those who have gone searching, few have returned."
+            },
+            {
+                "id": "melvorD:Mithril_Bar",
+                "expandedDescription": "Highly sough after for its ability to conduct holy power, the Holy Isles guard its supply of Mithril with a fervor that has repelled countless assaults."
+            },
+            {
+                "id": "melvorD:Gold_Bar",
+                "expandedDescription": "Gold makes the world turn around. Finding even a small vein of this precious metal can set a man up for life. But man is not the only creature that covets this metal..."
+            },
+            {
+                "id": "melvorD:Adamantite_Bar",
+                "expandedDescription": "Adamantite plays a huge role in the culture and lifestyle of the Arid Plains people. When no warbands are called, many tribesmen many a living shifting Adamantite flakes from the sands."
+            },
+            {
+                "id": "melvorD:Runite_Bar",
+                "expandedDescription": "Even a small amount of Runite in an alloy is enough to drastically increase its durability and strength. In large amounts it can amplify magic."
+            },
+            {
+                "id": "melvorD:Dragonite_Bar",
+                "expandedDescription": "Eastern merchants brought Dragonite ore to the west as a curiosity. Until it was found alloying the ore with western Runite vastly increased both metal's potential."
+            },
+            {
+                "id": "melvorD:Topaz",
+                "expandedDescription": "When charged with magical energy, Topaz can increase a person's reflexes or luck, depending if its paired with silver or gold. Some question if these are not simply the same thing."
+            },
+            {
+                "id": "melvorD:Sapphire",
+                "expandedDescription": "Sapphire has many uses, but its most popular is as a focus for a variety of magical barriers. Giant Sapphire barriers once held back an ancient evil."
+            },
+            {
+                "id": "melvorD:Ruby",
+                "expandedDescription": "Ruby is famed for its nurturing warmth, and are key in most regeneration or body strengthening enchantments. They can even be used in potions by one skilled enough."
+            },
+            {
+                "id": "melvorD:Emerald",
+                "expandedDescription": "Emeralds excel at binding and control enchantments, making them the preferred focus for automation or soul binding rituals."
+            },
+            {
+                "id": "melvorD:Diamond",
+                "expandedDescription": "Mostly thought of as pretty rock, recent magical advancements have show these gemstones have the peculiar ability to affect probability. What are the chances?"
             }
         ]
     }
