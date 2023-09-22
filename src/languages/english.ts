@@ -54,7 +54,7 @@ export const language = {
     Amulet_of_Torture:
         'An amulet used by a mysterious cult in profane rituals. You can hear souls of the trapped dead emanate from the gem at its center.',
     Fury_of_the_Elemental_Zodiac:
-        'The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - "By your powers combined! I am OP!"',
+        'The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class="ide fsi">"By your powers combined! I am OP!"</span>',
     Amulet_of_Looting: 'Wearing this marks you as the Chief of the Pygmy spiders. Force them to bank your stuff.',
     Bone_Necklace:
         'This necklace was created by a necromancer who grew tired of cleaning up his messes. So he made his messes clean themselves up.',

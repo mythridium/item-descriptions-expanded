@@ -117,7 +117,7 @@ const run = async () => {
 
     await writeFile(
         'src/languages/english.ts',
-        `export const en = {
+        `export const language = {
         ${descriptions
             .map(description => `${description.id}: "${description.description.replace(/"/g, '\\"')}"`)
             .join(',\n')}

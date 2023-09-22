@@ -75,7 +75,7 @@ Amulet of Fury - Each bead of this amulet is the polished scale of an ancient dr
 
 Amulet of Torture - An amulet used by a mysterious cult in profane rituals. You can hear souls of the trapped dead emanate from the gem at its center.
 
-Fury of the Elemental Zodiacs - The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - "By your powers combined! I am OP!"
+Fury of the Elemental Zodiacs - The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class=\"ide fsi\">"By your powers combined! I am OP!"</span>
 
 Amulet of Looting - Wearing this marks you as the Chief of the Pygmy spiders. Force them to bank your stuff.
 
