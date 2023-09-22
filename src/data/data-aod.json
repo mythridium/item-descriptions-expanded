@@ -1,4 +1,1 @@
-{
-    "$schema": "https://melvoridle.com/assets/schema/gameData.json",
-    "namespace": "itemDescriptionsExpanded"
-}
+{ "$schema": "https://melvoridle.com/assets/schema/gameData.json", "namespace": "itemDescriptionsExpanded" }

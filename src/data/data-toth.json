@@ -105,7 +105,7 @@
             },
             {
                 "id": "melvorTotH:FrostSpark_Amulet",
-                "expandedDescription": "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet."
+                "expandedDescription": "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked true power of this amulet."
             },
             {
                 "id": "melvorTotH:Allure_Amulet",
@@ -166,6 +166,142 @@
             {
                 "id": "melvorTotH:Summoners_Bag",
                 "expandedDescription": "A small bag used by Ritualists during summoning ceremonies. It can focus and direct energy in a way that increases the effects of the summoning process."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Warrior_Ring",
+                "expandedDescription": "A Warrior once took up a Celestial Blade to fight an evil god. It was then he learned even gods could bleed"
+            },
+            {
+                "id": "melvorTotH:Meteorite_Marksman_Ring",
+                "expandedDescription": "An Archer once dreamed of shooting the very stars from the sky. When those stars fell, his enemies have no place to hide."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Spellcaster_Ring",
+                "expandedDescription": "A Mage once stood between his home and an army, and prayed for help from the stars. When the ashes cleared, nothing of the army remained."
+            },
+            {
+                "id": "melvorTotH:Meteorite_Woodcutting_Ring",
+                "expandedDescription": "Having met that which it sought, this ring has awakened to its true form. A blow from an axe wielded by a hand wearing this ring can reduce a tree to ashes."
+            },
+            {
+                "id": "melvorTotH:Palladium_Onyx_Ring",
+                "expandedDescription": "This ring produces powerful magical shield designed to deflect fast moving projectiles from a bow or crossbow."
+            },
+            {
+                "id": "melvorTotH:Iridium_Onyx_Ring",
+                "expandedDescription": "Magical shields designed to stop fast moving projectiles are less effective against a slow, steady blade. This ring was created with that idea in mind."
+            },
+            {
+                "id": "melvorTotH:Iridium_Oricha_Ring",
+                "expandedDescription": "This ring drastically increases a projectiles accuracy and power the longer the wearer focuses on aiming, making it popular among snipers."
+            },
+            {
+                "id": "melvorTotH:Palladium_Oricha_Ring",
+                "expandedDescription": "Called the \"Magical Lightning Rod\" by its designer, this ring draws magical attacks away from the wearer's center mass."
+            },
+            {
+                "id": "melvorTotH:Iridium_Cerulean_Ring",
+                "expandedDescription": "Originally created with the idea of erasing hunger by \"feeding\" on magical energy, the experiment was deemed a failure. Regardless its effects are still potent."
+            },
+            {
+                "id": "melvorTotH:Palladium_Cerulean_Ring",
+                "expandedDescription": "When placed around the shaft of a magical staff, this ring feeds on the staff's energy to produce a magical barrier around its wielder."
+            },
+            {
+                "id": "melvorTotH:Iridium_Runestone_Ring",
+                "expandedDescription": "When swung, a weapon by a hand wearing this ring produces a magical blade that drastically increases its power."
+            },
+            {
+                "id": "melvorTotH:Palladium_Runestone_Ring",
+                "expandedDescription": "Building on the Silver Sapphire ring, When powered, this ring produces a small shield of energy around the wear's forearm. This shield is far sturdier and more reliable."
+            },
+            {
+                "id": "melvorTotH:Iridium_Zephyte_Ring",
+                "expandedDescription": "This Divine gem causes the wearer's weapon to resonate on the same frequency as the armor it strikes, increasing the effectiveness of the blow."
+            },
+            {
+                "id": "melvorTotH:Palladium_Zephyte_Ring",
+                "expandedDescription": "The best Defense is a good Offense. This ring's Divine power allows you to strike with the force of the heavens, but makes you more susceptible to that same power."
+            },
+            {
+                "id": "melvorTotH:Ring_of_Curse_Protection",
+                "expandedDescription": "A ring granted to servants of Lady Darkheart. Mostly to protect them from their own power."
+            },
+            {
+                "id": "melvorTotH:Ring_of_Phantom_Summon",
+                "expandedDescription": "A Great Spirit was once split into three parts by an evil Necromancer. This Ring was crafted from its soul. It still retains echos of its former self, which may manifest at the wearer's whim."
+            },
+            {
+                "id": "melvorTotH:Blood_Ring",
+                "expandedDescription": "A ring used by Vampires to gather the blood of their victims. Such greedy creatures can't bear to waste even a single drop."
+            },
+            {
+                "id": "melvorTotH:Burning_Embers_Book",
+                "expandedDescription": "A book of fiery spells stolen from the corpse of a burning demon. Its origins and author are unknown, but its power as a magical focus shouldn't be underestimated."
+            },
+            {
+                "id": "melvorTotH:Book_of_the_Ancients",
+                "expandedDescription": "The complete works of an Ancient, magical civilization lost to time. Once broken apart for fear of what this knowledge might unleash, it is once more whole."
+            },
+            {
+                "id": "melvorTotH:Hunters_Journal",
+                "expandedDescription": "Some hunters seek out mighty beasts. Others prefer more glittering prey."
+            },
+            {
+                "id": "melvorTotH:Mortar_and_Pestle",
+                "expandedDescription": "A true sage knows that Cooking and Alchemy are but a single step apart."
+            },
+            {
+                "id": "melvorTotH:Slayer_Torch",
+                "expandedDescription": "These cleansing flames are one of the few protections against the corruption of the Afflicted City. Careful not to run out, lest you become part of the city yourself."
+            },
+            {
+                "id": "melvorTotH:Mystic_Lantern",
+                "expandedDescription": "The magical darkness of the Midnight Valley hides even darker things. The light of this Lantern can repel vile spirits and dispel illusions."
+            },
+            {
+                "id": "melvorTotH:Explorers_Map",
+                "expandedDescription": "The Slayer's Lodge often hires experienced Explorers to scout out areas before a hunt. The information they bring back is well worth the cost."
+            },
+            {
+                "id": "melvorTotH:Explorers_Map_II",
+                "expandedDescription": "A map commissioned from a Veteran Explorer. The level of detail and information contained here boggled your mind."
+            },
+            {
+                "id": "melvorTotH:Summoning_Scrolls",
+                "expandedDescription": "Most Necromancers prefer bones and bodies for their art. Few ever quite reached the level of summoning Spirits, as Fiozor did."
+            },
+            {
+                "id": "melvorTotH:Travellers_Compass",
+                "expandedDescription": "A peculiar compass sold to a traveling merchant for a pittance. Rather than pointing north, it points to something high above."
+            },
+            {
+                "id": "melvorTotH:Portable_Rations",
+                "expandedDescription": "Specially designed for those traveling long distances, each pack is its own self contained meal."
+            },
+            {
+                "id": "melvorTotH:Portable_Rations_II",
+                "expandedDescription": "Your Grandma's secret blend of 11 Herbs and Spices has made these rations far more palatable than normal."
+            },
+            {
+                "id": "melvorTotH:Blood_Vial",
+                "expandedDescription": "Jokingly called a \"Health Potion\" in the vampire community, this thick red solution isn't truly blood, but a blood substitute used to curve the Hunger."
+            },
+            {
+                "id": "melvorTotH:Blood_Vial_II",
+                "expandedDescription": "The Vampire Lords in their dark realm have long turned to Alchemy to sate their gnawing Hunger. This is their latest advancement in that pursuit."
+            },
+            {
+                "id": "melvorTotH:Masquerade_Mask",
+                "expandedDescription": "These enchanted masks offer total anonymity, despite how little they cover. Beware however, as they are fragile."
+            },
+            {
+                "id": "melvorTotH:Golden_Reel",
+                "expandedDescription": "Woven from the hair and scales of a Siren, this gold-red fishing line attracts fish even when unbaited. Beware, however, lest you fall under its spell as well."
+            },
+            {
+                "id": "melvorTotH:Burning_Reel",
+                "expandedDescription": "A strange fishing line made of an unknown material. It appears mundane at first, but when soaked in water, it will ignite on contact with open air."
             }
         ]
     }

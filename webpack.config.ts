@@ -1,20 +1,23 @@
-const CopyPlugin = require('copy-webpack-plugin');
-const TerserPlugin = require('terser-webpack-plugin');
-const path = require('path');
+import CopyPlugin from 'copy-webpack-plugin';
+import TerserPlugin from 'terser-webpack-plugin';
+import { resolve } from 'path';
 
-module.exports = {
+const config = {
     mode: 'production',
-    entry: './src/setup.ts',
-    experiments: {
-        outputModule: true
-    },
+    entry: { setup: './src/setup.ts' },
     output: {
-        filename: 'setup.mjs',
-        path: path.resolve(__dirname, 'packed'),
+        filename: '[name].mjs',
+        path: resolve(__dirname, 'packed'),
         library: {
             type: 'module'
         },
         clean: true
+    },
+    performance: {
+        hints: false
+    },
+    experiments: {
+        outputModule: true
     },
     optimization: {
         minimize: true,
@@ -27,15 +30,16 @@ module.exports = {
     plugins: [
         new CopyPlugin({
             patterns: [
-                { from: '**/*.html', to: '[path][name][ext]', context: 'src/app', noErrorOnMissing: true },
+                { from: '**/*.html', to: '[path][name][ext]', context: 'src', noErrorOnMissing: true },
                 { from: 'manifest.json', to: 'manifest.json', noErrorOnMissing: true },
-                { from: 'src/data', to: 'data', noErrorOnMissing: true },
-                { from: 'src/assets', to: 'assets', noErrorOnMissing: true }
+                { from: 'data/data*.json', to: '[path][name][ext]', context: 'src', noErrorOnMissing: true },
+                { from: 'assets', to: 'assets', context: 'src', noErrorOnMissing: true }
             ]
         })
     ],
     resolve: {
-        extensions: ['.tsx', '.ts', '.js']
+        extensions: ['.tsx', '.ts', '.js'],
+        modules: [resolve('./node_modules'), resolve('.')]
     },
     module: {
         rules: [
@@ -51,3 +55,5 @@ module.exports = {
         ]
     }
 };
+
+export default config;

@@ -1,3 +1,12 @@
+v0.2.0
+
+-   added volume 3 descriptions
+-   added volume 4 descriptions
+
+v0.1.1
+
+-   added voodoo trinket and amulet of curse totem summon
+
 v0.1.0
 
 -   fixed typo in Silver Topaz Necklace
@@ -6,7 +15,3 @@ v0.1.0
 -   added some missing toth amulets
 -   added base game and toth ammo
 -   added base game and toth craftable consumables
-
-v0.1.1
-
--   added voodoo trinket and amulet of curse totem summon

@@ -7,7 +7,16 @@
         "allowJs": true,
         "resolveJsonModule": true,
         "esModuleInterop": true,
-        "moduleResolution": "node"
+        "moduleResolution": "node",
+        "baseUrl": ".",
+        "paths": {
+            "src/*": ["src/*"]
+        }
     },
-    "include": ["src/**/*", "node_modules/melvor-types"]
+    "include": ["src/**/*", "node_modules/melvor-types"],
+    "ts-node": {
+        "compilerOptions": {
+            "module": "CommonJS"
+        }
+    }
 }
