@@ -1,3 +1,7 @@
+v0.4.1
+
+-   fixed typo in coin purse
+
 v0.4.0
 
 -   added volume 6 descriptions

@@ -297,7 +297,7 @@ export const language = {
     Blazing_Lantern:
         'An ever-burning lantern carried by the Nomads of the Shrouded Badlands. Its light burns away the encroaching mist and offers protection from the evils lurking within.',
     Fine_Coinpurse:
-        'This seemingly normal, if well made, coin purse never runs out of coins, as only as you only take a few at a time. Extensive study has resulted in no determinable answers as to how.',
+        'This seemingly normal, if well made, coin purse never runs out of coins, as long as you only take a few at a time. Extensive study has resulted in no determinable answers as to how.',
     Book_Of_Scholars:
         'While only the size of a standard tome, this enchanted book holds (literally) countless pages of knowledge on a wide range of subjects.',
     Hunters_Journal: 'Some hunters seek out mighty beasts. Others prefer more glittering prey.',
