@@ -1,3 +1,8 @@
+v0.4.0
+
+-   added volume 6 descriptions
+-   adjusted spacing around descriptions
+
 v0.3.1
 
 -   fixed FEZ description in English not having italics where appropriate

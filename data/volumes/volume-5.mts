@@ -1,7 +1,7 @@
 export const volume5 = `
 Miner's Helmet - Always wear your PPE for your own safety. If it starts talking to you, ignore it. That's just the cave fumes.
 
-Rune Essence - Magic in its purest form. This 'stones' are condensed magical energy that has yet to be tuned through the air of Runecrafting.
+Rune Essence - Magic in its purest form. These 'stones' are condensed magical energy that has yet to be tuned through the air of Runecrafting.
 
 Copper Ore - Common copper ore from the Central Mountain range. It has a wide range of popular uses, but is most often alloyed with tin to create bronze.
 

@@ -9,3 +9,21 @@
 .ide.fc {
     color: #d76a6a;
 }
+
+.ide.db {
+    display: block;
+    margin: 10px 0;
+}
+
+.media-body small.text-info + br {
+    display: none;
+}
+
+.ide.db + br,
+[data-tippy-root] br + span.text-info + br {
+    display: none;
+}
+
+#item-view-description .ide.db {
+    padding: 0 8px;
+}

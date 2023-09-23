@@ -374,6 +374,38 @@
             {
                 "id": "melvorTotH:Zephyte",
                 "expandedDescription": "A gemstone so rare it is often called a myth. Enchantments created with this gem as their focus contain devastating, almost divine, power."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Lightning_Spirit",
+                "expandedDescription": "Pure Elemental Lightning made manifest. More golem than Spell, these \"creatures\" can be given simple commands ."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Eagle",
+                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Eagle called forth mighty winds so that their champions would always be one step ahead."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Owl",
+                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Owl taught the righteous the secrets of the Stars and their Celestial power."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Siren",
+                "expandedDescription": "Highly magical, Sirens were once hunted to near extinction. They have since learned to be wary of mortal kind, and their unique magics help them to stay hidden from the world."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Spider",
+                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Spider laid in wait, then struck when the enemy was at their most vulnerable."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Beaver",
+                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Beaver taught man the art of woodworking, to build both Fortress and Bow."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Fox",
+                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Fox scoured the Land, searching for any that would help beat back the dark tide."
+            },
+            {
+                "id": "melvorTotH:Summoning_Familiar_Spectre",
+                "expandedDescription": "Born from the pure malice that seeps out of the Midnight Valley, its hatred is undirected. Make your enemies its own."
             }
         ]
     }

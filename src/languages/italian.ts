@@ -496,5 +496,77 @@ export const language = {
     Runestone:
         'Una gemma più comune trasformata dalla presenza della Runestone Pura. Sebbene non sia specializzata come altre gemme, la Runestone è di gran lunga la più versatile.',
     Zephyte:
-        'Una gemma così rara da essere spesso chiamata un mito. Gli incantesimi creati con questa gemma come focus contengono un potere devastante, quasi divino.'
+        'Una gemma così rara da essere spesso chiamata un mito. Gli incantesimi creati con questa gemma come focus contengono un potere devastante, quasi divino.',
+    Necromancer_Hat: "L'uniforme di una scuola reclusa di Necromanti che studiavano la connessione tra corpo e anima.",
+    Necromancer_Boots:
+        "L'Antico Necromante che ha fondato la scuola è stato considerato uno dei più potenti mai nati... o da allora.",
+    Necromancer_Bottoms:
+        "L'ossessione dell'Antico Necromante per l'anima alla fine lo ha portato alla follia. Queste vesti sono tutto ciò che è stato trovato dei suoi studenti.",
+    Necromancer_Robes:
+        'Oltre la città dei morti e attraverso il cuore oscuro della foresta, un Antico essere attende eroi coraggiosi per liberarlo dalla sua follia... o unirsi a lui e ai suoi Spiriti.',
+    Summoning_Shard_Red:
+        "Il sanguinoso frammento di un'anima errante. I frammenti rossi risuonano più fortemente con il versamento di sangue e la violenza. Sia per la protezione da essi, che per la perpetuazione.",
+    Summoning_Shard_Green:
+        "Un frammento vibrante di un'anima errante. I frammenti verdi risuonano meglio con gli Spiriti delle creature naturali. Sia animali che Spiriti elementali.",
+    Summoning_Shard_Blue:
+        "Un frammento scintillante di un'anima errante. I frammenti blu espandono la mente e attirano i curiosi. Gli Spiriti evocati con questi tendono a essere della varietà più intelligente.",
+    Summoning_Shard_Silver:
+        "Questo frammento luccica alla luce. Si dice che i frammenti d'argento attirino gli Spiriti della saggezza e della fortuna, quindi sono popolari tra artigiani e studiosi di ogni tipo.",
+    Summoning_Shard_Gold:
+        'Questo cristallo dorato agisce come un ponte che permette al evocatore di bilanciare più facilmente la sete di violenza del rosso e il desiderio di comprensione ordinata del blu.',
+    Summoning_Shard_Black:
+        "Proprio come l'oro aiuta a bilanciare il rosso e il blu, il Nero fa lo stesso per colmare il divario tra natura e creazione, consentendo così la nascita di miracoli.",
+    Summoning_Familiar_Golbin_Thief:
+        "Lo spirito di un golbin è facile da attirare, ma difficile da controllare. Un evocatore intelligente sa come dirigere l'energia di queste creature verso scopi più... produttivi.",
+    Summoning_Familiar_Ent:
+        "Questi spiriti che abitano gli alberi perdono regolarmente rami morti e migliorano la salute dell'albero ospitante. Il legno perduto da un Ent è molto ricercato.",
+    Summoning_Familiar_Mole:
+        "Questi spiriti della terra, anche se sembrano comuni talpe, hanno l'astuta capacità di fiutare i depositi minerali. Anche se nutrirli potrebbe costare più di quanto i nuovi evocatori possano permettersi.",
+    Summoning_Familiar_Occultist:
+        'Queste vecchie streghe cieche hanno un solo desiderio nella vita: torcere la mente dei deboli di spirito. Indicateli contro il vostro nemico e saranno lieti di mettere in atto la loro magia.',
+    Summoning_Familiar_Wolf:
+        'Si diceva che il Lupo Sempre Affamato fosse invincibile. Con ogni nemico che divorava, guariva e si faceva più forte. Quando fu infine ucciso, la sua anima fu intrappolata dal Re degli Spiriti per espiare i suoi peccati.',
+    Summoning_Familiar_Octopus:
+        'Una vecchia leggenda di un pescatore narra di un uomo che una volta diede il suo ultimo pesce a una fame di polpo. Anni dopo, lo stesso uomo sostenne che un gigantesco Kraken gli aveva regalato il corpo di una balena.',
+    Summoning_Familiar_Minotaur:
+        'Esperti di guerra, i mercenari Minotauri sono tra i soldati più ricercati in tutto Melvor. Ma fate attenzione, il loro temperamento è affilato quanto la lama della loro ascia.',
+    Summoning_Familiar_Pig:
+        'Una favola narra la storia di un capo cuoco che rifiutava di condividere il suo cibo con chiunque altro. In punizione, gli dèi lo trasformarono in un maiale. Inarrestabile, il cuoco continuò il suo lavoro.',
+    Summoning_Familiar_Crow:
+        'I corvi sono stati a lungo i famigliari preferiti dai maghi, per i loro doni naturali nel canale delle energie magiche. Che sia per istinto o intelligenza innata, i corvi non stanno dicendo.',
+    Summoning_Familiar_Centaur:
+        "Feroci concorrenti dei Minotauri, le sanguinose guerre tra questi due popoli si sono trasformate nel corso degli anni in una competizione. Come mercenari, ora competono per l'oro.",
+    Summoning_Familiar_Witch:
+        "Si dice che l'anima di una strega possa essere intrappolata se si seguono i passi appropriati. Che ciò sia consigliabile o meno è oggetto di discussione, ma alcuni sono al di là di tali piccoli problemi.",
+    Summoning_Familiar_Leprechaun:
+        "Spiriti dell'oro, queste creature hanno una bramosia più profonda persino del drago più antico. Saranno disposti a fare qualsiasi cosa per far crescere il loro tesoro e, di conseguenza, il loro potere.",
+    Summoning_Familiar_Monkey:
+        'Sorprendentemente intelligenti, queste creature possono essere addestrate per compiere compiti semplici, rendendole popolari tra gli artigiani di tutti i campi. Ma non lasciate nulla di scintillante intorno a loro.',
+    Summoning_Familiar_Cyclops: 'La cultura dei Ciclopi ruota attorno alla caccia, e quindi',
+    Summoning_Familiar_Salamander:
+        'Questi Spiriti del Fuoco amano fare il pisolino in fornaci ben curate. I fabbri cercano di attirarli, poiché purificano e rafforzano le fiamme al loro interno, risultando in metalli di migliore qualità.',
+    Summoning_Familiar_Unicorn:
+        'Manifestazioni fisiche di magie curative, gli unicorni hanno ispirato innumerevoli leggende in tutto Melvor.',
+    Summoning_Familiar_Bear:
+        "La leggenda narra che i primi druidi hanno imparato quali erbe fossero sicure osservando gli enormi orsi delle foreste del nord mentre si preparavano per l'inverno.",
+    Summoning_Familiar_Devil:
+        'I diavoli non sono demoni. Piuttosto, sono ciò che si crea quando un Ent viene bruciato. Nati dalle ceneri, questi "Spiritelli delle Braci" cercano solo di crearne di più.',
+    Summoning_Familiar_Dragon:
+        "Le ossa di drago conservano deboli echi della loro gloria passata. Questi echi possono essere persuasi da un evocatore esperto. L'ombra risultante è un potente alleato.",
+    Summoning_Familiar_Lightning_Spirit:
+        'Pura Luce Elementale resa manifesta. Più golem che incantesimo, queste "creature" possono ricevere comandi semplici.',
+    Summoning_Familiar_Eagle:
+        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. L'Aquila evocava potenti venti in modo che i loro campioni fossero sempre un passo avanti.",
+    Summoning_Familiar_Owl:
+        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Gufo insegnava ai giusti i segreti delle stelle e del loro potere celeste.",
+    Summoning_Familiar_Siren:
+        "Altamente magici, le Sirene furono una volta cacciate quasi all'estinzione. Hanno imparato da allora a diffidare degli umani e le loro magie uniche li aiutano a rimanere nascosti dal mondo.",
+    Summoning_Familiar_Spider:
+        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Ragno si appostava e colpiva quando il nemico era più vulnerabile.",
+    Summoning_Familiar_Beaver:
+        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Castoro insegnava all'uomo l'arte della lavorazione del legno, per costruire sia fortificazioni che archi.",
+    Summoning_Familiar_Fox:
+        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. La Volpe scorreva la Terra, cercando chiunque aiutasse a respingere l'oscura marea.",
+    Summoning_Familiar_Spectre:
+        'Nato dalla pura malizia che sgorga dalla Valle di Mezzanotte, il suo odio è senza scopo. Rendete i vostri nemici suoi.'
 };

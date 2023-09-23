@@ -501,5 +501,78 @@ export const language = {
     Runestone:
         'Ein häufigerer Edelstein, der durch die Anwesenheit von reinem Runenstein transformiert wird. Obwohl er nicht so spezialisiert ist wie andere Edelsteine, ist Runenstein bei weitem vielseitiger.',
     Zephyte:
-        'Ein so seltener Edelstein, dass er oft als Mythos bezeichnet wird. Verzauberungen, die mit diesem Edelstein als Fokus erstellt wurden, enthalten eine verheerende, fast göttliche Macht.'
+        'Ein so seltener Edelstein, dass er oft als Mythos bezeichnet wird. Verzauberungen, die mit diesem Edelstein als Fokus erstellt wurden, enthalten eine verheerende, fast göttliche Macht.',
+    Necromancer_Hat:
+        'Die Uniform einer verschlossenen Schule von Nekromanten, die die Verbindung zwischen Körper und Seele erforschten.',
+    Necromancer_Boots:
+        'Der alte Nekromant, der die Schule gründete, galt als einer der mächtigsten, der je geboren wurde... oder seitdem.',
+    Necromancer_Bottoms:
+        'Die Besessenheit des alten Nekromanten von der Seele trieb ihn schließlich in den Wahnsinn. Diese Roben sind alles, was von seinen Schülern übrig blieb.',
+    Necromancer_Robes:
+        'Jenseits der toten Stadt und durch das dunkle Herz des Waldes erwartet ein uraltes Wesen tapfere Helden, um es von seinem Wahnsinn zu befreien... oder sich ihm und seinen Geistern anzuschließen.',
+    Summoning_Shard_Red:
+        'Der blutige Splitter einer verirrten Seele. Rote Splitter schwingen am stärksten mit Blutvergießen und Gewalt. Ob zum Schutz davor oder zur Förderung davon.',
+    Summoning_Shard_Green:
+        'Ein lebhafter Splitter einer verirrten Seele. Grüne Splitter schwingen am besten mit den Geistern natürlicher Kreaturen. Sowohl Tiere als auch elementare Geister.',
+    Summoning_Shard_Blue:
+        'Ein schimmernder Splitter einer verirrten Seele. Blaue Splitter erweitern den Verstand und ziehen Neugierige an. Geister, die damit beschworen werden, neigen dazu, intelligenter zu sein.',
+    Summoning_Shard_Silver:
+        'Dieser Splitter glänzt im Licht. Silberne Splitter ziehen angeblich Geister der Weisheit und des Glücks an und sind daher bei Handwerkern und Wissenschaftlern aller Art beliebt.',
+    Summoning_Shard_Gold:
+        'Dieser goldene Kristallsplitter dient als Brücke und ermöglicht es dem Beschwörer, das Verlangen nach Gewalt des Roten und das Verlangen nach ordentlichem Verstehen des Blauen leichter auszugleichen.',
+    Summoning_Shard_Black:
+        'Genau wie Gold dazu beiträgt, Rot und Blau auszugleichen, überbrückt Schwarz auch die Kluft zwischen Natur und Schöpfung und ermöglicht so die Geburt von Wundern.',
+    Summoning_Familiar_Golbin_Thief:
+        'Der Geist eines Golbin ist einfach anzulocken, aber schwer zu kontrollieren. Ein kluger Beschwörer weiß, wie man die Energie dieser Kreaturen zu produktiveren Zwecken umlenkt.',
+    Summoning_Familiar_Ent:
+        'Diese baumbewohnenden Geister werfen regelmäßig tote Äste ab und verbessern die Gesundheit ihres Wirtbaums. Holz, das von einem Ent abgeworfen wird, ist sehr begehrt.',
+    Summoning_Familiar_Mole:
+        'Diese Erdgeister, die wie gewöhnliche Maulwürfe aussehen, haben die schlauen Fähigkeiten, Mineralvorkommen aufzuspüren. Das Füttern von ihnen kann jedoch teurer sein, als neue Beschwörer sich leisten können.',
+    Summoning_Familiar_Occultist:
+        'Diese blinden Hexen haben nur einen Wunsch im Leben: Den Verstand der Schwachköpfe zu verdrehen. Zeigen Sie sie auf Ihren Feind, und sie werden gerne ihre Magie wirken.',
+    Summoning_Familiar_Wolf:
+        'Man sagte, der Immerhungrige Wolf sei unbesiegbar. Mit jedem Feind, den er verschlang, heilte er und wurde stärker. Als er schließlich getötet wurde, wurde seine Seele vom Geistkönig gefangen genommen, um für seine Sünden zu büßen.',
+    Summoning_Familiar_Octopus:
+        'Eine alte Fischerlegende erzählt von einem Mann, der einst einer hungernden Krake seinen letzten Fisch gab. Jahre später behauptete derselbe Mann, dass ihm ein riesiger Krake den Körper eines Wales geschenkt habe.',
+    Summoning_Familiar_Minotaur:
+        'Kriegsprofis, Minotauren-Söldner gehören zu den begehrtesten Soldaten in ganz Melvor. Aber Vorsicht, ihr Temperament ist so scharf wie ihre Axtklinge.',
+    Summoning_Familiar_Pig:
+        'Eine Fabel erzählt die Geschichte eines Meisterkochs, der sich weigerte, sein Essen mit anderen zu teilen. Als Strafe verwandelten die Götter ihn in ein Schwein. Unbeirrt setzte der Koch seine Arbeit fort.',
+    Summoning_Familiar_Crow:
+        'Krähen sind seit langem die bevorzugten Vertrauten von Zauberern, wegen ihrer natürlichen Begabung bei der Kanalisierung magischer Energien. Ob aus Instinkt oder angeborener Intelligenz, die Krähen verraten nichts.',
+    Summoning_Familiar_Centaur:
+        'Als starke Konkurrenten der Minotauren haben sich die blutigen Kriege zwischen diesen beiden Völkern im Laufe der Jahre mehr in einen Wettbewerb verwandelt. Als Söldner konkurrieren sie jetzt um Gold.',
+    Summoning_Familiar_Witch:
+        'Es wird gesagt, dass die Seele einer Hexe eingefangen werden kann, wenn die richtigen Schritte unternommen werden. Ob dies ratsam ist oder nicht, ist umstritten, aber einige sind über solche banalen Anliegen hinaus.',
+    Summoning_Familiar_Leprechaun:
+        'Geister des Goldes, diese Kreaturen haben eine Gier, die selbst die ältesten Drachen übertrifft. Sie werden alles tun, um ihren Hort und damit ihre Macht zu vergrößern.',
+    Summoning_Familiar_Monkey:
+        'Erstaunlich intelligent, können diese Kreaturen darauf trainiert werden, einfache Aufgaben auszuführen, was sie bei Handwerkern aller Art beliebt macht. Lassen Sie jedoch nichts Glänzendes in ihrer Nähe liegen.',
+    Summoning_Familiar_Cyclops: 'Die Kultur der Zyklopen dreht sich um die Jagd, und daher',
+    Summoning_Familiar_Salamander:
+        'Diese Feuergeister schlafen gerne in gut gepflegten Öfen. Schmiede versuchen, sie anzulocken, da sie das Feuer reinigen und stärken, was zu höherwertigen Metallen führt.',
+    Summoning_Familiar_Unicorn:
+        'Physische Manifestationen von Heilmagie, Einhörner haben unzählige Legenden in ganz Melvor inspiriert.',
+    Summoning_Familiar_Bear:
+        'Die Legende besagt, dass die ersten Druiden gelernt haben, welche Kräuter sicher sind, indem sie die großen Bären der nordischen Wälder beobachteten, während sie sich auf den Winter vorbereiteten.',
+    Summoning_Familiar_Devil:
+        'Teufel sind keine Dämonen. Sie entstehen vielmehr, wenn ein Ent verbrannt wird. Aus der Asche geboren, streben diese "Glutgeister" nur danach, mehr von ihrer Art zu schaffen.',
+    Summoning_Familiar_Dragon:
+        'Drachenknochen bewahren schwache Echos ihrer früheren Herrlichkeit auf. Ein geschickter Beschwörer kann sie hervorrufen. Der resultierende Schatten ist ein mächtiger Verbündeter.',
+    Summoning_Familiar_Lightning_Spirit:
+        'Reines elementares Blitzlicht manifestiert. Mehr Golem als Zauber, diese "Kreaturen" können einfache Befehle erhalten.',
+    Summoning_Familiar_Eagle:
+        'Einer der fünf Wächtergeister, die halfen, das "Große Böse" zu versiegeln. Der Adler rief mächtige Winde herbei, damit ihre Champions immer einen Schritt voraus waren.',
+    Summoning_Familiar_Owl:
+        'Einer der fünf Wächtergeister, die halfen, das "Große Böse" zu versiegeln. Die Eule lehrte den Rechtschaffenen die Geheimnisse der Sterne und ihre himmlische Macht.',
+    Summoning_Familiar_Siren:
+        'Hochmagisch waren Sirenen einst fast bis zur Ausrottung gejagt. Sie haben seitdem gelernt, vor den Sterblichen auf der Hut zu sein, und ihre einzigartige Magie hilft ihnen, vor der Welt verborgen zu bleiben.',
+    Summoning_Familiar_Spider:
+        'Einer der fünf Wächtergeister, die halfen, das "Große Böse" zu versiegeln. Die Spinne lauerte und schlug zu, wenn der Feind am verwundbarsten war.',
+    Summoning_Familiar_Beaver:
+        'Einer der fünf Wächtergeister, die halfen, das "Große Böse" zu versiegeln. Der Biber lehrte den Menschen die Kunst des Holzhandwerks, um sowohl Festungen als auch Bögen zu bauen.',
+    Summoning_Familiar_Fox:
+        'Einer der fünf Wächtergeister, die halfen, das "Große Böse" zu versiegeln. Der Fuchs durchstreifte das Land und suchte nach allen, die halfen, die dunkle Flut zurückzuschlagen.',
+    Summoning_Familiar_Spectre:
+        'Geboren aus dem reinen Hass, der aus dem Mitternachtstal sickert, ist sein Hass ziellos. Machen Sie Ihre Feinde zu seinen eigenen.'
 };

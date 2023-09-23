@@ -486,5 +486,77 @@ export const language = {
     Runestone:
         "Daha yaygın bir değerli taşı, Saf Run Taşı'nın varlığı tarafından dönüştürülmüştür. Diğer değerli taşlar kadar özelleşmemiş olsa da, Runestone, açık ara en çok yönlü olandır.",
     Zephyte:
-        'Çok nadir bir değerli taş olduğu için sıklıkla bir efsane olarak adlandırılır. Bu değerli taşla oluşturulan büyüler, yıkıcı, neredeyse ilahi bir güce sahiptir.'
+        'Çok nadir bir değerli taş olduğu için sıklıkla bir efsane olarak adlandırılır. Bu değerli taşla oluşturulan büyüler, yıkıcı, neredeyse ilahi bir güce sahiptir.',
+    Necromancer_Hat: 'Bedensel ve ruhsal bağlantıyı inceleyen izole bir büyücü okulu üniforması.',
+    Necromancer_Boots:
+        'Okulu kuran Eski Bir Büyücü, kendisinin şimdiye kadar doğmuş en güçlü büyücü olduğunu iddia ediyordu... veya o zamandan beri.',
+    Necromancer_Bottoms:
+        'Eski Bir Büyücünün ruh hakkındaki saplantısı sonunda onu deliliğe sürükledi. Bu giysiler, öğrencilerinin geriye kalan her şeyden başka bir şey değil.',
+    Necromancer_Robes:
+        "Ölü bir şehirden ve karanlık ormanın kalbinden öte, cesur kahramanların onu delilikten kurtarması için bekleyen Eski Bir Varlık... veya ona ve Ruhları'na katılması.",
+    Summoning_Shard_Red:
+        'Bir dolaşan ruhun kanlı bir parçası. Kırmızı parçalar daha fazla kan dökme ve şiddetle daha iyi rezonansa geliyor. Onları hem koruma hem de iktidarı güçlendirmek için kullanırlar.',
+    Summoning_Shard_Green:
+        'Parlayan bir dolaşan ruhun canlı bir parçası. Yeşil parçalar, doğal varlıkların Ruhları ile daha iyi rezonansa geliyor. Hem hayvanlar hem de element varlıkları için geçerli.',
+    Summoning_Shard_Blue:
+        'Parlayan bir dolaşan ruhun mavi bir parçası. Mavi parçalar zihni genişletiyor ve meraklıları çekiyor. Bunlarla çağrılan Ruhlar genellikle daha zeki olurlar.',
+    Summoning_Shard_Silver:
+        'Bu parça ışıkta parlıyor. Gümüş parçaların bilgelik ve şans Ruhlarını çektiği söylenir, bu nedenle her türlü zanaatkâr ve bilim adamı arasında popülerler.',
+    Summoning_Shard_Gold:
+        'Bu altın kristal parça bir köprü gibi işler, kırmızının şiddet açlığını ve mavinin düzenli arzusunu daha kolay dengelemesine izin verir.',
+    Summoning_Shard_Black:
+        'Altın kırmızı ve maviyi dengelemeye yardımcı olduğu gibi Siyah da doğa ile yaratma arasındaki boşluğu doldurur, mucizelerin doğmasına izin verir.',
+    Summoning_Familiar_Golbin_Thief:
+        'Bir goblin ruhu çekmesi kolaydır, ancak kontrol etmek zordur. Akıllı bir çağırıcı bu yaratıkların enerjisini daha... üretken amaçlar için nasıl yönlendireceğini bilir.',
+    Summoning_Familiar_Ent:
+        'Ağaçlarda yaşayan bu ruhlar düzenli olarak ölü dallar düşürür ve ağaç anahtarlarının sağlığını iyileştirir. Bir Ent tarafından bırakılan ahşap oldukça talep edilir.',
+    Summoning_Familiar_Mole:
+        'Bu toprak ruhları, normal karıncalara benzemelerine rağmen, maden yataklarını tespit etme yeteneğine sahiptirler. Bunları beslemek, yeni çağırıcılar için karşılanamayacak kadar pahalı olabilir.',
+    Summoning_Familiar_Occultist:
+        'Bu kör cadıların yaşamda tek bir isteği vardır: zayıf iradeli kişilerin zihnini bükme. Onları düşmanlarına yönlendirin ve memnuniyetle büyülerini kullanırlar.',
+    Summoning_Familiar_Wolf:
+        "Her zaman Aç Kurt'un ölümsüz olduğu söylenirdi. Yediği her düşmanla iyileşir ve daha güçlü hale gelirdi. Nihayetinde öldürüldüğünde, ruhu günahlarını temizlemek için Ruh Kralı tarafından tutsak edildi.",
+    Summoning_Familiar_Octopus:
+        "Eski bir balıkçının hikayesi, bir adamın bir zamanlar aç olan bir ahtapot'a son balığını verdiğini anlatır. Yıllar sonra, aynı adam, dev bir yengeçbalığı bedeni verdiğini iddia etti.",
+    Summoning_Familiar_Minotaur:
+        "Savaş uzmanları olarak, Minotaur Sözleşmeli askerler Melvor'un en çok aranan askerleri arasındadır. Ancak dikkat edin, karakterleri balta bıçakları kadar keskin.",
+    Summoning_Familiar_Pig:
+        'Bir fable, baş aşçının başka kimseyle yemeğini paylaşmayı reddettiği bir hikayeyi anlatır. Tanrılar onu bir domuza dönüştürdüler. Ancak baş aşçı bunu umursamadan çalışmaya devam etti.',
+    Summoning_Familiar_Crow:
+        'Kuzgunlar uzun süredir büyücülerin doğal enerjileri yönlendirmek için favori aileleridir. Bu, içgüdüsel olarak veya doğuştan gelen bir zeka sayesinde, kuzgunlar suskunlardır.',
+    Summoning_Familiar_Centaur:
+        'Savaşta Minotaurlar ile yarışan Şövalye Centaurları, bu iki grup arasındaki uzun yıllar süren savaşlar bir altın yarışmasına dönüştü.',
+    Summoning_Familiar_Witch:
+        'Bir cadının ruhunun belirli adımlar takip edilerek tutsak edilebileceği söylenir. Bu akıllıca bir şey mi yoksa değil mi, tartışmalıdır, ancak bazıları bu tür düşüncelerin ötesindedir.',
+    Summoning_Familiar_Leprechaun:
+        'Altın Ruhları olan bu yaratıklar, en eski ejderhalardan bile daha derin bir açgözlülüğe sahiptir. Hazinelerini ve dolayısıyla güçlerini artırmak için her şeyi yaparlar.',
+    Summoning_Familiar_Monkey:
+        'Şaşırtıcı derecede akıllı olan bu yaratıklar, basit görevleri yerine getirmek için eğitilebilirler, bu nedenle tüm mesleklerden zanaatkârlar arasında popülerdir. Sadece yanlarında parlak nesneler bırakmamaya dikkat edin.',
+    Summoning_Familiar_Cyclops: 'Cyclops kültürü avcılığa dayanıyor ve bu nedenle',
+    Summoning_Familiar_Salamander:
+        'Bu ateş ruhları, bakımlı fırınlarda uyumayı çok severler. Demirciler, onları çekmeye çalışır, çünkü ateşleri temizler ve güçlendirir, bu da daha kaliteli metale yol açar.',
+    Summoning_Familiar_Unicorn:
+        "Şifa büyüsünün fiziksel tezahürleri olarak, unicornlar Melvor'da sayısız efsane ilham kaynağı olmuştur.",
+    Summoning_Familiar_Bear:
+        'İlk druidlerin kışa hazırlandığı kuzey ormanlarında büyük ayıları izleyerek hangi otların güvenli olduğunu öğrendikleri söylenir.',
+    Summoning_Familiar_Devil:
+        'Şeytanlar şeytanlar değildir. Aksine, bir Ent yanarken oluşturulan şeydirler. Küllerden doğan bu "Ateş Ruhları" sadece kendi türlerini yaratmayı hedeflerler.',
+    Summoning_Familiar_Dragon:
+        'Ejderha kemikleri eski zaferinin solgun yankılarını taşır. Bu yankılar, yetenekli bir çağırıcı tarafından ikna edilebilir. Ortaya çıkan gölge güçlü bir müttefik olur.',
+    Summoning_Familiar_Lightning_Spirit:
+        'Saf şimşek element enerjisi somutlaştırılmıştır. Daha çok golem gibi olan bu "varlıklar", basit komutlarla yönetilebilirler.',
+    Summoning_Familiar_Eagle:
+        'Bir "Büyük Kötü"yü mühürlemeye yardım eden beş Koruyucu Ruh\'tan biri. Kartal, şampiyonlarının her zaman bir adım önde olmalarını sağlamak için güçlü rüzgarlar çağırırdı.',
+    Summoning_Familiar_Owl:
+        'Bir "Büyük Kötü"yü mühürlemeye yardım eden beş Koruyucu Ruh\'tan biri. Baykuş, dürüstlere yıldızların sırlarını ve göksel güçlerini öğretti.',
+    Summoning_Familiar_Siren:
+        'Son derece büyülü olan Sirenler neredeyse soyu tükenene kadar avlandı. O zamandan beri, insanlığa güvenmeme konusunda öğrendiler ve onları dünyadan gizlemelerine yardımcı olan benzersiz büyüler geliştirdiler.',
+    Summoning_Familiar_Spider:
+        'Bir "Büyük Kötü"yü mühürlemeye yardım eden beş Koruyucu Ruh\'tan biri. Örümcek sabırla bekler ve düşman en savunmasız olduğunda saldırır.',
+    Summoning_Familiar_Beaver:
+        'Bir "Büyük Kötü"yü mühürlemeye yardım eden beş Koruyucu Ruh\'tan biri. Kardan yapılan kaleler ve yaylar yapmak için insanlara ahşap işçiliği sanatını öğretti.',
+    Summoning_Familiar_Fox:
+        'Bir "Büyük Kötü"yü mühürlemeye yardım eden beş Koruyucu Ruh\'tan biri. Tilki, karanlık gelgitleri geri püskürtmeye yardımcı olan herhangi birini ararken Dünya üzerinde dolaşıyordu.',
+    Summoning_Familiar_Spectre:
+        "Gece Vadisi'nden yayılan saf kötülükten doğan bu ruhun nefreti yönsüzdür. Düşmanlarınızı kendiniz yapın."
 };

@@ -117,11 +117,7 @@ export class App {
         if (item._expandedDescription) {
             description = description.replace(loadedLangJson['BANK_STRING_38'], '');
 
-            if (description) {
-                description += `<br /><br />`;
-            }
-
-            description += `<span class="ide fc">${getLangString(`IDE_${item.localID}`)}</span>`;
+            description += `<span class="ide fc db">${getLangString(`IDE_${item.localID}`)}</span>`;
         }
 
         return description;

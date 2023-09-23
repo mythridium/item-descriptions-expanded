@@ -505,5 +505,77 @@ export const language = {
     Runestone:
         "Une gemme plus commune transformée par la présence de la pierre runique pure. Bien qu'elle ne soit pas aussi spécialisée que d'autres gemmes, la runestone est de loin la plus polyvalente.",
     Zephyte:
-        "Une gemme si rare qu'elle est souvent appelée un mythe. Les enchantements créés avec cette gemme comme focus contiennent un pouvoir dévastateur, presque divin."
+        "Une gemme si rare qu'elle est souvent appelée un mythe. Les enchantements créés avec cette gemme comme focus contiennent un pouvoir dévastateur, presque divin.",
+    Necromancer_Hat: "L'uniforme d'une école recluse de nécromanciens qui étudiait le lien entre le corps et l'âme.",
+    Necromancer_Boots:
+        "L'ancien nécromancien qui a fondé l'école était considéré comme l'un des plus puissants jamais nés... ou depuis.",
+    Necromancer_Bottoms:
+        "L'obsession de l'ancien nécromancien pour l'âme l'a finalement conduit à la folie. Ces robes sont tout ce qui a été trouvé de ses étudiants.",
+    Necromancer_Robes:
+        'Au-delà de la ville des morts, et à travers le cœur sombre de la forêt, un être ancien attend les braves héros pour le libérer de sa folie... ou se joindre à lui et à ses esprits.',
+    Summoning_Shard_Red:
+        "L'éclat sanglant d'une âme égarée. Les éclats rouges résonnent le plus fortement avec les effusions de sang et la violence. Que ce soit pour se protéger ou l'encourager.",
+    Summoning_Shard_Green:
+        "Un éclat vibrant d'une âme égarée. Les éclats verts résonnent le mieux avec les esprits des créatures naturelles. Animaux et esprits élémentaires.",
+    Summoning_Shard_Blue:
+        "Un éclat scintillant d'une âme égarée. Les éclats bleus élargissent l'esprit et attirent les curieux. Les esprits invoqués avec ceux-ci ont tendance à être de la variété la plus intelligente.",
+    Summoning_Shard_Silver:
+        "Cet éclat brille à la lumière. On dit que les éclats d'argent attirent les esprits de la sagesse et de la fortune, c'est pourquoi ils sont populaires parmi les artisans et les chercheurs de tous types.",
+    Summoning_Shard_Gold:
+        "Cette éclat de cristal doré sert de pont permettant au sorcier de mieux équilibrer la soif de violence du rouge et le désir d'entendement ordonné du bleu.",
+    Summoning_Shard_Black:
+        "Tout comme l'or aide à équilibrer le rouge et le bleu, le noir comble également le fossé entre la nature et la création, permettant ainsi la naissance de miracles.",
+    Summoning_Familiar_Golbin_Thief:
+        "L'esprit d'un golbin est simple à attirer, mais difficile à contrôler. Un sorcier intelligent sait comment rediriger l'énergie de ces créatures vers des fins plus... productives.",
+    Summoning_Familiar_Ent:
+        'Ces esprits habitant les arbres perdent régulièrement leurs branches mortes et améliorent la santé de leur arbre hôte. Le bois perdu par un Ent est très recherché.',
+    Summoning_Familiar_Mole:
+        "Ces esprits de la terre, bien qu'apparaissant comme une taupe commune, ont la capacité astucieuse de détecter les gisements de minéraux. Cependant, les nourrir peut coûter plus cher que ce que les nouveaux sorciers peuvent se permettre.",
+    Summoning_Familiar_Occultist:
+        "Ces vieilles sorcières aveugles n'ont qu'un seul désir dans la vie. Tordre l'esprit des faibles. Pointez-les vers votre ennemi et elles travailleront volontiers leur magie.",
+    Summoning_Familiar_Wolf:
+        "On disait que le Loup Toujours Affamé était invincible. À chaque ennemi qu'il dévorait, il guérissait et devenait plus fort. Lorsqu'il fut enfin tué, son âme fut piégée par le Roi des Esprits pour expier ses péchés.",
+    Summoning_Familiar_Octopus:
+        "Un vieil conte de pêcheur raconte l'histoire d'un homme qui a autrefois donné son dernier poisson à une pieuvre affamée. Des années plus tard, le même homme prétendit qu'un énorme Kraken lui avait offert le corps d'une baleine.",
+    Summoning_Familiar_Minotaur:
+        'Experts de la guerre, les mercenaires Minotaures sont parmi les soldats les plus recherchés de tout Melvor. Cependant, méfiez-vous, leur tempérament est aussi tranchant que leur hache.',
+    Summoning_Familiar_Pig:
+        "Une fable raconte l'histoire d'un chef talentueux qui refusait de partager sa nourriture avec quiconque. En punition, les dieux l'ont transformé en cochon. Inébranlable, le chef a continué son travail.",
+    Summoning_Familiar_Crow:
+        'Les corbeaux sont depuis longtemps les familiers préférés des sorciers, pour leurs dons naturels en matière de canalisation des énergies magiques. Que ce soit par instinct ou par intelligence innée, les corbeaux ne disent rien.',
+    Summoning_Familiar_Centaur:
+        "Féroces concurrents des Minotaures, les guerres sanglantes entre ces deux races ont évolué en compétition au fil des ans. En tant que mercenaires, ils rivalisent désormais pour l'or.",
+    Summoning_Familiar_Witch:
+        "On dit qu'on peut piéger l'âme d'une sorcière si les étapes appropriées sont suivies. Que cela soit conseillé ou non, c'est sujet à débat, mais certains sont au-dessus de telles préoccupations futiles.",
+    Summoning_Familiar_Leprechaun:
+        "Des esprits d'or, ces créatures ont une cupidité plus profonde que même les dragons les plus anciens. Ils iront jusqu'au bout pour faire croître leur trésor, et donc leur pouvoir.",
+    Summoning_Familiar_Monkey:
+        'Étonnamment intelligents, ces créatures peuvent être dressées pour accomplir des tâches simples, ce qui les rend populaires parmi les artisans de tous les domaines. Mais ne laissez rien de brillant à leur portée.',
+    Summoning_Familiar_Cyclops: 'La culture des Cyclopes tourne autour de la chasse, et donc',
+    Summoning_Familiar_Salamander:
+        "Ces esprits de feu adorent faire la sieste dans les fours bien entretenus. Les forgerons essaient de les attirer, car ils nettoient et renforcent les flammes à l'intérieur, ce qui donne des métaux de meilleure qualité.",
+    Summoning_Familiar_Unicorn:
+        "Manifestations physiques de la magie de guérison, les licornes ont inspiré d'innombrables légendes à travers Melvor.",
+    Summoning_Familiar_Bear:
+        "La légende raconte que les premiers druides ont appris quelles herbes étaient sûres en observant les grands ours des forêts du nord tandis qu'ils se préparaient pour l'hiver.",
+    Summoning_Familiar_Devil:
+        "Les démons ne sont pas des démons. En réalité, ils sont créés lorsque l'on brûle un Ent. Nés de la cendre, ces « Esprits des Braises » cherchent uniquement à en créer davantage.",
+    Summoning_Familiar_Dragon:
+        "Les os de dragon conservent de faibles échos de leur gloire passée. Ces échos peuvent être suscités par un sorcier compétent. L'ombre résultante est un allié puissant.",
+    Summoning_Familiar_Lightning_Spirit:
+        'Pure Éclair élémentaire devenu manifeste. Plus golem que sort, ces « créatures » peuvent recevoir des commandes simples.',
+    Summoning_Familiar_Eagle:
+        "L'un des cinq Esprits Gardiens qui ont contribué à sceller un « Grand Mal ». L'Aigle invoquait de puissants vents pour que leurs champions soient toujours un pas en avant.",
+    Summoning_Familiar_Owl:
+        "L'un des cinq Esprits Gardiens qui ont contribué à sceller un « Grand Mal ». La Chouette enseignait aux justes les secrets des étoiles et de leur pouvoir céleste.",
+    Summoning_Familiar_Siren:
+        "Très magiques, les sirènes ont autrefois été chassées jusqu'à l'extinction. Depuis, elles ont appris à se méfier des mortels, et leurs magies uniques les aident à rester cachées du monde.",
+    Summoning_Familiar_Spider:
+        "L'un des cinq Esprits Gardiens qui ont contribué à sceller un « Grand Mal ». L'araignée restait en embuscade, puis frappait lorsque l'ennemi était à son point le plus vulnérable.",
+    Summoning_Familiar_Beaver:
+        "L'un des cinq Esprits Gardiens qui ont contribué à sceller un « Grand Mal ». Le Castor a enseigné aux humains l'art de la menuiserie, pour construire à la fois des forteresses et des arcs.",
+    Summoning_Familiar_Fox:
+        "L'un des cinq Esprits Gardiens qui ont contribué à sceller un « Grand Mal ». Le Renard parcourait la Terre, cherchant quiconque aiderait à repousser la marée sombre.",
+    Summoning_Familiar_Spectre:
+        'Né de la pure malice qui suinte de la Vallée de Minuit, sa haine est sans direction. Faites de vos ennemis les siens.'
 };

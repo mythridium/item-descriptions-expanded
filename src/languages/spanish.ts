@@ -493,5 +493,78 @@ export const language = {
     Runestone:
         'Una gema más común transformada por la presencia de la Piedra Rúnica Pura. Aunque no es tan especializada como otras gemas, la Piedra Rúnica es, con mucho, la más versátil.',
     Zephyte:
-        'Una gema tan rara que a menudo se la llama un mito. Los encantamientos creados con esta gema como enfoque contienen un poder devastador, casi divino.'
+        'Una gema tan rara que a menudo se la llama un mito. Los encantamientos creados con esta gema como enfoque contienen un poder devastador, casi divino.',
+    Necromancer_Hat:
+        'El uniforme de una escuela reclusa de nigromantes que estudió la conexión entre el cuerpo y el alma.',
+    Necromancer_Boots:
+        'El Antiguo Nigromante que fundó la escuela decía ser uno de los más poderosos jamás nacidos... o desde entonces.',
+    Necromancer_Bottoms:
+        'La obsesión del Antiguo Nigromante por el alma eventualmente lo llevó a la locura. Estas vestiduras son todo lo que queda de sus alumnos.',
+    Necromancer_Robes:
+        'Más allá de la ciudad muerta y en el corazón oscuro del bosque, un Ser Antiguo espera a valientes héroes para liberarlo de su locura... o unirse a él y a sus Espíritus.',
+    Summoning_Shard_Red:
+        'El fragmento sangriento de un alma errante. Los fragmentos rojos resuenan más fuertemente con la derramada de sangre y la violencia. Ya sea para protección o perpetuación.',
+    Summoning_Shard_Green:
+        'Un fragmento vibrante de un alma errante. Los fragmentos verdes resuenan mejor con los Espíritus de criaturas naturales. Tanto animales como Espíritus elementales.',
+    Summoning_Shard_Blue:
+        'Un fragmento centelleante de un alma errante. Los fragmentos azules expanden la mente y atraen a los curiosos. Los Espíritus convocados con ellos tienden a ser más inteligentes.',
+    Summoning_Shard_Silver:
+        'Este fragmento brilla a la luz. Se dice que los fragmentos plateados atraen a los Espíritus de la sabiduría y la fortuna, siendo populares entre artesanos y estudiosos de todas las clases.',
+    Summoning_Shard_Gold:
+        'Este fragmento de cristal dorado actúa como un puente, permitiendo al invocador equilibrar más fácilmente la sed de violencia del rojo y el deseo ordenado del azul.',
+    Summoning_Shard_Black:
+        'Así como el oro ayuda a equilibrar el rojo y el azul, el Negro también llena el vacío entre la naturaleza y la creación, permitiendo que nazcan milagros.',
+    Summoning_Familiar_Golbin_Thief:
+        'El espíritu de un gobblin es fácil de atraer, pero difícil de controlar. Un invocador inteligente sabe cómo redirigir la energía de estas criaturas para fines más... productivos.',
+    Summoning_Familiar_Ent:
+        'Estos espíritus habitantes de árboles regularmente dejan caer ramas muertas y mejoran la salud de sus árboles anfitriones. La madera dejada por un Ent es altamente buscada.',
+    Summoning_Familiar_Mole:
+        'Estos espíritus de la tierra, aunque parezcan topos comunes, tienen la astuta habilidad de rastrear depósitos minerales. Aunque alimentarlos puede costar más de lo que los nuevos invocadores pueden pagar.',
+    Summoning_Familiar_Occultist:
+        'Estas brujas ciegas tienen un solo deseo en la vida: retorcer la mente de los débiles de voluntad. Apúntalas hacia tu enemigo y estarán encantadas de trabajar con sus magias.',
+    Summoning_Familiar_Wolf:
+        'Se decía que el Lobo Siempre Hambriento era inmortal. Con cada enemigo que devoraba, se curaba y se hacía más fuerte. Cuando finalmente fue asesinado, su alma fue atrapada por el Rey de los Espíritus para expiar sus pecados.',
+    Summoning_Familiar_Octopus:
+        'Una antigua historia de pescador cuenta de un hombre que una vez dio su último pez a un pulpo hambriento. Años después, el mismo hombre afirmó que un Kraken gigante le dio el cuerpo de una ballena.',
+    Summoning_Familiar_Minotaur:
+        'Expertos en la guerra, los Mercenarios Minotauros se encuentran entre los soldados más buscados de Melvor. Sin embargo, ten cuidado, su temperamento es afilado como sus cuchillas de hacha.',
+    Summoning_Familiar_Pig:
+        'Una fábula cuenta la historia de un maestro cocinero que se negó a compartir su comida con cualquier otra persona. Como castigo, los dioses lo transformaron en un cerdo. Sin inmutarse, el cocinero continuó con su trabajo.',
+    Summoning_Familiar_Crow:
+        'Los cuervos han sido familiares favoritos de los magos durante mucho tiempo, debido a sus dones naturales para canalizar energías mágicas. Ya sea por instinto o inteligencia innata, los cuervos no están diciendo.',
+    Summoning_Familiar_Centaur:
+        'Feroces competidores de los Minotauros, las sangrientas guerras entre estos dos grupos a lo largo de los años se han convertido en una competencia por el oro. Como mercenarios, ahora compiten por el oro en lugar de por la sangre.',
+    Summoning_Familiar_Witch:
+        'Se dice que el alma de una bruja puede ser atrapada si se siguen los pasos adecuados. Si esto es aconsejable o no es motivo de debate, pero algunos están más allá de tales preocupaciones mezquinas.',
+    Summoning_Familiar_Leprechaun:
+        'Espíritus del Oro, estas criaturas mantienen una codicia más profunda que incluso los dragones más antiguos. Harán cualquier cosa para aumentar su tesoro y, por lo tanto, su poder.',
+    Summoning_Familiar_Monkey:
+        'Sorprendentemente inteligentes, estas criaturas pueden ser entrenadas para realizar tareas simples, lo que las hace populares entre los artesanos de todos los campos. Solo asegúrate de no dejar nada brillante cerca de ellas.',
+    Summoning_Familiar_Cyclops: 'La cultura de los cíclopes gira en torno a la caza y, como tal,',
+    Summoning_Familiar_Salamander:
+        'A estos espíritus del fuego les encanta dormitar en hornos bien cuidados. Los herreros intentan atraerlos, ya que purifican y fortalecen las llamas, lo que resulta en metales de mejor calidad.',
+    Summoning_Familiar_Unicorn:
+        'Manifestaciones físicas de la magia de curación, los unicornios han inspirado innumerables leyendas en Melvor.',
+    Summoning_Familiar_Bear:
+        'Se dice que los primeros druidas aprendieron qué hierbas eran seguras observando a los grandes osos de los bosques del norte mientras se preparaban para el invierno.',
+    Summoning_Familiar_Devil:
+        'Los diablos no son demonios. Por el contrario, son lo que se crea cuando un Ent se quema. Nacidos de las cenizas, estos "Espíritus de Fuego" buscan solo crear más de su especie.',
+    Summoning_Familiar_Dragon:
+        'Los huesos de dragón guardan ecos débiles de su antigua gloria. Estos ecos pueden ser persuadidos por un invocador hábil. La sombra resultante es una aliada poderosa.',
+    Summoning_Familiar_Lightning_Spirit:
+        'Pura Energía Elemental del Relámpago manifestada. Más golem que magia, estas "criaturas" pueden recibir comandos simples.',
+    Summoning_Familiar_Eagle:
+        'Uno de los cinco Espíritus Guardianes que ayudaron a sellar un "Gran Mal". El Águila convocaba vientos poderosos para que sus campeones siempre estuvieran un paso adelante.',
+    Summoning_Familiar_Owl:
+        'Uno de los cinco Espíritus Guardianes que ayudaron a sellar un "Gran Mal". El Búho enseñaba a los justos los secretos de las estrellas y su poder celestial.',
+    Summoning_Familiar_Siren:
+        'Altamente mágicas, las Sirenas fueron cazadas hasta casi la extinción. Desde entonces, han aprendido a desconfiar de la humanidad, y sus magias únicas les ayudan a mantenerse ocultas del mundo.',
+    Summoning_Familiar_Spider:
+        'Uno de los cinco Espíritus Guardianes que ayudaron a sellar un "Gran Mal". La Araña esperaba pacientemente y atacaba cuando el enemigo estaba más vulnerable.',
+    Summoning_Familiar_Beaver:
+        'Uno de los cinco Espíritus Guardianes que ayudaron a sellar un "Gran Mal". El Castor enseñó a los humanos el arte de la carpintería para construir fortalezas y arcos.',
+    Summoning_Familiar_Fox:
+        'Uno de los cinco Espíritus Guardianes que ayudaron a sellar un "Gran Mal". El Zorro recorría la Tierra en busca de cualquiera que ayudara a repeler la marea oscura.',
+    Summoning_Familiar_Spectre:
+        'Nacido de la pura malicia que emana del Valle de la Medianoche, su odio no tiene dirección. Haz que tus enemigos sean los tuyos.'
 };
