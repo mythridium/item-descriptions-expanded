@@ -7,19 +7,19 @@ Headless Bolts - Iron crossbow bolts designed to fit into a variety of firing me
 
 Arrow Shafts - Various types of wood can be made into arrow shafts, though higher quality woods tend to show better results.
 
-Bronze Arrowtips - Arrowtips forged from bronze. Bronze may be soft, but so are your enemy's squishy bits.
+Bronze Arrowtips - Arrowtips forged from Bronze. Bronze may be soft, but so are your enemy's squishy bits.
 
-Iron Arrowtips - Made from the iron mined in abundance from the east mountains, these arrow tips are some of the most popular in Melvor.
+Iron Arrowtips - Made from the Iron mined in abundance from the east mountains, these arrow tips are some of the most popular in Melvor.
 
-Steel Arrowtips - Hardened steel give these arrowtips exceptional penetration power, making them popular among bandits and adventurers alike.
+Steel Arrowtips - Hardened Steel give these arrowtips exceptional penetration power, making them popular among bandits and adventurers alike.
 
-Mithril Arrowtips - The archers of the Holy Isles prefer mithril above all else for its exceptional ability to conduct holy power.
+Mithril Arrowtips - The archers of the Holy Isles prefer Mithril above all else for its exceptional ability to conduct holy power.
 
 Adamant Arrowtips - Adamant arrowtips are so prized among the tribes of the Arid Plains, that they are sometimes used in lieu of coinage.
 
-Rune Arrowtips - Among the tribesmen of the Arid Plains, it is counted a great honor to dig a rune arrowtip from a wound. They are proof of facing a master archer and living to tell the tale.
+Rune Arrowtips - Among the tribesmen of the Arid Plains, it is counted a great honor to dig a Rune arrowtip from a wound. They are proof of facing a master archer and living to tell the tale.
 
-Dragon Arrowtips - For every great foe slain, an Arid Plains Chieftain will add a Dragonite Arrowtip to their headpiece. Both as a sign of honor... and a warning.
+Dragon Arrowtips - For every great foe slain, an Arid Plains Chieftain will add a Dragonite arrowtip to their headpiece. Both as a sign of honor... and a warning.
 
 Corundum Arrowtips - Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds.
 
@@ -37,9 +37,9 @@ Runecrafting Pouch - This enchanted pouch creates Rune Essence out of thin air b
 
 Alchemist's Bag - A small pouch of basic Alchemical reagents designed to increase the effectiveness of a potion.
 
-Thiefs Moneysack II - This enchanted satchel attracts gold like a magnet! Regardless if said gold belongs to you or not.
+Thiefs Moneysack II - This enchanted satchel attracts gold like a magnet, whether or not said gold belongs to you or not!
 
-Seed Pouch II - Vr. 2.0 from your friendly neighbors at Seed Co.! Now less* likely than ever to attract ravenous hordes of monstrous insects!
+Seed Pouch II - Ver. 2.0 from your friendly neighbors at Seed Co.! Now less* likely than ever to attract ravenous hordes of monstrous insects!
 
 Alchemists Bag II - These rare Alchemical reagents can drastically increase the effects of a potion with little to no side-effects. They taste horrible, however.
 
@@ -51,7 +51,7 @@ Kindling Pouch - Artisans find the ashes produced from burning this special kind
 
 Kindling Pouch II - When burned in a hot enough flame, this special kindling produces golden flakes that can be sold for a high price.
 
-Stamina Pouch - A small pouch of white pills said to boost Stamina and increase agility. Warning, if you find yourself on the obstacle course for more than 4 hours, consult a doctor.
+Stamina Pouch - A small pouch of white pills said to boost Stamina and increase agility. Warning: if you find yourself on the obstacle course for more than 4 hours, consult a doctor.
 
 Spirit Bag - Alchemy-in-a-bag! Stick an object and some runes inside, shake it around and pull out a solid gold replica!
 

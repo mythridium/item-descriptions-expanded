@@ -8,6 +8,7 @@ Translations for all descriptions have been obtained through chat-gpt, they may 
 
 ## Description Contributors
 - TheRealOsamaru
+- Jordy3D
 
 ## Dependencies
 Download and install NodeJS https://nodejs.org/en The latest LTS version is fine.

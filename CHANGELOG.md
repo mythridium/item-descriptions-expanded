@@ -1,3 +1,7 @@
+v0.4.2
+
+-   fixed various grammatical errors
+
 v0.4.1
 
 -   fixed typo in coin purse

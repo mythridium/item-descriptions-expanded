@@ -13,21 +13,21 @@ Rune Arrows - Powerful arrows tipped with a Runite head. Among the people of the
 
 Dragon Arrows - Devastating arrows tipped with a Dragonite head. The people of the Arid Plans tell legends of how these arrows were once used to kill a god.
 
-Ice Arrows - An Arrow embed with the magic of the Deep South. Careful how you handle them.
+Ice Arrows - An arrow embedded with the magic of the Deep South. Careful how you handle them.
 
 Ancient Arrows - Devastating arrows from a bygone era when gods walked the earth. Their production method has been lost to time.
 
-Topaz Bolts - Iron crossbow bolts tipped with splintered topaz. Careful of the edges!
+Topaz Bolts - Iron crossbow bolts tipped with splintered Topaz. Careful of the edges!
 
-Sapphire Bolts - Iron crossbow bolts tipped with splintered sapphire. Put a sparkle (and a bolt) in your enemy's eye!
+Sapphire Bolts - Iron crossbow bolts tipped with splintered Sapphire. Put a sparkle (and a bolt) in your enemy's eye!
 
-Ruby Bolts - Iron crossbow bolts tipped with splintered ruby. The red helps to hide the bloodstains.
+Ruby Bolts - Iron crossbow bolts tipped with splintered Ruby. The red helps to hide the bloodstains.
 
-Emerald Bolts - Iron crossbow bolts tipped with splintered emerald. Don't worry, they're not poisoned!
+Emerald Bolts - Iron crossbow bolts tipped with splintered Emerald. Don't worry, they're not poisoned!
 
-Diamond Bolts - Iron crossbow bolts with splintered diamond. The quickest way to your enemy's heart!
+Diamond Bolts - Iron crossbow bolts with splintered Diamond. The quickest way to your enemy's heart!
 
-Jadestone Bolts - Iron crossbow bolts tipped with splintered Jadestone. Legend says they were designed by a Princess to kill her Dragon captor.
+Jadestone Bolts - Iron crossbow bolts tipped with splintered Jadestone. Legend says they were designed by a Princess to kill her dragon captor.
 
 Corundum Arrows - Dangerous arrows tipped with Corundum metal. Lightweight but unimaginably sharp.
 
@@ -43,7 +43,7 @@ Meteorite Bolts - Iron crossbow bolts tipped with Celestial metal. Call down the
 
 Decay Bolts - Onyx crossbow bolts covered in a potent poison. Deadly to the touch.
 
-Zephyte Bolts - Iron crossbow bolts tipped with a splintered gem of Divine origin. Destructive as it is beautiful.
+Zephyte Bolts - Iron crossbow bolts tipped with a splintered gem of divine origin. As destructive as it is beautiful.
 
 Amulet of Fishing - You found this in an old chest. It releases a scent that attracts fish.
 
@@ -51,7 +51,7 @@ Amulet of Strength - An amulet enchanted to increase its wearer's strength. Inst
 
 Amulet of Accuracy - An amulet enchanted to increase its wearer's reflexes. As you wear it, the world comes into clearer focus.
 
-Amulet of Defence - Amulet enchanted to harden your skin and protect the wearer from damage. Need some lotion?
+Amulet of Defence - An amulet enchanted to harden your skin and protect the wearer from damage. Need some lotion?
 
 Amulet of Ranged - An amulet enchanted to guide projectiles to their intended target. Banned in all Melvor sponsored athletic events.
 
@@ -77,7 +77,7 @@ Amulet of Torture - An amulet used by a mysterious cult in profane rituals. You 
 
 Fury of the Elemental Zodiacs - The Scales of Malcs are potent magical reagents. After absorbing the energy of several powerful magical amulets, this Amulet has obtained power not meant for mortal hands. - <span class=\"ide fsi\">"By your powers combined! I am OP!"</span>
 
-Amulet of Looting - Wearing this marks you as the Chief of the Pygmy spiders. Force them to bank your stuff.
+Amulet of Looting - Wearing this marks you as the Chief of the Pygmy Spiders. Force them to bank your stuff.
 
 Bone Necklace - This necklace was created by a necromancer who grew tired of cleaning up his messes. So he made his messes clean themselves up.
 
@@ -91,21 +91,21 @@ Burning Amulet of XP - An enchanted amulet gifted to you by a fire spirit. I'm n
 
 Burning Amulet of Charcoal - A fire spirit gifted you this amulet after freeing it from the belly of a fire-eating snake. Firewood turns to charcoal at your touch.
 
-Silver Topaz Necklace - The pairing of topaz and silver in this necklace sharpens your scenes and lightens your blade.
+Silver Topaz Necklace - The pairing of Topaz and silver in this necklace sharpens your scenes and lightens your blade.
 
-Silver Sapphire Necklace - Silver and sapphire work together to turn magical energy into healing power.
+Silver Sapphire Necklace - Silver and Sapphire work together to turn magical energy into healing power.
 
-Silver Ruby Necklace - The warm ruby and chilling silver against your skin refreshes and strengthens your body.
+Silver Ruby Necklace - The warm Ruby and chilling silver against your skin refreshes and strengthens your body.
 
-Silver Emerald Necklace - Silver and emeralds are said to bring good luck. Both in finding lost arrows... and ensuring they find your enemy.
+Silver Emerald Necklace - Silver and Emeralds are said to bring good luck, both in finding lost arrows... and ensuring they find your enemy.
 
-Silver Diamond Necklace - Why do silver and diamonds make you hit things harder with bit sticks? No one knows. It is one of the great mysteries of Melvor.
+Silver Diamond Necklace - Why do silver and Diamonds make you hit things harder with big sticks? No one knows. It is one of the great mysteries of Melvor.
 
 Gold Topaz Necklace - This necklace is rumoured to attract wealth, making it popular among the nobility.
 
 Gold Sapphire Necklace - Gold and Sapphire, when paired together, sharpen the mind and make it easier to spot on-coming projectiles.
 
-Gold Ruby Necklace - Gold further improves the ruby's bolstering power, allowing it to heal quicker and to a greater extent.
+Gold Ruby Necklace - Gold further improves the Ruby's bolstering power, allowing it to heal quicker and to a greater extent.
 
 Gold Emerald Necklace - Emeralds set in gold have long been used to detect hostile magics, making them popular among the roguish type.
 
@@ -113,7 +113,7 @@ Gold Diamond Necklace - Diamonds resonate with gold in the presence of magic to 
 
 Deadeye Amulet - The greatest of Aeris' archers could hit a fly from 1000 meters. This diamond amulet was created in recognition of their skill. Rumored to hold a Virulent Poison.
 
-Warlock Amulet - The warlocks of Glacia city were said to drain the life out of their foes. All who wore this amulet eventually succumb to the Burning Madness.
+Warlock Amulet - The warlocks of Glacia city were said to drain the life out of their foes. All who wear this amulet eventually succumb to the Burning Madness.
 
 Guardian Amulet - An amulet gifted to provide protection in your most desperate moment. May its light Spike through the darkness and dispels all danger.
 
@@ -121,7 +121,7 @@ Fighter Amulet - This magic amulet was worn by the gladiators of the Lord of Cha
 
 Jeweled Necklace - A simple amulet with a small glass gem. Rumored to bring good luck.
 
-Amulet of Incantation - Though fragile, thus unsuited for battle, this enchanted Amulet is popular among spell casters for its ability to increase the caster's speech.
+Amulet of Incantation - Though fragile, thus unsuited for battle, this enchanted amulet is popular among spell casters for its ability to increase the caster's speech.
 
 Woodcutting Ring Fragment - A strange metal ring found inside a raven's nest. It floats upward when tossed, as if attracted to something in the sky.
 
@@ -131,7 +131,7 @@ Meteorite Woodcutting Amulet - After fusing with celestial metal, this amulet ha
 
 Iridium Onyx Necklace - When hit with a projectile, this necklace absorbs some of the energy, allowing you to return the blow.
 
-Palladium Onyx Necklace - A favorite of the Hunters the world around. This amulet increases your hand-eye coordination, making it easier to harvest valuable materials from slain foes.
+Palladium Onyx Necklace - A favorite of hunters the world over. This amulet increases your hand-eye coordination, making it easier to harvest valuable materials from slain foes.
 
 Iridium Oricha Necklace - This amulet absorbs magical energy, which can be redirected into a projectile of the wearer's choosing, increasing their destructive power.
 
@@ -139,7 +139,7 @@ Palladium Oricha Necklace - A precise shot and a quick, clean kill can drastical
 
 Iridium Cerulean Necklace - The powerful life enchantment on this stone saps at the wearer's life force, preventing their wounds from healing... but can sap your foes as well.
 
-Palladium Cerulean Necklace - The powerful enchantment life enchantment on this stone has been tweeted to drastically increase your healing speed, but at the cost of more bodily resources.
+Palladium Cerulean Necklace - The powerful life enchantment on this stone has been tweaked to drastically increase your healing speed, but at the cost of more bodily resources.
 
 Iridium Runestone Necklace - This magical gemstone drastically amplifies magical energy in the heavy presence of metal... like your foes armor.
 
@@ -149,13 +149,13 @@ Iridium Zephyte Necklace - A divine necklace gifted to those who would fight tit
 
 Palladium Zephyte Necklace - Created to bring the mighty low, the magic of this divine amulet will serve to even the field when fighting beasts of legend.
 
-Poison Lifesteal Amulet - Anything can be a medicine in the right dose. Even poison.
+Poison Lifesteal Amulet - Anything can be a medicine with the right dose. Even poison.
 
-Frostshield Amulet - An Amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice.
+Frostshield Amulet - An amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice.
 
 Lightning Amulet - Amulet of RaZu, Lord of the Skies. RaZu's grudge against his icy foe offers you some protection from the creature.
 
-FrostSpark Amulet - By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked true power of this amulet.
+FrostSpark Amulet - By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet.
 
 Allure Amulet - An amulet crafted by the Misty Sirens of the great lake. Simply looking at it makes you feel sleepy.
 
@@ -163,5 +163,5 @@ Amulet of Prayers - There are many forms of worship on Melvor. Some of those inc
 
 Voodoo Trinket - A small straw effigy used by occultists to place curses. You can swear you see something squirming within if you stare long enough.
 
-Amulet of Curse Totem Summon - A Great Spirit was once split into three parts by an evil Necromancer. This Amulet was crafted from its body. Anyone who meets its gaze will be cursed for eternity.
+Amulet of Curse Totem Summon - A Great Spirit was once split into three parts by an evil Necromancer. This amulet was crafted from its body. Anyone who meets its gaze will be cursed for eternity.
 `;

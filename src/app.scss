@@ -19,6 +19,14 @@
     display: none;
 }
 
+.ide.tt {
+    display: none;
+}
+
+[data-tippy-root] br + span.text-info .ide.tt {
+    display: block;
+}
+
 .ide.db + br,
 [data-tippy-root] br + span.text-info + br {
     display: none;
