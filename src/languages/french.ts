@@ -305,7 +305,7 @@ export const language = {
     Summoning_Familiar_Leprechaun: "Des esprits d'or, ces créatures détiennent une cupidité plus profonde que même la plus ancienne des dragons. Ils feront tout pour faire grandir leur trésor, et ainsi leur pouvoir.",
     Summoning_Familiar_Monkey:
         "Étonnamment intelligents, ces créatures peuvent être dressées pour accomplir des tâches simples, ce qui les rend populaires parmi les artisans de tous les domaines. Il suffit de ne rien laisser de brillant autour d'eux.",
-    Summoning_Familiar_Cyclops: "La culture des Cyclopes tourne autour de la chasse, et en tant que tels, ils sont heureux d'être rappelés pour combattre une fois de plus.",
+    Summoning_Familiar_Cyclops: 'La culture des Cyclopes tourne autour de la chasse, et en tant que tels, ils sont des maîtres à la fois en combat et en dépeçage. Le Lodge des Tueurs les embauche souvent pour former de nouveaux membres.',
     Summoning_Familiar_Salamander:
         "Les esprits du feu aiment faire la sieste dans les foyers bien entretenus. Les forgerons essaient de les attirer, car ils purifient et renforcent les flammes à l'intérieur, ce qui résulte en des métaux de meilleure qualité.",
     Summoning_Familiar_Unicorn: "Manifestations physiques de la magie de guérison, les licornes ont inspiré d'innombrables légendes à travers Melvor.",

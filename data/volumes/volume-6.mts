@@ -45,7 +45,7 @@ Leprechaun - Spirits of Gold, these creatures hold a greed deeper than even the 
 
 Monkey - Surprisingly intelligent, these creatures can be trained to perform simple tasks, making them popular among crafters of all fields. Just don't leave anything shiny out around them.
 
-Cyclops - Cyclops culture revolves around the hunt, and as such they are happy to be summoned to fight once more.
+Cyclops - Cyclops culture revolves around the hunt, and as such are masters of both combat and skinning. The Slayer Lodge often hires them to train new members.
 
 Salamander - These Spirits of Fire love to nap in well-tended furnaces. Smiths try to attract them, as they purify and strengthen the flames within, resulting in higher quality metals.
 

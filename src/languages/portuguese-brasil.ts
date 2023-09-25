@@ -295,7 +295,7 @@ export const language = {
     Summoning_Familiar_Witch: 'Dizem que a alma de uma bruxa pode ser aprisionada se as medidas adequadas forem tomadas. Se isso é aconselhável ou não, está em debate, mas alguns estão além de tais preocupações mesquinhas.',
     Summoning_Familiar_Leprechaun: 'Espíritos de Ouro, essas criaturas têm uma ganância mais profunda do que até mesmo os dragões mais antigos. Eles farão de tudo para aumentar seu tesouro e, portanto, seu poder.',
     Summoning_Familiar_Monkey: 'Surpreendentemente inteligentes, essas criaturas podem ser treinadas para realizar tarefas simples, tornando-as populares entre artesãos de todos os campos. Apenas não deixe nada brilhante por perto.',
-    Summoning_Familiar_Cyclops: 'A cultura dos Ciclopes gira em torno da caça, e, como tal, eles ficam felizes em serem convocados para lutar mais uma vez.',
+    Summoning_Familiar_Cyclops: 'A cultura dos Ciclopes gira em torno da caça e, como tal, são mestres tanto em combate quanto em esfola. A Slayer Lodge frequentemente os contrata para treinar novos membros.',
     Summoning_Familiar_Salamander: 'Os Espíritos do Fogo adoram cochilar em fornos bem cuidados. Ferreiros tentam atraí-los, pois eles purificam e fortalecem as chamas, resultando em metais de melhor qualidade.',
     Summoning_Familiar_Unicorn: 'Manifestações físicas de magias de cura, unicórnios inspiraram inúmeras lendas em todo Melvor.',
     Summoning_Familiar_Bear: 'A lenda diz que os primeiros druidas aprenderam quais ervas eram seguras observando os grandes ursos das florestas do norte enquanto se preparavam para o inverno.',

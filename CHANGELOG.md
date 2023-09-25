@@ -1,3 +1,7 @@
+v0.4.4
+
+-   updated description for cyclops tablet
+
 v0.4.3
 
 -   fed all translations through chat-gpt again to incorporate English grammatical fixes from the previous version

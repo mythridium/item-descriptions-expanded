@@ -298,7 +298,7 @@ export const language = {
     Summoning_Familiar_Witch: "Si dice che l'anima di una strega possa essere intrappolata se vengono seguiti i passi giusti. Che questo sia consigliabile o meno è oggetto di dibattito, ma alcuni sono al di sopra di tali preoccupazioni banali.",
     Summoning_Familiar_Leprechaun: "Spiritelli dell'oro, queste creature hanno un'avidità più profonda persino dei draghi più antichi. Faranno qualsiasi cosa per aumentare il loro tesoro e, di conseguenza, il loro potere.",
     Summoning_Familiar_Monkey: 'Sorprendentemente intelligenti, queste creature possono essere addestrate a compiere compiti semplici, rendendole popolari tra gli artigiani di tutti i campi. Basta non lasciare niente di brillante intorno a loro.',
-    Summoning_Familiar_Cyclops: 'La cultura dei Ciclopi ruota attorno alla caccia, e come tali sono felici di essere evocati per combattere ancora una volta.',
+    Summoning_Familiar_Cyclops: 'La cultura dei Ciclopi ruota attorno alla caccia, e sono maestri sia nel combattimento che nello scuoiare. La Slayer Lodge li assume spesso per addestrare nuovi membri.',
     Summoning_Familiar_Salamander: "Gli Spiriti del Fuoco amano fare un pisolino in fornaci ben curate. I fabbri cercano di attirarli, poiché purificano e rafforzano le fiamme all'interno, producendo metalli di migliore qualità.",
     Summoning_Familiar_Unicorn: 'Manifestazioni fisiche della magia curativa, gli unicorni hanno ispirato innumerevoli leggende in tutto Melvor.',
     Summoning_Familiar_Bear: "La leggenda narra che i primi druidi abbiano imparato quali erbe fossero sicure osservando i grandi orsi delle foreste del nord mentre si preparavano per l'inverno.",

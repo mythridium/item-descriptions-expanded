@@ -301,7 +301,7 @@ export const language = {
         'Es wird gesagt, dass die Seele einer Hexe eingesperrt werden kann, wenn die richtigen Schritte unternommen werden. Ob dies ratsam ist oder nicht, steht zur Debatte, aber einige sind über solche belanglosen Bedenken erhaben.',
     Summoning_Familiar_Leprechaun: 'Geister des Goldes, diese Kreaturen hegen eine Gier, die selbst die ältesten Drachen übertroffen hat. Sie werden alles tun, um ihren Hort zu vergrößern, und damit ihre Macht.',
     Summoning_Familiar_Monkey: 'Erstaunlich intelligent, können diese Kreaturen darauf trainiert werden, einfache Aufgaben zu erledigen, was sie bei Handwerkern aller Art beliebt macht. Lassen Sie jedoch nichts Glänzendes in ihrer Nähe liegen.',
-    Summoning_Familiar_Cyclops: 'Die Kultur der Zyklopen dreht sich um die Jagd, und als solche freuen sie sich, wieder zum Kampf gerufen zu werden.',
+    Summoning_Familiar_Cyclops: 'Die Kultur der Zyklopen dreht sich um die Jagd, und sie sind daher Meister sowohl im Kampf als auch in der Hautabziehung. Die Slayer Lodge stellt sie oft ein, um neue Mitglieder auszubilden.',
     Summoning_Familiar_Salamander: 'Die Geister des Feuers lieben es, in gut gepflegten Öfen ein Nickerchen zu machen. Schmiede versuchen, sie anzulocken, da sie die Flammen reinigen und stärken, was zu hochwertigeren Metallen führt.',
     Summoning_Familiar_Unicorn: 'Physische Manifestationen von Heilmagie, Einhörner haben unzählige Legenden in ganz Melvor inspiriert.',
     Summoning_Familiar_Bear: 'Die Legende besagt, dass die ersten Druiden gelernt haben, welche Kräuter sicher sind, indem sie die großen Bären der nördlichen Wälder beobachtet haben, während sie sich auf den Winter vorbereiteten.',

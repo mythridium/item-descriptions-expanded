@@ -293,7 +293,7 @@ export const language = {
     Summoning_Familiar_Witch: "It's said that a witch's soul can be trapped if the proper steps are taken. Whether or not this is advisable is up for debate, but some are beyond such petty concerns.",
     Summoning_Familiar_Leprechaun: "Spirits of Gold, these creatures hold a greed deeper than even the most ancient of dragons. They'll go to any lengths to grow their hoard, and thus power.",
     Summoning_Familiar_Monkey: "Surprisingly intelligent, these creatures can be trained to perform simple tasks, making them popular among crafters of all fields. Just don't leave anything shiny out around them.",
-    Summoning_Familiar_Cyclops: 'Cyclops culture revolves around the hunt, and as such they are happy to be summoned to fight once more.',
+    Summoning_Familiar_Cyclops: 'Cyclops culture revolves around the hunt, and as such are masters of both combat and skinning. The Slayer Lodge often hires them to train new members.',
     Summoning_Familiar_Salamander: 'These Spirits of Fire love to nap in well-tended furnaces. Smiths try to attract them, as they purify and strengthen the flames within, resulting in higher quality metals.',
     Summoning_Familiar_Unicorn: 'Physical manifestations of healing magics, unicorns have inspired countless legends throughout Melvor.',
     Summoning_Familiar_Bear: 'Legend has it that the first druids learned which herbs were safe from watching the great bears of the northern forests while they prepared for the winter.',

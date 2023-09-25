@@ -295,7 +295,7 @@ export const language = {
     Summoning_Familiar_Witch: 'Se dice que el alma de una bruja puede ser atrapada si se toman las medidas adecuadas. Si es recomendable o no es motivo de debate, pero algunos están más allá de tales preocupaciones triviales.',
     Summoning_Familiar_Leprechaun: 'Espíritus del oro, estas criaturas tienen una codicia más profunda que incluso la de los dragones más antiguos. Harán cualquier cosa para aumentar su tesoro y, por lo tanto, su poder.',
     Summoning_Familiar_Monkey: 'Sorprendentemente inteligentes, estas criaturas pueden ser entrenadas para realizar tareas simples, lo que las hace populares entre los artesanos de todos los campos. Simplemente no dejes nada brillante a su alcance.',
-    Summoning_Familiar_Cyclops: 'La cultura de los cíclopes gira en torno a la caza, y por lo tanto están felices de ser convocados para luchar una vez más.',
+    Summoning_Familiar_Cyclops: 'La cultura de los Cíclopes gira en torno a la caza, por lo que son maestros tanto en combate como en el desollado. La Slayer Lodge a menudo los contrata para entrenar a nuevos miembros.',
     Summoning_Familiar_Salamander: 'Los Espíritus del Fuego adoran dormitar en hornos bien cuidados. Los herreros tratan de atraerlos, ya que purifican y fortalecen las llamas, lo que resulta en metales de mayor calidad.',
     Summoning_Familiar_Unicorn: 'Manifestaciones físicas de la magia de curación, los unicornios han inspirado innumerables leyendas en todo Melvor.',
     Summoning_Familiar_Bear: 'La leyenda cuenta que los primeros druidas aprendieron qué hierbas eran seguras observando a los grandes osos de los bosques del norte mientras se preparaban para el invierno.',

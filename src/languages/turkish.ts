@@ -294,7 +294,7 @@ export const language = {
     Summoning_Familiar_Witch: 'Bir cadının ruhunun uygun önlemler alınırsa tutsak edilebileceği söylenir. Bu tavsiye edilir mi veya değil mi, tartışmaya açık bir konudur, ancak bazıları bu tür küçük endişelerden öteye gitmiyor.',
     Summoning_Familiar_Leprechaun: 'Altın Ruhlar, bu yaratıkların hırsı, en eski ejderhaların bilekinden daha derin. Onlar hazine büyütmek için her türlü şeyi yaparlar ve bu nedenle güçleri artar.',
     Summoning_Familiar_Monkey: 'Şaşırtıcı derecede zeki olan bu yaratıklar, basit görevleri yerine getirmek için eğitilebilir ve bu nedenle tüm alanlardaki ustalar arasında popülerdir. Sadece onların etraflarında parlak bir şey bırakmayın.',
-    Summoning_Familiar_Cyclops: 'Cyclops kültürü avcılık etrafında döner, bu yüzden tekrar savaşmak için çağrılmaktan mutlu olurlar.',
+    Summoning_Familiar_Cyclops: 'Siyklops kültürü avcılık etrafında dönüyor ve bu nedenle hem savaşta hem de deri yüzmekte ustadırlar. Slayer Kütüphanesi genellikle yeni üyeleri eğitmek için onları işe alır.',
     Summoning_Familiar_Salamander: 'Ateş Ruhları, iyi bakılan ocaklarda kestirirken uykuyu severler. Demirciler onları çekmeye çalışır, çünkü bu, daha yüksek kaliteli metallerin sonucunu verir.',
     Summoning_Familiar_Unicorn: 'İyileştirme büyülerinin fiziksel tezahürleri, tek boynuzlular Melvor boyunca sayısız efsane ilham kaynağı olmuştur.',
     Summoning_Familiar_Bear: 'İlk druidlerin hangi otların güvenli olduğunu öğrendikleri hikayeleri, kuzey ormanlarının büyük ayılarına göz kulak olurken kışa hazırlık yaparken izlendi.',

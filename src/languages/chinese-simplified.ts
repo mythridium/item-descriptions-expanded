@@ -292,7 +292,7 @@ export const language = {
     Summoning_Familiar_Witch: '据说只要采取适当的步骤，就可以困住女巫的灵魂。是否明智这是有争议的，但有些人超越了这种琐碎的顾虑。',
     Summoning_Familiar_Leprechaun: '黄金之灵，这些生物的贪婪深于甚至最古老的龙。他们会不惜一切去增加他们的宝藏，从而获得力量。',
     Summoning_Familiar_Monkey: '这些生物出奇制胜，可以训练它们执行简单的任务，因此在所有领域的工匠中很受欢迎。只是不要让它们附近留下闪亮的东西。',
-    Summoning_Familiar_Cyclops: '独眼巨人文化围绕着狩猎，因此他们很高兴被召唤再次战斗。',
+    Summoning_Familiar_Cyclops: '独眼巨人文化以狩猎为中心，因此精通战斗和剥皮。杀手大厅经常雇佣他们来训练新成员。',
     Summoning_Familiar_Salamander: '火之灵魂热爱在保养良好的熔炉中小憩。铁匠们试图吸引它们，因为它们能够净化并增强火焰，从而产生更高质量的金属。',
     Summoning_Familiar_Unicorn: '治愈魔法的物质化体现，独角兽在Melvor中激发了无数传说。',
     Summoning_Familiar_Bear: '传说中，第一个德鲁伊从观察北方森林中伟大的熊类动物准备过冬中学到了哪些草药是安全的。',
