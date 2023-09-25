@@ -1,3 +1,7 @@
+v0.4.3
+
+-   fed all translations through chat-gpt again to incorporate English grammatical fixes from the previous version
+
 v0.4.2
 
 -   fixed various grammatical errors

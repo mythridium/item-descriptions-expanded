@@ -2,571 +2,314 @@ export const language = {
     Bronze_Arrows: 'Frecce comuni con punta in bronzo. Appuntite!',
     Iron_Arrows: 'Frecce comuni con punta in ferro. Pesanti!',
     Steel_Arrows: 'Frecce ben fatte con punta in acciaio. Un preferito dei Banditi in tutto Melvor.',
-    Mithril_Arrows: 'Frecce rare con punta in mitril. Possono facilmente canalizzare il potere divino.',
-    Adamant_Arrows:
-        'Frecce rare con punta in adamantio. Popolari tra la gente delle Pianure Aride per la loro resistenza e potere penetrante.',
-    Rune_Arrows:
-        "Potenti frecce con punta in runite. Tra la gente delle Pianure Aride, l'uso di frecce runite è considerato segno di un grande Arciere.",
-    Dragon_Arrows:
-        'Frecce devastanti con punta in dragoite. La gente delle Pianure Aride racconta leggende su come queste frecce fossero state usate una volta per uccidere un dio.',
-    Ice_Arrows: 'Una freccia intrisa della magia del Deep South. Attenzione a come le maneggi.',
-    Ancient_Arrow:
-        "Frecce devastanti di un'epoca passata quando gli dei camminavano sulla terra. Il loro metodo di produzione è andato perduto nel tempo.",
-    Topaz_Bolts: 'Balestre in ferro con punta in topazio sbriciolato. Attenzione ai bordi!',
-    Sapphire_Bolts:
-        'Balestre in ferro con punta in zaffiro sbriciolato. Metti una scintilla (e una balestra) negli occhi del tuo nemico!',
-    Ruby_Bolts: 'Balestre in ferro con punta in rubino sbriciolato. Il rosso aiuta a nascondere le macchie di sangue.',
-    Emerald_Bolts: 'Balestre in ferro con punta in smeraldo sbriciolato. Non preoccuparti, non sono avvelenate!',
-    Diamond_Bolts:
-        'Balestre in ferro con punta in diamante sbriciolato. Il modo più veloce per arrivare al cuore del tuo nemico!',
-    Jadestone_Bolts:
-        'Balestre in ferro con punta in giada sbriciolata. La leggenda vuole che siano state progettate da una Principessa per uccidere il suo Drago rapitore.',
-    Corundum_Arrows: 'Frecce pericolose con punta in metallo di Corindone. Leggere ma incredibilmente affilate.',
-    Augite_Arrows:
-        'Frecce letali con punta in cristalli di Augite metallizzati. Una volta usate per cacciare antichi draghi marini.',
-    Divine_Arrows: 'Frecce catastrofiche con punta in metallo Divino. Fendono la terra e rompono il cielo.',
-    Ethereal_Arrows:
-        'Frecce divine infuse con il risentimento di potenti spiriti. La loro natura eterea può trapassare ogni difesa.',
-    Onyx_Bolts: 'Balestre in ferro con punta in onice sbriciolato. Più scure della notte.',
-    Meteorite_Bolts: 'Balestre in ferro con punta in metallo Celestiale. Chiama il cielo sul tuo nemico!',
-    Decay_Bolts: 'Balestre in ferro rivestite di un potente veleno. Letali al tocco.',
-    Zephyte_Bolts: 'Balestre in ferro con punta in un frammento di gemma di origine Divina. Distruttive quanto belle.',
-    Amulet_of_Fishing: 'Hai trovato questo in un vecchio baule. Rilascia un profumo che attira i pesci.',
-    Amulet_of_Strength: 'Un amuleto incantato per aumentare la forza del suo indossatore. Muscoli istantanei!',
-    Amulet_of_Accuracy:
-        'Un amuleto incantato per aumentare i riflessi del suo indossatore. Mentre lo indossi, il mondo entra in un fuoco più chiaro.',
-    Amulet_of_Defence:
-        'Amuleto incantato per indurire la tua pelle e proteggere il suo indossatore dai danni. Hai bisogno di una crema?',
-    Amulet_of_Ranged:
-        'Un amuleto incantato per guidare i proiettili al loro bersaglio previsto. Vietato in tutti gli eventi sportivi sponsorizzati da Melvor.',
+    Mithril_Arrows: 'Rarissime frecce con punta in Mithril. Possono facilmente canalizzare il potere sacro.',
+    Adamant_Arrows: 'Rarissime frecce con punta in Adamantio. Popolari tra il popolo delle Pianure Aride per la loro resistenza e potenza penetrante.',
+    Rune_Arrows: "Potenti frecce con punta in Runite. Tra il popolo delle Pianure Aride, l'uso delle frecce runiche è considerato il segno di un grande Arciere.",
+    Dragon_Arrows: 'Frecce devastanti con punta in Dragonite. Il popolo delle Pianure Aride racconta leggende su come queste frecce fossero state usate per uccidere un dio.',
+    Ice_Arrows: 'Una freccia impregnata della magia del Deep South. Fate attenzione a come le maneggiate.',
+    Ancient_Arrow: "Frecce devastanti di un'era passata quando gli dei camminavano sulla terra. Il loro metodo di produzione è stato perduto nel tempo.",
+    Topaz_Bolts: 'Balestre in ferro con punta di Topazio scheggiato. Fate attenzione ai bordi!',
+    Sapphire_Bolts: 'Balestre in ferro con punta di Zaffiro scheggiato. Mettete una scintilla (e una balestra) negli occhi del vostro nemico!',
+    Ruby_Bolts: 'Balestre in ferro con punta di Rubino scheggiato. Il rosso aiuta a nascondere le macchie di sangue.',
+    Emerald_Bolts: 'Balestre in ferro con punta di Smeraldo scheggiato. Non preoccupatevi, non sono avvelenati!',
+    Diamond_Bolts: 'Balestre in ferro con punta di Diamante scheggiato. Il modo più veloce per arrivare al cuore del vostro nemico!',
+    Jadestone_Bolts: 'Balestre in ferro con punta di Giada scheggiato. La leggenda dice che siano state progettate da una Principessa per uccidere il suo drago prigioniero.',
+    Corundum_Arrows: 'Frecce pericolose con punta in metallo Corindone. Leggere ma incredibilmente affilate.',
+    Augite_Arrows: 'Frecce mortali con punta in cristalli di Augite metalizzati. Un tempo usate per cacciare antichi draghi marini.',
+    Divine_Arrows: 'Frecce catastrofiche con punta in metallo Divino. Dividono la terra e rompono il cielo.',
+    Ethereal_Arrows: 'Frecce divine infuse con il risentimento di potenti spiriti. La loro natura eterea può trapassare qualsiasi difesa.',
+    Onyx_Bolts: 'Balestre in ferro con punta di Onice scheggiato. Più scuro della notte.',
+    Meteorite_Bolts: 'Balestre in ferro con punta in metallo Celestiale. Chiamate il cielo sul vostro nemico!',
+    Decay_Bolts: 'Balestre in Onice coperte di un veleno potente. Letali al tocco.',
+    Zephyte_Bolts: 'Balestre di ferro con punte di gemme divine frantumate. Così distruttive quanto belle.',
+    Amulet_of_Fishing: 'Hai trovato questo in un vecchio baule. Emana un profumo che attira i pesci.',
+    Amulet_of_Strength: 'Un amuleto incantato per aumentare la forza di chi lo indossa. Muscoli istantanei!',
+    Amulet_of_Accuracy: 'Un amuleto incantato per aumentare i riflessi di chi lo indossa. Mentre lo indossi, il mondo diventa più nitido.',
+    Amulet_of_Defence: 'Un amuleto incantato per rinforzare la pelle e proteggere chi lo indossa dai danni. Hai bisogno di crema?',
+    Amulet_of_Ranged: 'Un amuleto incantato per guidare i proiettili verso il loro bersaglio previsto. Vietato in tutti gli eventi sportivi sponsorizzati da Melvor.',
     Amulet_of_Magic: "Un amuleto incantato per amplificare l'energia magica. Rune non incluse.",
-    Amulet_of_Glory:
-        "Un potente amuleto indossato solo dai cavalieri più elitari. Sia un distintivo d'onore che un segno di dovere.",
-    Elite_Amulet_of_Strength:
-        'Indossando questo amuleto, i tuoi muscoli si gonfiano e si rompono dalla camicia. Lo sollevi, amico?',
+    Amulet_of_Glory: "Un potente amuleto indossato solo dai cavalieri più elitari. Sia un distintivo d'onore che un segno di dovere.",
+    Elite_Amulet_of_Strength: 'Mentre indossi questo amuleto, i tuoi muscoli si gonfiano e si rompono dalla tua camicia. Sollevi pesi, amico?',
     Elite_Amulet_of_Accuracy: 'Posso vedere... TUTTO!',
-    Elite_Amulet_of_Defence: "Pelle di pietra e ossa d'acciaio. Nemmeno gli dei possono farti tornare alla ragione.",
-    Elite_Amulet_of_Ranged:
-        'Il Bandito Fischiettante una volta usava questo amuleto per abbattere una nave pirata intera... con una sola freccia.',
-    Elite_Amulet_of_Magic:
-        "Gli dei hanno limitato questo dopo che un incantatore l'ha usato per crearne uno migliore. Poi ha usato quello per crearne uno ancora migliore. E ancora, e ancora.",
-    Elite_Amulet_of_Glory: "Quando la tua gloria è più gloriosa di quella dell'altro tipo.",
-    Amulet_of_Fury:
-        'Ogni perla di questo amuleto è la squama lucidata di un drago antico, mentre il gioiello rosso è il fuoco di drago cristallizzato.',
-    Amulet_of_Torture:
-        "Un'amuleto usato da una misteriosa setta in rituali profani. Puoi sentire le anime dei morti intrappolate emanare dalla gemma al centro.",
+    Elite_Amulet_of_Defence: "Pelle di pietra e ossa d'acciaio. Nemmeno gli dei possono piegarti.",
+    Elite_Amulet_of_Ranged: 'Il Bandito Fischiettante usava una volta questo amuleto per abbattere una nave pirata intera... con una sola freccia.',
+    Elite_Amulet_of_Magic: 'Gli dei hanno limitato questo dopo che un incantatore lo ha usato per crearne uno migliore. Poi ha usato quello per crearne uno ancora migliore. E ancora, e ancora.',
+    Elite_Amulet_of_Glory: "Quando la tua gloria è più gloriosa di quella dell'altro ragazzo.",
+    Amulet_of_Fury: 'Ogni perla di questo amuleto è la squama lucidata di un antico drago, mentre la gemma rossa è il fuoco del drago cristallizzato.',
+    Amulet_of_Torture: 'Un amuleto usato da una misteriosa setta in rituali profani. Puoi sentire le anime dei morti intrappolate emanare dalla gemma al suo centro.',
     Fury_of_the_Elemental_Zodiac:
-        'Le Scaglie di Malcs sono potenti reagenti magici. Dopo aver assorbito l\'energia di diverse amuleti magici potenti, questo amuleto ha ottenuto un potere non destinato alle mani mortali. - <span class="ide fsi">"Unendo i vostri poteri! Sono imbattibile!"</span>',
-    Amulet_of_Looting: 'Indossarlo ti segna come il Capo dei ragni Pigmei. Costringili a depositare le tue cose.',
-    Bone_Necklace:
-        'Questo collare è stato creato da un negromante stanco di pulire i suoi pasticci. Così ha fatto in modo che i suoi pasticci si pulissero da soli.',
-    Burning_Amulet_of_Gold:
-        "Un amuleto incantato donato a te da uno spirito del fuoco. Mentre le fiamme si spengono, puoi individuare fiocchi d'oro tra le ceneri.",
-    Burning_Amulet_of_Stardust:
-        "Un amuleto incantato donato a te da uno spirito del fuoco. Si dice che le ceneri dell'albero magico contengano piccole tracce di potere cosmico.",
-    Burning_Amulet_of_Ash:
-        'Un amuleto incantato donato a te da uno spirito del fuoco. Le ceneri di un fuoco ben curato hanno molteplici utilizzi.',
-    Burning_Amulet_of_XP: 'Un amuleto incantato donato a te da uno spirito del fuoco. Non sono un piromane, davvero!',
-    Silver_Topaz_Necklace:
-        "L'abbinamento di topazio e argento in questa collana affina i tuoi sensi e alleggerisce la tua lama.",
-    Silver_Sapphire_Necklace: "Argento e zaffiro lavorano insieme per trasformare l'energia magica in potere curativo.",
-    Silver_Ruby_Necklace:
-        "Il caldo rubino e l'argento freddo contro la tua pelle rinfrescano e rafforzano il tuo corpo.",
-    Silver_Emerald_Necklace:
-        "Si dice che smeraldi montati sull'argento portino fortuna. Sia nel trovare frecce perdute... che nell'assicurarsi che trovino il tuo nemico.",
-    Silver_Diamond_Necklace:
-        "Perché l'argento e i diamanti ti fanno colpire più forte con dei bastoni? Nessuno lo sa. È uno dei grandi misteri di Melvor.",
-    Gold_Topaz_Necklace: 'Questa collana è illecito attirare la ricchezza, rendendola popolare tra la nobiltà.',
-    Gold_Sapphire_Necklace:
-        'Oro e zaffiro, quando abbinati insieme, affilano la mente e la rendono più facile a individuare i proiettili in arrivo.',
-    Gold_Ruby_Necklace:
-        "L'oro migliora ulteriormente il potere di rinforzo del rubino, consentendogli di guarire più velocemente e in misura maggiore.",
-    Gold_Emerald_Necklace:
-        "Gli smeraldi montati nell'oro sono stati a lungo usati per rilevare magie ostili, rendendoli popolari tra il tipo furfante.",
-    Gold_Diamond_Necklace:
-        "I diamanti risonano con l'oro in presenza di magia per creare uno scudo minore che può deviare il colpo di una lama.",
-    Deadeye_Amulet:
-        'I più grandi arcieri di Aeris potevano colpire una mosca da 1000 metri. Questo amuleto di diamanti è stato creato in riconoscimento della loro abilità. Si dice che contenga un Veleno Virulento.',
-    Warlock_Amulet:
-        'Si dice che i maghi di Glacia city siano riusciti a drenare la vita dai loro nemici. Tutti coloro che indossavano questo amuleto alla fine cedevano alla Follia Bruciante.',
-    Guardian_Amulet:
-        "Un amuleto donato per fornire protezione nel momento più disperato. Possa la sua luce squarciare l'oscurità e dissipare ogni pericolo.",
-    Fighter_Amulet:
-        'Questo amuleto magico era indossato dai gladiatori del Signore del Caos. Mentre combattevano, la loro Furia Implacabile alimentava le fucine della guerra.',
-    Jeweled_Necklace: 'Un semplice amuleto con un piccolo gioiello di vetro. Si dice che porti fortuna.',
-    Amulet_Of_Incantation:
-        "Sebbene fragile e quindi non adatto al combattimento, questo amuleto incantato è popolare tra gli incantatori per la sua capacità di aumentare la voce dell'incantatore.",
-    Burning_Amulet_of_Charcoal:
-        'Uno spirito del fuoco ti ha donato questo amuleto dopo averlo liberato dalla pancia di un serpente divoratore di fuoco. La legna da ardere si trasforma in carbone al tuo tocco.',
-    Woodcutting_Ring_Fragment:
-        'Un strano anello di metallo trovato dentro un nido di corvi. Galleggia in alto quando viene lanciato, come se fosse attratto da qualcosa in cielo.',
-    Woodcutting_Amulet_Fragment:
-        'Un strano ornamento di metallo trovato dentro un nido di corvi. Se guardi attraverso il centro di notte, puoi vedere stelle precedentemente invisibili.',
-    Meteorite_Woodcutting_Amulet:
-        "Dopo essersi fuso con il metallo celestiale, questo amuleto ha risvegliato il suo vero potere. Mentre scuoti la tua ascia contro l'albero, essa brilla come una stella cadente.",
-    Iridium_Onyx_Necklace:
-        "Quando colpito da un proiettile, questo collare assorbe parte dell'energia, permettendoti di restituire il colpo.",
-    Palladium_Onyx_Necklace:
-        'Un preferito dei cacciatori in tutto il mondo. Questo amuleto aumenta la coordinazione occhio-mano, facilitando la raccolta di materiali preziosi dai nemici sconfitti.',
-    Iridium_Oricha_Necklace:
-        "Questo amuleto assorbe l'energia magica, che può essere ridirezionata in un proiettile scelto dal suo indossatore, aumentandone il potere distruttivo.",
-    Palladium_Oricha_Necklace:
-        'Un colpo preciso e una morte rapida e pulita possono drasticamente aumentare il valore della pelle di una preda.',
-    Iridium_Cerulean_Necklace:
-        'Il potente incantesimo vitale su questa pietra consuma la forza vitale del suo indossatore, impedendo la guarigione delle sue ferite... ma può anche prosciugare i tuoi nemici.',
-    Palladium_Cerulean_Necklace:
-        'Il potente incantesimo vitale su questa pietra è stato modificato per aumentare notevolmente la velocità di guarigione, ma a costo di più risorse corporee.',
-    Iridium_Runestone_Necklace:
-        "Questo gioiello magico amplifica notevolmente l'energia magica in presenza di metallo pesante... come l'armatura dei tuoi nemici.",
-    Palladium_Runestone_Necklace:
-        'Il gioiello magico può preservare i materiali in una bolla temporale, impedendo il deterioramento e aumentandone il valore.',
-    Iridium_Zephyte_Necklace:
-        'Una collana divina donata a coloro che combattono i titani. Che i tuoi piedi non vacillino mai.',
-    Palladium_Zephyte_Necklace:
-        'Creato per abbattere i potenti, la magia di questo amuleto divino servirà a equilibrare il campo di battaglia quando si combattono bestie leggendarie.',
-    Poison_Lifesteal_Amulet: 'Qualsiasi cosa può essere una medicina nella giusta dose. Anche il veleno.',
-    Headless_Arrows:
-        "Piume: 'Frecce piumate pronte per essere appuntite. L'arte della piumatura è antica quanto il tempo.'",
-    Feathers:
-        "Piume: 'Piume pulite provenienti da varie creature alate. Pronte per frecce al volo, o da infondere in pozioni.'",
-    Headless_Bolts:
-        "Balestre di ferro: 'Balestre di ferro progettate per adattarsi a una varietà di meccanismi di sparo. Le punte sono modellate per attaccare facilmente schegge di gemme, aumentandone notevolmente la potenza.'",
-    Arrow_Shafts:
-        "Aste per frecce: 'Diversi tipi di legno possono essere trasformati in aste per frecce, anche se i legni di alta qualità tendono a dare risultati migliori.'",
-    Bronze_Arrowtips:
-        "Punte di freccia in bronzo: 'Punte di freccia forgiate in bronzo. Il bronzo può essere morbido, ma lo sono anche i punti deboli del tuo nemico.'",
-    Iron_Arrowtips:
-        "Punte di freccia in ferro: 'Realizzate con il ferro estratto in abbondanza dalle montagne orientali, queste punte di freccia sono tra le più popolari a Melvor.'",
-    Steel_Arrowtips:
-        "Punte di freccia in acciaio: 'L'acciaio temprato conferisce a queste punte di freccia un'eccezionale potenza di penetrazione, rendendole popolari tra banditi ed avventurieri.'",
-    Mithril_Arrowtips:
-        "Punte di freccia in mithril: 'Gli arcieri delle Isole Sacre preferiscono il mithril sopra ogni altra cosa per la sua eccezionale capacità di condurre il potere sacro.'",
-    Adamant_Arrowtips:
-        "Punte di freccia in adamantio: 'Le punte di freccia in adamantio sono così preziose tra le tribù delle Arid Plains, che a volte vengono usate al posto delle monete.'",
-    Rune_Arrowtips:
-        "Punte di freccia runiche: 'Tra i membri delle tribù delle Arid Plains, è considerato un grande onore estrarre una punta di freccia runica da una ferita. Sono la prova di aver affrontato un maestro arciere e di essere sopravvissuti per raccontare la storia.'",
-    Dragon_Arrowtips:
-        "Punte di freccia di Dragonite: 'Per ogni grande nemico ucciso, un capo delle Arid Plains aggiungerà una punta di freccia di Dragonite al proprio copricapo. Sia come segno d'onore... che come avvertimento.'",
-    Consumable_Enhancer:
-        "Potenziatore consumabile: 'Piccolo gettone usato dai Maestri di mestiere di tutto il mondo per scambiarsi favori tra di loro. Questi possono essere usati per far sì che uno di questi artigiani [Aggiorni] una varietà di sacche e pergamene utili.'",
-    Thiefs_Moneysack:
-        "Sacchetto di denaro dei ladri: 'Una bisaccia nascosta in cui conservare l'oro illecitamente ottenuto al riparo dagli occhi della legge... o dalle altre dita appiccicose.'",
-    Seed_Pouch:
-        "Sacca di semi: 'Nuova! Dai tuoi amichevoli vicini alla Seed Co.! Le nostre sacche di semi tutto-in-uno sono garantite per aumentare il tuo raccolto tutto l'anno!'",
-    Runecrafting_Pouch:
-        "Sacca per l'arte delle rune: 'Questa sacca incantata crea Essenza di Rune dal nulla assorbendo l'energia sprecata prodotta durante la creazione delle rune.'",
-    Alchemists_Bag:
-        "Sacca degli alchimisti: 'Una piccola sacca di reagenti alchemici di base progettati per aumentare l'efficacia di una pozione.'",
-    Thiefs_Moneysack_II:
-        "Borsa dei ladri II: 'Questa bisaccia incantata attira l'oro come un magnete! Indipendentemente dal fatto che detto oro ti appartenga o meno.'",
-    Seed_Pouch_II:
-        "Sacca di semi II: 'Vr. 2.0 dai tuoi amichevoli vicini alla Seed Co.! Ora meno* probabile che attragga orde di insetti mostruosi!'",
-    Alchemists_Bag_II:
-        "Sacca degli alchimisti II: 'Questi rari reagenti alchemici possono aumentare drasticamente gli effetti di una pozione con pochi o nessun effetto collaterale. Tuttavia, hanno un sapore orribile.'",
-    Frostshield_Amulet:
-        "Amuleto dello scudo di ghiaccio: 'Un amuleto intagliato dal cuore freddo di un Idra di Ghiaccio. La sua magia ti concede parte del potere della creatura quando sei circondato dal ghiaccio.'",
-    Lightning_Amulet:
-        "Amuleto del Fulmine: 'Amuleto di RaZu, Signore dei Cieli. Il rancore di RaZu contro il suo nemico ghiacciato ti offre una certa protezione dalla creatura.'",
-    FrostSpark_Amulet:
-        "Amuleto Scintilla di Ghiaccio: 'Saziando il rancore del Signore del Cielo con il sangue gelido dell'Idra di Ghiaccio, hai sbloccato il vero potere di questo amuleto.'",
-    Allure_Amulet:
-        "Amuleto dell'Attrazione: 'Un amuleto creato dalle Sirene Nebbiose del grande lago. Basta guardarlo per sentirsi soporiferi.'",
-    Amulet_of_Prayers:
-        "Amuleto delle Preghiere: 'Esistono molte forme di culto a Melvor. Alcune di esse includono colpire i tuoi nemici in faccia.'",
-    Voodoo_Trinket:
-        'Una piccola effigie di paglia usata dagli occultisti per lanciare maledizioni. Puoi giurare di vedere qualcosa muoversi al suo interno se guardi abbastanza a lungo.',
-    Amulet_of_Curse_Totem_Summon:
-        "Uno Spirito Supremo è stato una volta diviso in tre parti da un malvagio Nercromante. Questo Amuleto è stato creato dal suo corpo. Chiunque incontri il suo sguardo sarà maledetto per l'eternità.",
-    Corundum_Arrowtips:
-        "Punte di freccia di corindone: 'Punte di freccia forgiate in metallo di corindone sono così affilate che possono lasciare ferite debilitanti e durature.'",
-    Augite_Arrowtips:
-        "Punte di freccia di Augite: 'Si dice che i cristalli di Augite siano velenosi per i draghi. Ancora oggi, è possibile trovare punte di freccia lasciate da cacciatori aspiranti nelle pelli di bestie più vecchie.'",
-    Divine_Arrowtips:
-        "Punte di freccia divine: 'Punte di freccia fatte di un metallo di cui si vocifera essere di origine divina. Qualunque sia la verità, non è stata trovata pelle né armatura che non possano trapassare.'",
-    Artisan_Pouch:
-        "Sacca dell'artigiano: 'Una piccola sacca piena di forniture varie che potrebbero servire a qualsiasi artigiano per il suo prossimo progetto.'",
-    Artisan_Pouch_II:
-        "Sacca dell'artigiano II: 'Contiene un piccolo Gnomo di nome Bob che migliora magicamente le tue creazioni quando non stai guardando. Ma non mettere la mano dentro; morde.'",
-    Kindling_Pouch:
-        "Sacca di Accendini: 'Gli artigiani trovano eccezionalmente preziose le ceneri prodotte dalla combustione di questo legno da accendino speciale. Le fiamme che produce sono di un luminoso colore dorato.'",
-    Kindling_Pouch_II:
-        "Sacca di Accendini II: 'Quando bruciato in una fiamma abbastanza calda, questo legno da accendino speciale produce scaglie d'oro che possono essere vendute a caro prezzo.'",
-    Stamina_Pouch:
-        "Sacchetto di Resistenza: 'Un piccolo sacchetto di pillole bianche che si dice aumentino la resistenza e l'agilità. Attenzione, se ti trovi nel percorso ad ostacoli per più di 4 ore, consulta un medico.'",
-    Spirit_Bag:
-        "Borsa degli Spiriti: 'Alchimia in una borsa! Infila un oggetto e alcune rune all'interno, agita il tutto e tira fuori una replica in oro massiccio!'",
-    Chefs_Bag:
-        "Borsa dello Chef: 'Questa borsa resistente al calore si attacca al fianco di una stufa, permettendo un facile accesso a tutte le spezie e gli ingredienti di cui uno chef ha bisogno per creare il suo capolavoro.'",
-    Summoners_Bag:
-        "Borsa degli Evocatori: 'Una piccola borsa usata dai Ritualisti durante le cerimonie di evocazione. Può concentrare e dirigere l'energia in modo da aumentare gli effetti del processo di evocazione.'",
-    Whetstone:
-        'Una comune pietra per affilare naturale. Pietre come questa sono spesso portate da persone di ogni tipo.',
-    Meteorite_Warrior_Ring:
-        'Un guerriero una volta impugnò una Lama Celestiale per combattere un dio malvagio. Fu allora che imparò che anche gli dei potevano sanguinare.',
-    Meteorite_Marksman_Ring:
-        'Un arciere una volta sognò di sparare alle stelle stesse dal cielo. Quando quelle stelle caddero, i suoi nemici non ebbero più un posto in cui nascondersi.',
-    Meteorite_Spellcaster_Ring:
-        "Un mago una volta si interpose tra la sua casa e un esercito e pregò l'aiuto delle stelle. Quando le ceneri si dissolsero, nulla dell'esercito rimase.",
-    Deadeye_Ring:
-        "Un anello sigillo che segna i Generali di Aeris in una guerra avvenuta molto tempo fa. Il gioiello al suo centro crea un canale d'aria che aumenta la velocità e la potenza di una freccia.",
-    Warlock_Ring:
-        "Il distintivo d'ufficio per gli Alto Stregoni della città di Glacia. Quando la Signora del Mare cadde nella sua furia ardente, i suoi stregoni si unirono alla sua follia.",
-    Guardian_Ring:
-        'I Guardiani di Terran indossavano questi anelli durante la loro eterna vigilanza. La loro magia avvolge il portatore in uno spesso strato di pietra dura in grado di bloccare qualsiasi lama.',
-    Fighter_Ring:
-        'Regalati ai Campioni delle Fosse di Ragnar, i gladiatori che indossavano questi anelli erano considerati più bestie che uomini e si abbandonavano al combattimento.',
+        'Le Scale di Malcs sono potenti reagenti magici. Dopo aver assorbito l\'energia di diverse potenti amuleti magici, questo amuleto ha ottenuto un potere non destinato alle mani mortali. - <span class="ide fsi">"Unendo i tuoi poteri! Sono imbattibile!"</span>',
+    Amulet_of_Looting: 'Indossare questo ti segna come il Capo dei Ragni Pigmei. Costringili a mettere in banca le tue cose.',
+    Bone_Necklace: 'Questo collare è stato creato da un negromante stanco di pulire i suoi pasticci. Così ha fatto in modo che i suoi pasticci si pulissero da soli.',
+    Burning_Amulet_of_Gold: "Un amuleto incantato donato da uno spirito del fuoco. Mentre le fiamme si spengono, puoi vedere scintille d'oro tra le ceneri.",
+    Burning_Amulet_of_Stardust: "Un amuleto incantato donato da uno spirito del fuoco. Si dice che le ceneri dell'albero magico contengano piccoli frammenti di potere cosmico.",
+    Burning_Amulet_of_Ash: 'Un amuleto incantato donato da uno spirito del fuoco. Le ceneri di un fuoco ben curato hanno molteplici usi.',
+    Burning_Amulet_of_XP: 'Un amuleto incantato donato da uno spirito del fuoco. Non sono un piromane, davvero!',
+    Burning_Amulet_of_Charcoal: 'Uno spirito del fuoco ti ha donato questo amuleto dopo averlo liberato dalla pancia di un serpente divoratore di fuoco. Il legno si trasforma in carbone al tuo tocco.',
+    Silver_Topaz_Necklace: "L'accoppiamento di Topazio e argento in questa collana affina i tuoi sensi e alleggerisce la tua lama.",
+    Silver_Sapphire_Necklace: "Argento e Zaffiro lavorano insieme per trasformare l'energia magica in potere curativo.",
+    Silver_Ruby_Necklace: "Il caldo Rubino e l'argento freddo sulla tua pelle rinfrescano e rinforzano il tuo corpo.",
+    Silver_Emerald_Necklace: "Si dice che l'argento e gli smeraldi portino fortuna, sia nel trovare frecce smarrite... che nell'assicurarsi che trovino il tuo nemico.",
+    Silver_Diamond_Necklace: "Perché l'argento e i diamanti ti fanno colpire più forte con grossi bastoni? Nessuno lo sa. È uno dei grandi misteri di Melvor.",
+    Gold_Topaz_Necklace: 'Questa collana è famosa per attirare la ricchezza, rendendola popolare tra la nobiltà.',
+    Gold_Sapphire_Necklace: 'Oro e Zaffiro, quando abbinati, affinano la mente e rendono più facile individuare i proiettili in arrivo.',
+    Gold_Ruby_Necklace: "L'oro migliora ulteriormente il potere del Rubino, consentendogli di guarire più velocemente e in misura maggiore.",
+    Gold_Emerald_Necklace: "Gli smeraldi incastonati nell'oro sono da lungo tempo usati per rilevare magie ostili, rendendoli popolari tra i tipi furbi.",
+    Gold_Diamond_Necklace: "I diamanti risonano con l'oro in presenza di magia per creare uno scudo minore che può deviare il colpo di una lama.",
+    Deadeye_Amulet: 'I migliori arcieri di Aeris potevano colpire una mosca da 1000 metri. Questo amuleto di diamanti è stato creato in riconoscimento della loro abilità. Si dice che contenga un veleno virulento.',
+    Warlock_Amulet: 'Si dice che gli stregoni della città di Glacia assorbissero la vita dei loro nemici. Tutti coloro che indossano questo amuleto alla fine cedono alla follia ardente.',
+    Guardian_Amulet: "Un amuleto donato per fornire protezione nel tuo momento più disperato. Possa la sua luce squarciare l'oscurità e dissipare ogni pericolo.",
+    Fighter_Amulet: 'Questo amuleto magico era indossato dai gladiatori del Signore del Caos. Mentre combattevano, la loro Furia Implacabile alimentava le fucine della guerra.',
+    Jeweled_Necklace: 'Un semplice amuleto con una piccola gemma di vetro. Si dice che porti fortuna.',
+    Amulet_Of_Incantation: 'Sebbene fragile e quindi non adatto al combattimento, questo amuleto incantato è popolare tra i lanciatori di incantesimi per la sua capacità di aumentare la parola del lanciatore.',
+    Woodcutting_Ring_Fragment: "Un anello di metallo strano trovato all'interno di un nido di corvi. Fluttua verso l'alto quando lanciato, come se fosse attratto da qualcosa in cielo.",
+    Woodcutting_Amulet_Fragment: "Uno strano ornamento di metallo trovato all'interno di un nido di corvi. Se guardi attraverso il centro di notte, puoi vedere stelle prima invisibili.",
+    Meteorite_Woodcutting_Amulet: "Dopo essersi fuso con il metallo celeste, questo amuleto ha risvegliato il suo vero potere. Mentre brandisci la tua ascia contro l'albero, essa brilla come una stella cadente.",
+    Iridium_Onyx_Necklace: "Quando colpito da un proiettile, questa collana assorbe parte dell'energia, permettendoti di restituire il colpo.",
+    Palladium_Onyx_Necklace: 'Il preferito dei cacciatori di tutto il mondo. Questo amuleto aumenta la tua coordinazione occhio-mano, facilitando la raccolta di materiali preziosi dai nemici abbattuti.',
+    Iridium_Oricha_Necklace: 'Questo amuleto assorbe energia magica, che può essere ridirezionata in un proiettile a scelta del portatore, aumentandone la potenza distruttiva.',
+    Palladium_Oricha_Necklace: 'Un colpo preciso e una morte veloce possono aumentare notevolmente il valore della pelle di un bersaglio.',
+    Iridium_Cerulean_Necklace: "L'incantesimo di vita potente su questa pietra sottrae la forza vitale del portatore, impedendo alle ferite di guarire... ma può sottrarre anche i tuoi nemici.",
+    Palladium_Cerulean_Necklace: "L'incantesimo di vita potente su questa pietra è stato regolato per aumentare notevolmente la tua velocità di guarigione, ma a costo di più risorse corporee.",
+    Iridium_Runestone_Necklace: "Questa gemma magica amplifica drasticamente l'energia magica in presenza di metallo... come l'armatura dei tuoi nemici.",
+    Palladium_Runestone_Necklace: 'La gemma magica può preservare i materiali in una bolla temporale, evitando che si deteriorino e aumentando il loro valore.',
+    Iridium_Zephyte_Necklace: 'Un amuleto divino donato a coloro che combatterebbero contro i titani. Che i tuoi piedi non vacillino mai.',
+    Palladium_Zephyte_Necklace: 'Creato per abbattere i potenti, la magia di questo amuleto divino servirà a livellare il campo quando si combattono bestie leggendarie.',
+    Poison_Lifesteal_Amulet: 'Qualsiasi cosa può diventare una medicina con la giusta dose. Anche il veleno.',
+    Frostshield_Amulet: "Un amuleto intagliato dal freddo cuore di un'Idra di Ghiaccio. La sua magia ti concede parte del potere della creatura quando sei circondato dal ghiaccio.",
+    Lightning_Amulet: 'Amuleto di RaZu, Signore dei Cieli. La rancura di RaZu contro il suo nemico ghiacciato ti offre una certa protezione dalla creatura.',
+    FrostSpark_Amulet: "Saziando la rancura del Signore dei Cieli con il sangue gelido dell'Idra di Ghiaccio, hai sbloccato il vero potere di questo amuleto.",
+    Allure_Amulet: 'Un amuleto realizzato dalle Sirene Nebbiose del grande lago. Guardarlo ti fa sentire sonnolento.',
+    Amulet_of_Prayers: 'Ci sono molte forme di culto su Melvor. Alcune di esse includono colpire i tuoi nemici in faccia.',
+    Voodoo_Trinket: 'Un piccolo effigie di paglia usato dagli occultisti per lanciare maledizioni. Puoi giurare di vedere qualcosa muoversi al suo interno se guardi abbastanza a lungo.',
+    Amulet_of_Curse_Totem_Summon: "Un grande spirito fu un tempo diviso in tre parti da un malvagio Negromante. Questo amuleto è stato forgiato dal suo corpo. Chiunque incontri il suo sguardo sarà maledetto per l'eternità.",
+    Headless_Arrows: "Frecce piumate pronte ad essere equipaggiate. L'arte del piumaggio è antica quanto il tempo stesso.",
+    Feathers: 'Piume pulite di varie creature alate. Pronte per frecce al volo, o da preparare in pozioni.',
+    Headless_Bolts: 'Balestre in ferro progettate per adattarsi a una varietà di meccanismi di fuoco. Le punte sono modellate per attaccare facilmente schegge di gemme, aumentandone notevolmente la potenza.',
+    Arrow_Shafts: 'Diversi tipi di legno possono essere trasformati in astucci per frecce, anche se i legni di alta qualità tendono a dare risultati migliori.',
+    Bronze_Arrowtips: 'Punte di freccia forgiate in bronzo. Il bronzo può essere morbido, ma lo sono anche le parti molli dei tuoi nemici.',
+    Iron_Arrowtips: 'Realizzate con il ferro estratto in abbondanza dalle montagne orientali, queste punte di freccia sono tra le più popolari a Melvor.',
+    Steel_Arrowtips: "L'acciaio temprato conferisce a queste punte di freccia un'eccezionale potenza di penetrazione, rendendole popolari tra banditi e avventurieri.",
+    Mithril_Arrowtips: 'Gli arcieri delle Isole Sante preferiscono il mithril sopra ogni altra cosa per la sua eccezionale capacità di condurre il potere sacro.',
+    Adamant_Arrowtips: 'Le punte di freccia adamantine sono così apprezzate tra le tribù delle Pianure Aride che talvolta vengono usate al posto delle monete.',
+    Rune_Arrowtips: 'Tra i membri delle tribù delle Pianure Aride è considerato un grande onore estrarre una punta di freccia runica da una ferita. Sono la prova di aver affrontato un maestro arciere e di essere sopravvissuti per raccontarlo.',
+    Dragon_Arrowtips: "Per ogni grande nemico ucciso, un capo delle Pianure Aride aggiungerà una punta di freccia in dragonite al suo copricapo. Sia come segno d'onore... sia come avvertimento.",
+    Corundum_Arrowtips: 'Punte di freccia forgiate in metallo di corindone sono così affilate da poter infliggere ferite debilitanti e persistenti.',
+    Augite_Arrowtips: 'Si dice che i cristalli di augite siano velenosi per i draghi. Anche oggi è possibile trovare punte di freccia lasciate da cacciatori dilettanti nelle pelli di vecchie bestie.',
+    Divine_Arrowtips: 'Punte di freccia realizzate in un metallo che si dice sia di origine divina. Qualunque sia la verità, non è stata trovata pelle o armatura che non possano trapassare.',
+    Consumable_Enhancer: 'Un piccolo gettone usato dagli artigiani di tutto il mondo per scambiarsi favori reciprocamente. Possono essere usati per far sì che uno di questi artigiani [Potenzi] una varietà di utili borse e pergamene.',
+    Thiefs_Moneysack: "Una bisaccia nascosta in cui custodire l'oro guadagnato illecitamente al riparo dagli occhi della legge... o da altre dita affamate.",
+    Seed_Pouch: "Nuovo! Dai tuoi amichevoli vicini di casa di Seed Co.! Le nostre Pochette per semi all-in-one sono garantite per aumentare il tuo raccolto per tutto l'anno!",
+    Runecrafting_Pouch: "Questa bisaccia incantata crea Essenza delle Rune dal nulla assorbendo l'energia spreca prodotta durante la creazione delle rune.",
+    Alchemists_Bag: "Una piccola bisaccia di reagenti alchimici di base progettata per aumentare l'efficacia di una pozione.",
+    Thiefs_Moneysack_II: "Questa bisaccia incantata attira l'oro come un magnete, che sia tuo o meno!",
+    Seed_Pouch_II: 'Ver. 2.0 dai tuoi amichevoli vicini di casa di Seed Co.! Ora meno* probabile che attiri orde fameliche di insetti mostruosi!',
+    Alchemists_Bag_II: 'Questi rari reagenti alchimici possono aumentare notevolmente gli effetti di una pozione con pochi o nessun effetto collaterale. Tuttavia, hanno un sapore orribile.',
+    Artisan_Pouch: 'Una piccola bisaccia piena di vari materiali di cui un artigiano potrebbe aver bisogno per il suo prossimo progetto.',
+    Artisan_Pouch_II: 'Contiene un piccolo gnome di nome Bob che migliora magicamente le tue creazioni quando non stai guardando. Non mettere semplicemente la mano dentro; morde.',
+    Kindling_Pouch: "Gli artigiani trovano preziosa la cenere prodotta dalla combustione di questa legna d'accensione speciale. Le fiamme che produce sono di un brillante colore dorato.",
+    Kindling_Pouch_II: "Quando bruciato in una fiamma abbastanza calda, questo legna d'accensione speciale produce scaglie dorate che possono essere vendute a caro prezzo.",
+    Stamina_Pouch: "Una piccola bisaccia di pillole bianche che dovrebbero aumentare la resistenza e l'agilità. Avvertenza: se ti trovi sul percorso ad ostacoli per più di 4 ore, consulta un medico.",
+    Spirit_Bag: "Alchimia in una borsa! Metti un oggetto e alcune rune dentro, agitala e tira fuori una replica d'oro massiccio!",
+    Chefs_Bag: 'Questa borsa resistente al calore si attacca al fianco di una stufa, consentendo un facile accesso a tutte le spezie e gli ingredienti di cui uno chef ha bisogno per realizzare il suo capolavoro.',
+    Summoners_Bag: "Una piccola borsa usata dai ritualisti durante le cerimonie di evocazione. Può concentrare e dirigere l'energia in modo da aumentare gli effetti del processo di evocazione.",
+    Whetstone: 'Una comune pietra per affilare naturale. Pietre come questa sono spesso portate da persone di ogni tipo.',
+    Meteorite_Warrior_Ring: 'Un guerriero prese una volta una Lama Celestiale per combattere un dio malvagio. Fu allora che imparò che anche gli dei potevano sanguinare.',
+    Meteorite_Marksman_Ring: 'Un arciere una volta sognò di sparare alle stelle dal cielo. Quando queste stelle caddero, i suoi nemici non ebbero più dove nascondersi.',
+    Meteorite_Spellcaster_Ring: "Un mago una volta si pose tra la sua casa e un esercito, pregando l'aiuto delle stelle. Quando le ceneri si dissolsero, dell'esercito non rimase nulla.",
+    Deadeye_Ring: "Un anello sigillare che segnava i Generali di Aeris in una guerra lontana. Il gioiello al centro crea un canale d'aria che aumenta la velocità e la potenza di una freccia.",
+    Warlock_Ring: 'Il distintivo ufficiale degli Stregoni Supremi della città di Glacia. Quando la Padrona del Mare cadde nella sua rabbia ardente, i suoi stregoni si unirono alla sua follia.',
+    Guardian_Ring: 'I Guardiani di Terran indossavano questi anelli durante la loro vigilanza eterna. La loro magia avvolge il portatore in uno spesso strato di pietra dura che può bloccare qualsiasi lama.',
+    Fighter_Ring: 'Regalato ai Campioni delle Fosse di Ragnar, i gladiatori che indossavano questi anelli erano considerati più bestie che uomini, e si dilettavano nella battaglia.',
     Poison_Virulence_Ring: "Questo veleno ti ha reciso l'ala e così sei caduto...",
-    Burning_Madness_Ring: '...mentre la follia ribolliva dentro...',
-    Spiked_Shell_Ring: '...paure infondate ti hanno intrappolato nella tua corazza...',
-    Relentless_Fury_Ring: '...rinchiuso finché la tua furia morirà.',
-    Silver_Topaz_Ring:
-        'Sebbene non sia potente come un amuleto più grande, questo anello si dice che guidi la fiducia nella verità di una lama errante.',
-    Silver_Sapphire_Ring:
-        'Quando attivato, questo anello riveste la mano in una debole barriera. Questa barriera può essere utilizzata per bloccare una lama, deviare una freccia o colpire un bersaglio con un gesto della mano.',
-    Silver_Ruby_Ring:
-        'Questo anello di rubino conferisce più forza al tuo colpo rispetto a quanto normalmente sarebbe possibile. Il pacchetto da 6 è solo un bonus.',
-    Silver_Emerald_Ring:
-        'Un arco tirato o un oggetto lanciato con una mano che indossa questo anello volerà più lontano e colpirà più duramente del normale.',
-    Silver_Diamond_Ring:
-        'Dio mio! Lo splendore di questo massiccio anello di diamanti potrebbe accecare qualcuno! Almeno questo significa che avrai più facilità a schivare i loro colpi.',
-    Gold_Topaz_Ring:
-        "Un potente mago lasciò una volta un tesoro segreto, con l'unico indizio delle istruzioni per creare questo anello apparentemente semplice.",
-    Gold_Sapphire_Ring:
-        "La barriera prodotta da questo anello non è stabile come quella del suo cugino d'argento. La reazione alla rottura della barriera può causare seri danni.",
-    Gold_Ruby_Ring:
-        "La calda radiante del rubino e dell'oro si dice favorisca la buona salute e agevoli il processo di guarigione.",
-    Gold_Emerald_Ring:
-        "Usato da aspiranti cavalieri per allenare le loro abilità, un'arma brandita con una mano che indossa questo anello sembrerà molto più pesante.",
-    Gold_Diamond_Ring:
-        'Chi indossa questo anello non deve mai temere di smarrire le proprie cose, ed è stato quindi celebrato come portafortuna fin dai tempi immemorabili.',
-    Aorpheats_Signet_Ring:
-        'Si dice che un Mago Antico abbia dato la sua vita per proteggere il mondo da un grande male. Tutto ciò che resta del suo lascito, tuttavia, è questo sigillo apparentemente semplice.',
-    Pirates_Lost_Ring: 'Un piccolo anello perso in mare. Mettendolo al dito, provi nostalgia per le onde e la marea.',
-    Ancient_Ring_Of_Skills:
-        'Questo anello incantato può manifestare una varietà di strumenti che farebbero gola a qualsiasi artigiano. Sono estremamente rari, quindi solo pochi ne hanno mai visto uno.',
-    Ancient_Ring_Of_Mastery:
-        "Un anello incantato con l'anima di un antico maestro. Quando lo si indossa, alcuni sostengono di sentire una piccola voce nel profondo della mente che dà istruzioni per compiere i compiti.",
-    Shaman_Ring:
-        'Gli Sciamani delle Terre Velate si incontrano spesso con i Druidi della Foresta Nordorientale nelle antiche rovine tra le loro due terre.',
-    Sandstorm_Ring:
-        "L'uccisione di una Bestia delle Sabbie e la creazione del suo cuore in questo anello è uno dei riti di passaggio più pericolosi per qualsiasi giovane membro delle Tribù delle Pianure Aride... e il più rispettato.",
-    Tormented_Ring:
-        'Questo anello maledetto conferisce un potere enorme al suo portatore, ma a un terribile costo. Le anime di tutti i suoi precedenti proprietari sono intrappolate nella gemma nera di mezzanotte.',
-    Wasteful_Ring:
-        'Questo anello di giada è fatto dalla zampa di un drago malvagio il cui eccesso e avidità lo hanno portato alla follia. Fai attenzione a che la sua fame non ti consumi anche.',
-    Hunters_Ring:
-        'Appartenne una volta al più grande cacciatore del mondo. Non sapeva che presto sarebbe stato lui a essere inseguito.',
-    Ring_Of_Wealth:
-        'Voci sulla capacità di questo anello di attirare la ricchezza e creare oro hanno generato innumerevoli imitazioni. Alcune di successo, altre meno.',
-    Ring_Of_Power:
-        'Un anello indossato dai servitori di un potere enigmatico. Rappresentava sia la loro autorità che il mezzo con cui la facevano rispettare.',
-    Natures_Blessing_Ring:
-        "L'anello di uno Sciamano benedetto dai loro alleati Druidi come segno del loro patto. Avvicina uno alla natura e migliora la capacità di guarigione. Entrambi sono benvenuti nelle aride Terre Brulle.",
-    Ring_Of_Blade_Echoes:
-        'Questo anello incantato crea lame fantastiche che attaccano il tuo bersaglio. Essendo in parte illusorie, queste lame colpiscono solo con una frazione della loro potenza originale.',
-    Ring_Of_Barrage:
-        'Le viti che crescono intorno a questo anello secernono uno stimolante potente che può affinare i riflessi di un portatore, ma li rende anche più inclini agli errori.',
-    Ring_Of_Spirit_Power:
-        'Lo Spirito che dimora in questo anello può assistere il portatore nel lancio di incantesimi... al giusto prezzo.',
-    Meteorite_Woodcutting_Ring:
-        'Dopo aver incontrato ciò che cercava, questo anello si è risvegliato alla sua vera forma. Un colpo di ascia sferrato da una mano che indossa questo anello può ridurre un albero in cenere.',
-    Palladium_Onyx_Ring:
-        'Questo anello produce un potente scudo magico progettato per deviare proiettili veloci da un arco o da una balestra.',
-    Iridium_Onyx_Ring:
-        'Gli scudi magici progettati per fermare proiettili veloci sono meno efficaci contro una lama lenta e costante. Questo anello è stato creato con questa idea in mente.',
-    Iridium_Oricha_Ring:
-        'Questo anello aumenta notevolmente la precisione e la potenza di un proiettile quanto più a lungo il portatore si concentra sulla mira, rendendolo popolare tra i cecchini.',
-    Palladium_Oricha_Ring:
-        'Chiamato il "Parafulmine Magico" dal suo designer, questo anello devia gli attacchi magici dal centro di massa del portatore.',
-    Iridium_Cerulean_Ring:
-        'Originariamente creato con l\'idea di cancellare la fame "nutrendosi" di energia magica, l\'esperimento è stato considerato un fallimento. Tuttavia, i suoi effetti sono ancora potenti.',
-    Palladium_Cerulean_Ring:
-        "Quando posizionato attorno all'asta di un bastone magico, questo anello si nutre dell'energia del bastone per produrre una barriera magica attorno al suo utilizzatore.",
-    Iridium_Runestone_Ring:
-        'Quando una arma viene brandita da una mano che indossa questo anello, essa produce una lama magica che ne aumenta notevolmente la potenza.',
-    Palladium_Runestone_Ring:
-        "Basato sull'anello di zaffiro d'argento, quando attivato, questo anello produce uno scudo di energia intorno all'avambraccio del portatore. Questo scudo è molto più robusto e affidabile.",
-    Iridium_Zephyte_Ring:
-        "Questo gioiello divino fa sì che l'arma del portatore risuoni alla stessa frequenza dell'armatura che colpisce, aumentando l'efficacia del colpo.",
-    Palladium_Zephyte_Ring:
-        'La migliore difesa è un buon attacco. Il potere divino di questo anello ti permette di colpire con la forza dei cieli, ma ti rende più suscettibile a quella stessa potenza.',
-    Ring_of_Curse_Protection:
-        'Un anello concesso ai servi di Lady Darkheart. Principalmente per proteggerli dal proprio potere.',
+    Burning_Madness_Ring: '... mentre la follia ribolliva dentro...',
+    Spiked_Shell_Ring: '... paure infondate ti hanno intrappolato nel tuo guscio...',
+    Relentless_Fury_Ring: '... imprigionato finché la tua furia si è spenta.',
+    Silver_Topaz_Ring: 'Anche se non è potente come un amuleto più grande, si dice che questo anello aiuti a guidare la direzione di una lama errante.',
+    Silver_Sapphire_Ring: 'Quando attivato, questo anello riveste la mano con una debole barriera. Questa barriera può essere usata per bloccare una lama, deviare una freccia o colpire un bersaglio con un gesto della mano.',
+    Silver_Ruby_Ring: 'Questo anello di rubini conferisce più forza al tuo movimento di quanto sarebbe altrimenti possibile. I 6 carati sono solo un bonus.',
+    Silver_Emerald_Ring: 'Un arco tirato o un oggetto lanciato da una mano che indossa questo anello volerà più lontano e colpirà più duramente del normale.',
+    Silver_Diamond_Ring: 'Dio mio! Il bagliore di questo massiccio anello di diamanti potrebbe accecare qualcuno! Almeno significa che avrai più facilità nel deviare i loro colpi.',
+    Gold_Topaz_Ring: "Un potente mago lasciò una volta un tesoro segreto, con l'unico indizio che erano le istruzioni per creare questo anello apparentemente semplice.",
+    Gold_Sapphire_Ring: "La barriera prodotta da questo anello non è stabile quanto quella del suo cugino d'argento. Il contraccolpo dalla frantumazione della barriera può causare danni gravi.",
+    Gold_Ruby_Ring: "Il calore radiante del rubino e dell'oro si dice che promuova la buona salute e agevoli il processo di guarigione.",
+    Gold_Emerald_Ring: "Usato dagli aspiranti cavalieri per allenare le loro abilità, un'arma brandita da una mano che indossa questo anello sembrerà molto più pesante.",
+    Gold_Diamond_Ring: 'Coloro che indossano questo anello non devono mai temere di smarrire le loro cose, ed è stato quindi celebrato come un portafortuna fin dalla notte dei tempi.',
+    Aorpheats_Signet_Ring: 'Si dice che un antico mago abbia dato la sua vita per proteggere il mondo da un grande male. Tutto ciò che rimane del suo lascito è questo sigillo apparentemente semplice.',
+    Pirates_Lost_Ring: 'Un piccolo anello perso in mare. Metterlo al dito ti fa desiderare le onde e la marea.',
+    Ancient_Ring_Of_Skills: "Questo anello incantato può manifestare una varietà di utensili che farebbero venire l'acquolina in bocca a qualsiasi artigiano. Sono estremamente rari, quindi solo pochi ne hanno mai visto uno.",
+    Ancient_Ring_Of_Mastery: "Un anello incantato con l'anima di un antico maestro. Quando viene indossato, alcuni sostengono di sentire una piccola voce nel profondo della loro mente che dà istruzioni per compiti.",
+    Shaman_Ring: 'Gli sciamani delle Terre Oscure si incontrano spesso con i druidi della Foresta del Nord-Est nelle antiche rovine tra le loro due terre.',
+    Sandstorm_Ring: 'Uccidere una Bestia delle Sabbie e forgiare un anello con il suo cuore è uno dei riti di passaggio più pericolosi per qualsiasi giovane membro delle Tribù delle Pianure Aride... ed è il più rispettato.',
+    Tormented_Ring: 'Questo anello maledetto conferisce un potere immenso al suo portatore, ma a un terribile costo. Le anime di tutti i suoi precedenti proprietari possono essere viste intrappolate nella gemma nera di mezzanotte.',
+    Wasteful_Ring: 'Questo anello di giada è realizzato con il artiglio di un drago malvagio il cui eccesso e avidità lo hanno portato alla follia. Fate attenzione affinché la sua fame non vi consumi anche voi.',
+    Hunters_Ring: 'Appartenuto una volta al più grande cacciatore del mondo. Non sapeva che presto sarebbe stato lui a essere cacciato.',
+    Ring_Of_Wealth: 'Le voci sulla capacità di questo anello di attirare la ricchezza e creare oro hanno generato innumerevoli imitazioni. Alcune di successo, altre meno.',
+    Ring_Of_Power: 'Un anello indossato dai servitori di un potere enigmatico. Rappresentava sia la loro autorità che i mezzi con cui la imponevano.',
+    Natures_Blessing_Ring: 'Un anello degli sciamani benedetto dai loro alleati druidi come segno del loro patto. Avvicina alla natura e migliora la capacità di guarigione. Entrambi sono benvenuti nelle Terre Oscure inospitali.',
+    Ring_Of_Blade_Echoes: 'Questo anello incantato crea lame fantastiche che attaccano il vostro obiettivo. Essendo in parte illusorie, queste lame colpiscono con solo una frazione della loro potenza originale.',
+    Ring_Of_Barrage: 'Le viti che crescono intorno a questo anello secernono uno stimolante potente che può affinare i riflessi di un indossatore, ma lo rende più incline agli errori.',
+    Ring_Of_Spirit_Power: 'Lo Spirito che abita in questo anello può assistere il portatore nel lancio degli incantesimi... al giusto prezzo.',
+    Meteorite_Woodcutting_Ring: "Avendo incontrato ciò che cercava, questo anello si è risvegliato alla sua vera forma. Un colpo da un'ascia portata da una mano che indossa questo anello può ridurre un albero in cenere.",
+    Palladium_Onyx_Ring: 'Questo anello produce uno scudo magico potente progettato per deviare proiettili veloci da un arco o da una balestra.',
+    Iridium_Onyx_Ring: 'Gli scudi magici progettati per fermare proiettili veloci sono meno efficaci contro una lama lenta e costante. Questo anello è stato creato con questa idea in mente.',
+    Iridium_Oricha_Ring: 'Questo anello aumenta notevolmente la precisione e la potenza di un proiettile quanto più il portatore si concentra sulla mira, rendendolo popolare tra i cecchini.',
+    Palladium_Oricha_Ring: "Chiamato il 'Parafulmine Magico' dal suo progettista, questo anello attira gli attacchi magici lontano dal centro del suo indossatore.",
+    Iridium_Cerulean_Ring: 'Inizialmente creato con l\'idea di cancellare la fame "nutrendosi" di energia magica, l\'esperimento è stato considerato un fallimento. Tuttavia, i suoi effetti sono ancora potenti.',
+    Palladium_Cerulean_Ring: "Quando posizionato attorno all'asta di un bastone magico, questo anello si nutre dell'energia del bastone per creare una barriera magica intorno al suo indossatore.",
+    Iridium_Runestone_Ring: 'Quando una lama viene brandita da una mano che indossa questo anello, essa crea una lama magica che aumenta notevolmente la sua potenza.',
+    Palladium_Runestone_Ring: "Basandosi sull'anello di zaffiro argentato, quando attivato, questo anello crea uno scudo di energia intorno all'avambraccio del suo indossatore. Questo scudo è molto più resistente e affidabile.",
+    Iridium_Zephyte_Ring: 'Il miglior difesa è un buon attacco. Il potere divino di questo anello ti permette di colpire con la forza dei cieli, ma ti rende anche più suscettibile a quella stessa potenza.',
+    Ring_of_Curse_Protection: 'Un anello concesso ai servitori di Lady Darkheart, principalmente per proteggerli dal proprio potere.',
     Ring_of_Phantom_Summon:
-        'Un Grande Spirito è stato una volta diviso in tre parti da un malvagio Necromante. Questo Anello è stato creato dalla sua anima. Conserva ancora echi del suo passato, che possono manifestarsi a piacimento del portatore.',
-    Blood_Ring:
-        'Un anello usato dai vampiri per raccogliere il sangue delle loro vittime. Creature così avidamente non sopportano di sprecare nemmeno una goccia.',
-    Book_of_Eli:
-        "L'Arcimago Eli era famoso per aver inaugurato l'arte degli incantesimi Aurorici. Questo libro degli incantesimi contiene una frazione di ciò che hanno imparato.",
-    Book_of_Occults:
-        'Un manuale di istruzioni per ritualisti progettato per semplificare ed ottimizzare il processo di evocazione. Attenzione, questo libro morde.',
-    Burning_Embers_Book:
-        "Un libro di incantesimi infuocati rubato dal cadavere di un demone ardente. Le sue origini e l'autore sono sconosciuti, ma il suo potere come focalizzatore magico non dovrebbe essere sottovalutato.",
-    Book_of_the_Ancients:
-        'Le opere complete di una civiltà antica e magica perduta nel tempo. Una volta spezzata per paura di ciò che questa conoscenza avrebbe potuto scatenare, ora è di nuovo intera.',
-    Blazing_Lantern:
-        'Una lanterna sempre accesa portata dai Nomadi delle Shrouded Badlands. La sua luce brucia via la nebbia che si avvicina e offre protezione dalle malvagità che si celano al suo interno.',
-    Fine_Coinpurse:
-        'Questa apparentemente normale, se ben fatta, borsa per monete non si esaurisce mai di monete, purché ne prendiate solo poche alla volta. Uno studio approfondito non ha prodotto risposte determinabili su come ciò sia possibile.',
-    Book_Of_Scholars:
-        'Sebbene sia delle dimensioni di un tomo standard, questo libro incantato contiene (letteralmente) innumerevoli pagine di conoscenza su una vasta gamma di argomenti.',
+        'Un Grande Spirito fu una volta diviso in tre parti da un malvagio Necromante. Questo anello è stato forgiato dalla sua anima. Conserva ancora echi della sua precedente esistenza, che possono manifestarsi a volontà del portatore.',
+    Blood_Ring: 'Un anello usato dai vampiri per raccogliere il sangue delle loro vittime. Creature così avariziose non possono sopportare di sprecare neppure una goccia.',
+    Book_of_Eli: "L'Arcimago Eli è stato famoso per aver inaugurato l'arte degli incantesimi aurorici. Questo libro degli incantesimi contiene una frazione di ciò che hanno imparato.",
+    Book_of_Occults: 'Un manuale di istruzioni per ritualisti progettato per razionalizzare ed ottimizzare il processo di evocazione. Attenzione, questo libro morsica.',
+    Burning_Embers_Book: "Un libro di incantesimi infuocati rubato dal cadavere di un demone in fiamme. Le sue origini e l'autore sono sconosciuti, ma il suo potere come focus magico non va sottovalutato.",
+    Book_of_the_Ancients: "Le opere complete di un'antica civiltà magica perduta nel tempo. Una volta divise per timore di ciò che questo sapere potrebbe scatenare, ora sono di nuovo intere.",
+    Blazing_Lantern: 'Una lanterna sempre ardente portata dai Nomadi delle Terre Maledette. La sua luce brucia via la nebbia che si avvicina e offre protezione dai mali che si nascondono dentro.',
+    Fine_Coinpurse: 'Questa borsa da monete apparentemente normale, sebbene ben fatta, non si esaurisce mai di monete, purché ne prenda solo poche alla volta. Uno studio approfondito non ha fornito risposte determinabili su come funzioni.',
+    Book_Of_Scholars: 'Sebbene delle dimensioni di un tomo standard, questo libro incantato contiene (letteralmente) innumerevoli pagine di conoscenze su una vasta gamma di argomenti.',
     Hunters_Journal: 'Alcuni cacciatori cercano potenti bestie. Altri preferiscono prede più scintillanti.',
-    Mortar_and_Pestle: "Un vero saggio sa che Cucina e Alchimia sono solo un passo l'uno dall'altro.",
-    Burning_Scroll_Of_Gold:
-        "Si dice che questo piccolo rotolo attiri la ricchezza quando viene bruciato. Per l'acquirente o il venditore, nessuno può dirlo.",
-    Burning_Scroll_Of_Gold_II:
-        'Creato da un alchimista che cercava di trasformare il carbone in oro. I risultati non erano esattamente quelli che si aspettava, ma chi erano loro per discutere?',
-    Burning_Scroll_Of_Stardust:
-        'Avvolgendo questo rotolo intorno a un tronco magico e bruciandolo, è possibile estrarre una piccola quantità del potere celestiale del legno.',
-    Burning_Scroll_Of_Stardust_II:
-        'Il legno magico contiene tracce deboli del potere celestiale. Questo rotolo può intrappolare quel potere nelle sue ceneri.',
-    Burning_Scroll_Of_Ash: 'Chi compra carta di alta qualità solo per bruciarla in cenere?! Tu, evidentemente...',
-    Burning_Scroll_Of_Ash_II:
-        'I tronchi avvolti in questo rotolo bruciano eccezionalmente puliti e le ceneri prodotte possono essere utilizzate per una varietà di progetti.',
-    Quick_Burner: 'Rotoli immersi in un accelerante. Attenzione a non bruciarti le sopracciglia.',
+    Mortar_and_Pestle: "Un vero saggio sa che la cucina e l'alchimia sono solo un passo l'uno dall'altro.",
+    Burning_Scroll_Of_Gold: 'Questo piccolo rotolo si dice che attiri la ricchezza quando viene bruciato. Per il compratore o il venditore, nessuno può dirlo con certezza.',
+    Burning_Scroll_Of_Gold_II: 'Creato da un alchimista che cercava di trasformare il carbone in oro. I risultati non erano esattamente quelli che si aspettava, ma chi erano loro per discutere?',
+    Burning_Scroll_Of_Stardust: 'Avvolgere questo rotolo attorno a un tronco magico e bruciarlo può estrarre una piccola quantità della potenza celestiale del legno.',
+    Burning_Scroll_Of_Stardust_II: 'Il legno magico contiene tracce deboli di potere celestiale. Questo rotolo può intrappolare quel potere nelle sue ceneri.',
+    Burning_Scroll_Of_Ash: 'Chi compra carta di alta qualità solo per bruciarla per ottenere delle ceneri?! Tu, apparentemente...',
+    Burning_Scroll_Of_Ash_II: 'I tronchi avvolti in questo rotolo bruciano eccezionalmente puliti e le ceneri prodotte possono essere utilizzate per una varietà di progetti.',
+    Quick_Burner: 'Rotoli imbevuti di un accelerante. Attenzione a non bruciarti le sopracciglia.',
     Quick_Burner_II: 'Classificato legalmente come esplosivo di basso grado.',
-    Golden_Star:
-        'Queste minuscole gemme possono essere trovate nei fiumi durante la luna piena. Macinandole si ottiene una polvere con una notevole potenza celestiale.',
-    Golden_Star_II:
-        'Trattate alchemicamente, macinando queste gemme è possibile ottenere molta più potenza celestiale rispetto alla norma.',
-    Fishing_Scroll_Of_XP:
-        "Un vecchio marinaio ti ha venduto questo rotolo. All'interno ci sono descrizioni di ogni pesce che ha mai pescato, dalle nebbie del nord al gelo del sud.",
-    Woodcutting_Scroll_Of_XP:
-        "Il Lumberjack Weekly contiene tutto ciò che c'è da sapere sulle foreste locali. Ogni edizione è scritta e mantenuta dai falegnami locali.",
-    Mining_Scroll_Of_XP:
-        'Questo rotolo magico, quando inserito in una lanterna e acceso, indica la via per i depositi di minerali e minerali vicini.',
-    Runecrafting_Scroll_Of_XP:
-        "Giocare con la magia può essere pericoloso. Questo manuale di istruzioni passo dopo passo per la runecrafting è stato creato dall'Academia Arcanum per ridurre gli incidenti.",
-    Herblore_Scroll_Of_XP:
-        "Il veleno è nella dose. Questa guida all'erboristeria è stata scritta da una strega eremita, in modo che altri non debbano affrontare la stessa tragedia.",
-    Crafting_Scroll_Of_XP:
-        'Questo rotolo contiene vari schemi per una vasta gamma di progetti comuni per aiutare qualsiasi artigiano a perfezionare le proprie abilità.',
-    Monster_Hunter_Scroll:
-        'La metà della sfida nella caccia ai mostri è trovarli. Questo rotolo elenca gli habitat e i percorsi di vagabondaggio di varie creature.',
-    Scroll_Of_Essence:
-        'Una mappa di alcune delle poche rimanenti miniere di essenza intoccata su Melvor. La loro posizione è gelosamente custodita.',
-    Looter_Pouch:
-        "Questa borsa magica è più grande all'interno che all'esterno, permettendo a qualsiasi avventuriero intrepido di portare a casa qualcosa in più.",
-    Mastery_Magnet:
-        'Un magnete misterioso che si dice attiri la Conoscenza. Non è noto se funzioni effettivamente, ma molti artigiani giurano per esso.',
-    Additional_Cooker_Scroll:
-        'Contratto scritto per un Assistente Cuoco Goblin. Anche se i Goblin potrebbero non essere i più intelligenti o i migliori cuochi, sono efficienti ed economici.',
-    Bad_Cooker_Scroll: 'Forse questo nuovo Assistente Cuoco che hai assunto non è così efficiente come ti aspettavi...',
-    Gem_Finder_Scroll:
-        'Questo pergamena magico rileva pietre preziose nascoste di una dimensione e qualità specifiche quando un pezzo di minerale viene posto sopra di esso.',
-    Gem_Preserver_Scroll:
-        'I grandi gioiellieri sanno che a volte meno è di più. Questo pergamena contiene suggerimenti e trucchi per sfruttare al meglio ciò che si ha.',
-    Staff_Maker_Scroll:
-        "L'arte di fabbricare bastoni è antica quanto la magia stessa. I veri maestri sanno come trarre il meglio da ogni pezzo di legno.",
-    Flaming_Axe_Scroll:
-        'Avvolgere la testa della tua ascia con questa pergamena incantata la farà ardere quando viene oscillata. Perfetto per liberare il legno morto o respingere i castori.',
-    Leather_Crafter_Scroll:
-        'Un artigiano della pelle deve imparare a rispettare le creature che hanno dato la loro vita per il loro mestiere e a non sprecare nulla di ciò che è stato dato.',
-    Herblore_Preservation_Scroll:
-        "Le forniture di alchimia possono essere costose. Pertanto, l'alchimista avveduto deve imparare come sfruttare al meglio le proprie forniture.",
-    Slayer_Harvest_Scroll:
-        'Le pietre del sangue prodotte da questa pergamena sono inutili per la maggior parte delle persone, ma hanno un prezzo decente nella locanda degli uccisori. Chissà chi le compra?',
-    Slayer_Binding_Scroll:
-        'Una pergamena trappola preferita dai cacciatori della locanda degli uccisori. Quando una bestia pone il piede su questa pergamena, essa crea radici spesse che ostacolano il movimento della creatura.',
-    Ranged_Hinder_Scroll:
-        'Una pergamena trappola preferita dai cacciatori della locanda degli uccisori. Questa pergamena lampeggiante distrae e acceca le creature, rendendo più facile evitare i proiettili in arrivo.',
-    Magic_Hinder_Scroll:
-        'Una pergamena trappola preferita dai cacciatori della locanda degli uccisori. Quando posta sulla pelle di una creatura, questa pergamena appiccicosa attira le esplosioni magiche nella sua posizione.',
-    Melee_Hinder_Scroll:
-        "Una pergamena trappola preferita dai cacciatori della locanda degli uccisori. Quando viene attivata, questa pergamena spruzza l'obiettivo con un acido leggero, indebolendo la sua pelle o armatura.",
-    Fervor_Scroll:
-        'Una pergamena trappola preferita dai cacciatori della locanda degli uccisori. Rilascia un fumo tossico che offusca la mente di una bestia per breve tempo.',
-    Slayer_Deterer:
-        'Una pergamena creata osservando le proprietà adattative dei funghi Miolite. Crea uno scudo minore adattativo quando colpito.',
-    Dragonbreath_Deterer:
-        'Il respiro del drago è uno dei fenomeni magici più studiati di tutto Melvor. Questa pergamena crea uno scudo piccolo per aiutare a mitigarlo.',
-    Slayer_Torch:
-        'Queste fiamme purificatrici sono una delle poche protezioni contro la corruzione della Città Afflitta. Stai attento a non esaurirle, altrimenti diventerai parte della città stessa.',
-    Mystic_Lantern:
-        "L'oscurità magica della Valle di Mezzanotte nasconde cose ancora più oscure. La luce di questa lanterna può respingere gli spiriti malvagi e dissipare le illusioni.",
-    Fishing_Hook:
-        "Hai pescato con un amo non agganciato per tutto questo tempo? Non c'è da meravigliarsi se sta impiegando così tanto...",
-    Wizards_Scroll:
-        "Alcuni maghi dell'Accademia Arcanum hanno passato tutta la loro vita a ottimizzare i loro incantesimi. Questo è il risultato di tutti i loro sforzi.",
-    Wizards_Scroll_II:
-        "L'Arcanum non è l'unico a avere segreti da rivelare. Gli aggiornamenti a questa pergamena coprono discipline magiche da tutti gli angoli di Melvor.",
-    Prayer_Scroll: 'Una preghiera è molto più efficace quando si sa cosa chiedere e come farlo.',
-    Explorers_Map:
-        'La Locanda degli Uccisori assume spesso esploratori esperti per esplorare le aree prima di una caccia. Le informazioni che portano sono ben degne del costo.',
-    Explorers_Map_II:
-        'Una mappa commissionata da un esploratore veterano. Il livello di dettaglio e le informazioni contenute qui sono stupefacenti.',
-    Summoning_Scrolls:
-        'La maggior parte dei negromanti preferisce ossa e corpi per la loro arte. Pochi hanno mai raggiunto il livello di evocare spiriti, come ha fatto Fiozor.',
-    Travellers_Compass:
-        'Una bussola particolare venduta a un mercante itinerante per una miseria. Invece di puntare a nord, punta a qualcosa di molto in alto.',
-    Portable_Rations:
-        'Appositamente progettate per coloro che viaggiano per lunghe distanze, ogni confezione è un pasto autosufficiente.',
-    Portable_Rations_II:
-        'La miscela segreta di 11 erbe e spezie di tua nonna ha reso queste razioni molto più gustose del normale.',
-    Blood_Vial:
-        "Scherzosamente chiamata 'Pozione della Salute' nella comunità dei vampiri, questa soluzione rossa spessa non è realmente sangue, ma un sostituto del sangue usato per placare la fame.",
-    Blood_Vial_II:
-        "I Signori dei Vampiri nel loro oscuro regno si sono da tempo rivolti all'alchimia per placare la loro fame insaziabile. Questo è il loro ultimo avanzamento in questa ricerca.",
-    Masquerade_Mask:
-        'Queste maschere incantate offrono anonimato totale, nonostante coprano così poco. Tuttavia, attenzione, sono fragili.',
-    Golden_Reel:
-        'Tessuta con capelli e squame di una Sirena, questa lenza da pesca dorata-rossa attira i pesci anche senza esca. Ma attenzione, altrimenti potresti cadere anche tu sotto il suo incantesimo.',
-    Burning_Reel:
-        "Una strana lenza da pesca fatta di un materiale sconosciuto. Sembra banale a prima vista, ma quando viene immersa nell'acqua, si accende a contatto con l'aria.",
-    Miners_Helmet:
-        'Indossate sempre la vostra attrezzatura di protezione individuale per la vostra sicurezza personale. Se inizia a parlarvi, ignoratela. Sono solo i fumi delle grotte.',
-    Rune_Essence:
-        "Magia nella sua forma più pura. Queste 'pietre' sono energia magica condensata che deve ancora essere modulata attraverso l'arte della Runecraft.",
-    Copper_Ore:
-        'Comune minerale di rame dalla catena montuosa centrale. Ha una vasta gamma di usi popolari, ma è spesso legato al tin per creare il bronzo.',
-    Tin_Ore:
-        'Le Montagne Centrali di Melvor ospitano le vene di minerale più ricche e pure del mondo. Legato al rame proveniente dalle stesse montagne, produce un bronzo superiore.',
-    Iron_Ore:
-        'Le montagne orientali del Melvor centrale contengono vaste vene di ferro e carbone. È grazie a questa risorsa che la Capitale è rimasta il centro del potere per secoli.',
-    Coal_Ore:
-        'Si dice che il carbone scavato dalla catena montuosa orientale bruci per il doppio del tempo e tre volte più caldo. Altri sostengono che si tratti solo di propaganda della Capitale.',
-    Silver_Ore:
-        "Lontano a ovest, oltre le coste dell'Accademia Arcanum, si dice che ci sia una catena montuosa fatta d'argento puro. Almeno così affermano i mercanti di minerali.",
-    Gold_Ore:
-        "La più grande miniera d'oro del mondo si trova sotto le Cime Pericolose. Molti hanno cercato di rivendicare le sue ricchezze. La maggior parte è stata mangiata dai Draghi.",
-    Mithril_Ore:
-        "L'unica miniera di Mithril mai scoperta si trovava nelle 'Isole Sacre'. Questo minerale prezioso ha reso questa piccola nazione una delle potenze mondiali... e un bersaglio.",
-    Adamantite_Ore:
-        'Piccoli granelli di Adamantite possono essere estratti dalle sabbie delle Pianure Aride e dalla loro settentrionale Desolata. Si vocifera di una grande miniera da qualche parte sotto le sabbie.',
-    Runite_Ore:
-        'Si trova solo nelle terre ghiacciate a sud, si vocifera che questo minerale sia la ragione per cui Glacia ha costruito la sua città in un luogo così ostile.',
-    Dragonite_Ore:
-        'Questo minerale si trova solo a est, nelle misteriose terre al di là delle Regioni Esterne. Il viaggio è pericoloso, ma le ricompense sono inimmaginabili.',
-    Pure_Essence:
-        "L'Accademia Arcanum è stata costruita sopra la vena di magia più pura conosciuta a Melvor. L'essenza estratta qui è così concentrata che persino le pietre preziose sono diventate qualcos'altro.",
+    Golden_Star: 'Queste minuscole gemme possono essere trovate nei fiumi durante la luna piena. Macinandole si ottiene una polvere con una notevole quantità di potere celestiale.',
+    Golden_Star_II: 'Trattate alchemicamente, la macinazione di queste gemme può produrre molto più potere celestiale del normale.',
+    Fishing_Scroll_Of_XP: "Un vecchio marinaio ti ha venduto questo rotolo. All'interno ci sono descrizioni di ogni pesce che ha mai pescato, dalle nebbie del Nord alle gelide acque del Sud.",
+    Woodcutting_Scroll_Of_XP: 'Il Lumberjack Weekly contiene tutto ciò che devi sapere sulle foreste locali. Ogni edizione è scritta e curata dai falegnami locali.',
+    Mining_Scroll_Of_XP: 'Questo rotolo magico, quando inserito in una lanterna e acceso, indicherà la strada verso i depositi di minerali e minerali vicini.',
+    Runecrafting_Scroll_Of_XP: "Giocare con la magia può essere pericoloso. Questo manuale passo-passo per la runecrafting è stato creato dall'Academia Arcanum per ridurre gli incidenti.",
+    Herblore_Scroll_Of_XP: "Il veleno è nella dose. Questa guida all'erboristeria è stata scritta da una strega eremita, in modo che altri non debbano affrontare la stessa tragedia.",
+    Crafting_Scroll_Of_XP: 'Questo rotolo contiene vari progetti per una vasta gamma di progetti comuni per aiutare qualsiasi artigiano a perfezionare le proprie abilità.',
+    Monster_Hunter_Scroll: 'Metà della sfida nella caccia ai mostri... è trovarli. Questo rotolo elenca gli habitat e i territori vaganti di varie creature.',
+    Scroll_Of_Essence: 'Una mappa di alcune delle poche rimanenti miniere di essenza intoccate su Melvor. La loro posizione è gelosamente custodita.',
+    Looter_Pouch: "Questa borsa magica è più grande all'interno che all'esterno, permettendo a qualsiasi intrepido avventuriero di portare a casa un po' di più.",
+    Mastery_Magnet: 'Un magnete misterioso che si dice attiri la Conoscenza. Non è noto se funzioni effettivamente, ma molti artigiani ne giurano.',
+    Additional_Cooker_Scroll: 'Contratto scritto per un Assistente Cuoco Goblin. Anche se i Goblin potrebbero non essere i più intelligenti o i migliori cuochi, sono efficienti ed economici.',
+    Bad_Cooker_Scroll: 'Forse questo nuovo Assistente Cuoco Goblin che hai assunto non è così efficiente come ti hanno fatto credere...',
+    Gem_Finder_Scroll: 'Questo foglio magico rileva qualsiasi pietra preziosa nascosta di una dimensione e qualità specifiche quando un pezzo di minerale viene posto sopra.',
+    Gem_Preserver_Scroll: 'I grandi gioiellieri sanno che a volte meno è di più. Questo rotolo contiene consigli e trucchi per sfruttare al massimo ciò che si ha.',
+    Staff_Maker_Scroll: "L'arte della fabbricazione di bacchette è antica quanto la magia stessa. I veri maestri sanno come tirare fuori il meglio da ogni pezzo di legno.",
+    Flaming_Axe_Scroll: 'Avvolgere la testa della tua ascia in questo rotolo incantato la farà esplodere in fiamme quando verrà brandita. Perfetta per liberare il legno morto o respingere i Castori Diri.',
+    Leather_Crafter_Scroll: 'Un conciatore deve imparare a rispettare le creature che hanno dato la loro vita per il loro mestiere e a non sprecare nulla di ciò che è stato dato.',
+    Herblore_Preservation_Scroll: "Gli ingredienti alchemici possono essere costosi. Pertanto, l'astuto alchimista deve imparare come sfruttare al massimo i suoi fornimenti.",
+    Slayer_Harvest_Scroll: 'Le pietre di sangue prodotte da questo rotolo sono inutili per la maggior parte, ma vendono a un prezzo decente nella Slayer Lodge. Mi chiedo chi le sta comprando?',
+    Slayer_Binding_Scroll: 'Un rotolo trappola preferito dai cacciatori della Slayer Lodge. Quando una bestia calpesta questo rotolo, crea radici spesse che ostacolano il movimento della creatura.',
+    Ranged_Hinder_Scroll: 'Un rotolo trappola preferito dai cacciatori della Slayer Lodge. Questo rotolo lampeggiante distrae e acceca le creature, rendendo più facile schivare i proiettili in arrivo.',
+    Magic_Hinder_Scroll: 'Un rotolo trappola preferito dai cacciatori della Slayer Lodge. Quando posizionato sulla pelle di una creatura, questi rotoli appiccicosi attirano esplosioni magiche nella loro posizione.',
+    Melee_Hinder_Scroll: "Un rotolo trappola preferito dai cacciatori della Slayer Lodge. Quando scattato, questo rotolo spruzza il bersaglio con un acido leggero, indebolendo la pelle o l'armatura.",
+    Fervor_Scroll: 'Un rotolo trappola preferito dai cacciatori della Slayer Lodge. Rilascia un fumo nocivo che confonde la mente di una bestia per breve tempo.',
+    Slayer_Deterer: 'Un rotolo creato osservando le proprietà adattative dei funghi Miolite. Crea uno scudo adattivo minore quando viene colpito.',
+    Dragonbreath_Deterer: 'Il respiro del drago è uno dei fenomeni magici più studiati di tutto Melvor. Questo rotolo crea uno scudo piccolo per mitigarlo.',
+    Slayer_Torch: 'Queste fiamme purificatrici sono una delle poche protezioni contro la corruzione della Città Afflitta. Fate attenzione a non esaurirle, altrimenti diventerete parte della città stessa.',
+    Mystic_Lantern: 'Il buio magico della Valle di Mezzanotte nasconde cose ancora più oscure. La luce di questa lanterna può respingere gli spiriti malvagi e dissipare le illusioni.',
+    Fishing_Hook: "Stai pescando con una lenza non agganciata da tutto questo tempo?! Non c'è da meravigliarsi se ci vuole tanto tempo...",
+    Wizards_Scroll: "Alcuni maghi dell'Academia Arcanum hanno passato tutta la loro vita ottimizzando i loro incantesimi. Questa è la cristallizzazione di tutti i loro sforzi.",
+    Wizards_Scroll_II: "L'Arcanum non è l'unico a avere segreti da svelare. Le aggiunte a questo rotolo coprono discipline magiche da tutti gli angoli di Melvor.",
+    Prayer_Scroll: 'Una preghiera è molto più efficace quando si sa cosa chiedere e come chiederlo.',
+    Explorers_Map: "La Slayer's Lodge assume spesso esploratori esperti per esplorare le aree prima di una caccia. Le informazioni che portano sono ben vale il costo.",
+    Explorers_Map_II: 'Una mappa commissionata da un esploratore veterano. Il livello di dettaglio e le informazioni contenute qui fanno girare la testa.',
+    Summoning_Scrolls: 'La maggior parte dei negromanti preferisce ossa e corpi per la loro arte. Pochi hanno mai raggiunto il livello di evocazione degli spiriti, come Fiozor.',
+    Travellers_Compass: 'Una bussola particolare venduta a un mercante viaggiatore per una miseria. Invece di indicare il nord, indica qualcosa in alto.',
+    Portable_Rations: 'Appositamente progettate per coloro che viaggiano per lunghe distanze, ogni confezione è un pasto autocontenuto.',
+    Portable_Rations_II: 'Il blend segreto della tua nonna di 11 erbe e spezie ha reso queste razioni molto più gustose del normale.',
+    Blood_Vial: 'Chiamato scherzosamente "Pozione della Salute" nella comunità dei vampiri, questa spessa soluzione rossa non è veramente sangue, ma un sostituto del sangue usato per placare la Fame.',
+    Blood_Vial_II: "I Signori dei Vampiri nel loro regno oscuro si sono da tempo rivolti all'Alchimia per placare la loro insaziabile Fame. Questo è il loro ultimo avanzamento in questa ricerca.",
+    Masquerade_Mask: 'Queste maschere incantate offrono totale anonimato, nonostante quanto poco coprano. Fate attenzione, sono però fragili.',
+    Golden_Reel: 'Tessuta con capelli e scaglie di una Sirena, questa lenza da pesca dorato-rossa attira i pesci anche senza esca. Fate attenzione, però, a non cadere sotto il suo incantesimo.',
+    Burning_Reel: "Una strana lenza da pesca fatta di un materiale sconosciuto. Sembra banale all'inizio, ma quando viene immersa in acqua, si accende a contatto con l'aria aperta.",
+    Miners_Helmet: 'Indossate sempre la vostra attrezzatura di protezione individuale (API) per la vostra sicurezza. Se inizia a parlarvi, ignoratela. Sono solo i gas delle grotte.',
+    Rune_Essence: "Magia nella sua forma più pura. Queste 'pietre' sono energia magica condensata che deve ancora essere sintonizzata attraverso l'aria della Runecrafting.",
+    Copper_Ore: 'Comune minerale di rame dalla catena montuosa centrale. Ha una vasta gamma di usi popolari, ma è spesso legato al stagno per creare il bronzo.',
+    Tin_Ore: 'Le Montagne Centrali di Melvor contengono le vene di minerale più ricche e pure al mondo. Legato al rame delle stesse montagne, produce un bronzo superiore.',
+    Iron_Ore: 'Le Montagne Orientali nel centro di Melvor contengono vaste vene di ferro e carbone. È grazie a questa risorsa che la Capitale è rimasta il centro del potere per secoli.',
+    Coal_Ore: 'Il carbone scavato dalla catena montuosa orientale si dice che bruci per il doppio del tempo e tre volte più caldo. Altri sostengono che si tratti solo di propaganda della Capitale.',
+    Silver_Ore: "Lontano a ovest, oltre le coste dell'Academia Arcanum, si dice che ci sia una catena montuosa fatta interamente d'argento. Almeno è ciò che affermano i mercanti di minerali.",
+    Gold_Ore: "La più grande miniera d'oro del mondo si trova sotto le Vette Pericolose. Molti hanno cercato di rivendicare le sue ricchezze. La maggior parte è stata divorata dai Draghi.",
+    Mithril_Ore: "L'unica miniera di Mithril mai scoperta era sulle 'Isole Sacre'. Questo prezioso minerale ha reso questa piccola nazione una delle potenze mondiali... e un bersaglio.",
+    Adamantite_Ore: 'Piccoli granuli di Adamantite possono essere setacciati dalle sabbie delle Pianure Aride e dal loro Settentrione Desolato. Si vocifera di una grande miniera da qualche parte sotto le sabbie.',
+    Runite_Ore: 'Si trova solo nelle terre ghiacciate a sud, si vocifera che questo minerale sia la ragione per cui Glacia ha costruito la sua città in una terra così inospitale.',
+    Dragonite_Ore: "Questo minerale si trova solo a est, nelle misteriose terre al di là delle Regioni Esterne. Il viaggio è pericoloso, ma le ricompense sono al di là dell'immaginazione.",
+    Pure_Essence: "L'Academia Arcanum è stata costruita sulla vena più pura di magia conosciuta a Melvor. L'essenza estratta qui è così concentrata che persino le pietre preziose sono diventate qualcosa d'altro.",
     Corundumite_Ore:
-        "Un tempo si pensava che questo minerale fosse inutile, fino a quando una tecnica innovativa di un giovane fabbro ne ha sbloccato il vero potenziale. La corsa all'oro che ne è seguita ha reso ricchi molti uomini ed è costata molto di più a molti altri.",
-    Iridium_Ore:
-        'Sono state combattute guerre su piccoli depositi di questo minerale. Ai tempi moderni, i depositi, noti e sconosciuti, sono considerati proprietà esclusiva della Corona.',
-    Palladium_Ore:
-        'I pochi luoghi in cui si può trovare questo raro metallo conduttore di magia sono gelosamente custoditi. Ancora di più è il metodo per lavorarlo correttamente.',
+        "Una volta si pensava che questo minerale fosse inutile, fino a quando una tecnica innovativa di un giovane fabbro ne ha svelato il vero potenziale. La corsa all'oro che ne è seguita ha reso molti uomini ricchi e ne ha rovinati molti altri.",
+    Iridium_Ore: 'Sono state combattute guerre per piccoli giacimenti di questo minerale. Ai tempi moderni, i depositi, noti e sconosciuti, sono considerati proprietà esclusiva della Corona.',
+    Palladium_Ore: 'I pochi luoghi in cui si può trovare questo raro metallo conduttore di magia sono gelosamente custoditi. Molto più importante è il metodo per lavorarlo correttamente.',
     Augite_Ore:
-        "I cristalli di Augite sono noti come la 'pietra che cresce' per la loro capacità di propagarsi da soli. Anche se è un processo lento, i cristalli devono comunque essere regolarmente eliminati, altrimenti mangiano altri depositi di minerali.",
-    Meteorite_Ore:
-        'Cosa succede quando una stella muore? Questo minerale è pieno di una vasta quantità di potenza celeste, ma solo coloro che studiano regolarmente i cieli hanno la speranza di trovarlo un giorno.',
-    Divinite_Ore:
-        'Nessuno sa esattamente da dove provenga questo minerale. Sembra apparire apparentemente a caso in miniere abbandonate da tempo altrimenti. Nel tempo, le persone lo hanno attribuito al capriccio degli dei.',
-    Bronze_Bar:
-        'La leggenda narra che i Goblin furono i primi a imparare come lavorare il bronzo. Sebbene sia oggetto di dibattito, nessuno può negare che la storia di questo metallo è antica quanto il mondo stesso.',
-    Iron_Bar:
-        'Versatile, resistente e facile da lavorare, il ferro è stato e resta il fondamento su cui si è sviluppata la società a Melvor.',
-    Steel_Bar:
-        "La pietra angolare del potere della Capitale, sia finanziariamente che militarmente. Con vaste scorte di ferro e un approvvigionamento apparentemente infinito di carbone, le ossa della Capitale sono fatte d'acciaio.",
-    Silver_Bar:
-        "La leggenda narra l'esistenza di una città dormiente fatta d'argento da qualche parte nell'ovest remoto. Di tutti coloro che sono andati in cerca, in pochi sono tornati.",
-    Mithril_Bar:
-        'Molto ambito per la sua capacità di condurre il potere divino, le Isole Sacre custodiscono il loro approvvigionamento di Mithril con una fermezza che ha respinto innumerevoli assalti.',
-    Gold_Bar:
-        "L'oro fa girare il mondo. Trovare anche solo una piccola vena di questo prezioso metallo può garantire a un uomo il sostentamento per tutta la vita. Ma l'uomo non è l'unico essere che brama questo metallo...",
+        "I cristalli di Augite sono conosciuti come la 'pietra che cresce' per la loro capacità di propagarsi. Sebbene il processo sia lento, i cristalli devono comunque essere regolarmente eliminati, per evitare che mangino altri depositi di minerali.",
+    Meteorite_Ore: 'Cosa succede quando una stella muore? Questo minerale è pieno di una vasta quantità di potere celeste, ma solo coloro che studiano regolarmente i cieli hanno speranza di trovarlo mai.',
+    Divinite_Ore: 'Nessuno sa davvero da dove provenga questo minerale. Appare apparentemente a caso nelle miniere abbandonate che sono altrimenti vuote da tempo. Nel tempo, le persone lo hanno attribuito al capriccio degli dei.',
+    Bronze_Bar: 'La leggenda dice che i Goblin furono i primi a imparare a lavorare il bronzo. Sebbene sia oggetto di dibattito, nessuno può negare che la storia di questo metallo sia antica quanto il mondo stesso.',
+    Iron_Bar: 'Versatile, resistente e facile da lavorare, il ferro è stato e rimane il fondamento su cui si è sviluppata la società a Melvor.',
+    Steel_Bar: 'La pietra angolare del potere della Capitale, sia finanziariamente che militarmente. Con vaste scorte di ferro e un approvvigionamento apparentemente infinito di carbone, le ossa della Capitale sono fatte di acciaio.',
+    Silver_Bar: "La leggenda parla di una città addormentata fatta d'argento da qualche parte a ovest. Di tutti coloro che sono andati in cerca, pochi sono tornati.",
+    Mithril_Bar: "Molto ricercato per la sua capacità di condurre il potere sacro, le Isole Sacre ne custodiscono l'approvvigionamento con una fervente che ha respinto innumerevoli assalti.",
+    Gold_Bar: "L'oro fa girare il mondo. Trovare anche una piccola vena di questo prezioso metallo può sistemare un uomo per tutta la vita. Ma l'uomo non è l'unico essere che brama questo metallo...",
     Adamantite_Bar:
-        "L'adamantite svolge un ruolo fondamentale nella cultura e nello stile di vita del popolo delle Pianure Aride. Quando non vengono chiamate bande di guerra, molti membri delle tribù passano il tempo a spostare scaglie d'adamantite dalle sabbie.",
-    Runite_Bar:
-        'Anche una piccola quantità di Runite in una lega è sufficiente a aumentarne notevolmente la durata e la resistenza. In grandi quantità può amplificare la magia.',
+        "L'adamantite gioca un ruolo fondamentale nella cultura e nello stile di vita del popolo delle Pianure Aride. Quando non vengono chiamate bande di guerra, molti tribali si guadagnano da vivere setacciando scaglie di adamantite dalla sabbia.",
+    Runite_Bar: 'Già una piccola quantità di Runite in una lega è sufficiente per aumentarne notevolmente la durata e la resistenza. In grandi quantità può amplificare la magia.',
     Dragonite_Bar:
-        'I mercanti orientali portavano il minerale di Dragonite a ovest come una curiosità. Fino a quando non è stato scoperto che la lega del minerale con il Runit occidentale aumentava notevolmente il potenziale di entrambi i metalli.',
-    Iridium_Bar:
-        "La capacità dell'iridio di amplificare forze, sia magiche che profane, lo rende estremamente prezioso. Così tanto che il commercio tra le nazioni avviene in iridio anziché in oro.",
-    Corundumite_Bar:
-        'Quando lavorate correttamente, le armi di Corundumite possono produrre una lama magica così affilata da poter tagliare qualsiasi difesa e infliggere ferite debilitanti.',
-    Palladium_Bar:
-        "Il palladio è apprezzato per la sua capacità di condurre l'energia magica e si teorizza che sia la chiave di molte tecnologie perdute. Gli studiosi stanno solo ora riscoprendo i suoi segreti.",
-    Augite_Bar:
-        "Una ferita da una lama di Augite può trasformare un uomo in cristallo in poche ore, mentre le armature di Augite hanno la capacità di 'ricrescere' se viene loro data abbastanza tempo, guadagnandosi il soprannome di 'metallo vivente'.",
-    Meteorite_Bar:
-        'Queste Barre Celesti hanno proprietà strane che non sono completamente comprese. Un momento sono abbastanza leggere da galleggiare, il successivo così pesanti da sprofondare nella terra.',
-    Divinite_Bar:
-        'Un tempo si pensava che solo gli dei potessero lavorare questo metallo. Ora sono le mani mortali a realizzare i miracoli. Andate avanti e create Leggende.',
-    Topaz: "Quando caricato con energia magica, il Topazio può aumentare i riflessi o la fortuna di una persona, a seconda se è abbinato all'argento o all'oro. Alcuni si chiedono se non siano semplicemente la stessa cosa.",
-    Sapphire:
-        'Lo zaffiro ha molti usi, ma il più popolare è come focus per una varietà di barriere magiche. Grandi barriere di zaffiro una volta hanno trattenuto un antico male.',
-    Ruby: 'Il rubino è famoso per il suo calore nutriente ed è fondamentale nella maggior parte degli incantesimi di rigenerazione o di rafforzamento del corpo. Possono persino essere utilizzati in pozioni da chi è abbastanza abile.',
-    Emerald:
-        "Gli smeraldi eccellono negli incantesimi di legatura e controllo, rendendoli il focus preferito per rituali di automazione o legamenti dell'anima.",
-    Diamond:
-        'Per lo più considerati come pietre belle, recenti avanzamenti magici hanno dimostrato che questi gioielli hanno la singolare capacità di influenzare la probabilità. Quali sono le probabilità?',
-    Onyx: "Questo gemma nero di mezzanotte ha una strana affinità con l'energia magica e può essere usato per generare scudi potenti... o romperli.",
-    Oricha: "Una gemma viola che brilla di una luce interna. La capacità di questa gemma di assorbire e dirigere l'energia la rende un focus potente per una vasta gamma di attività.",
-    Cerulean:
-        "L'intensa e pura energia che emana da questa gemma riecheggia in modo strano con la vita biologica. Correttamente controllata, è un pezzo chiave di molti potenti incantesimi di guarigione.",
-    Runestone:
-        'Una gemma più comune trasformata dalla presenza della Runestone Pura. Sebbene non sia specializzata come altre gemme, la Runestone è di gran lunga la più versatile.',
-    Zephyte:
-        'Una gemma così rara da essere spesso chiamata un mito. Gli incantesimi creati con questa gemma come focus contengono un potere devastante, quasi divino.',
+        "I commercianti orientali hanno portato il minerale di Dragonite in Occidente. Inizialmente è stato considerato solo una curiosità, finché non è stato scoperto che l'alleggerimento del minerale con il Runite occidentale aumentava notevolmente il potenziale di entrambi i metalli.",
+    Iridium_Bar: "La capacità dell'iridio di amplificare le forze, sia magiche che profane, lo rende estremamente prezioso. Tanto che il commercio tra le nazioni avviene in iridio anziché in oro.",
+    Corundumite_Bar: 'Quando lavorate correttamente, le armi di Corundumite possono produrre una lama magica così affilata da poter attraversare qualsiasi difesa e lasciare ferite debilitanti.',
+    Palladium_Bar: "Il palladio è apprezzato per la sua capacità di condurre l'energia magica e si ipotizza che sia la chiave per molte tecnologie perdute. Gli studiosi stanno solo ora riscoprendo i suoi segreti.",
+    Augite_Bar: "Una ferita da una lama di Augite può trasformare un uomo in cristallo in poche ore, mentre un'armatura di Augite ha la capacità di 'ricrescere' se le viene data abbastanza tempo, guadagnandosi il soprannome di 'metallo vivente'.",
+    Meteorite_Bar: 'Queste Barre Celestiali hanno proprietà strane che non sono ancora completamente comprese. Un momento sono leggere abbastanza da galleggiare, il successivo così pesanti da sprofondare nella terra.',
+    Divinite_Bar: 'Un tempo si pensava che solo gli dei potessero lavorare questo metallo. Ora sono le mani mortali a trasformare i miracoli in realtà. Avanti e create leggende.',
+    Topaz: "Quando caricato con energia magica, il Topazio può aumentare i riflessi o la fortuna di una persona, a seconda che sia abbinato all'argento o all'oro. Alcuni si chiedono se non siano semplicemente la stessa cosa.",
+    Sapphire: 'Lo zaffiro ha molti usi, ma il più popolare è come punto focale per una varietà di barriere magiche. Barriere di zaffiro giganti un tempo tenevano lontano un antico male.',
+    Ruby: 'Il rubino è famoso per il suo calore nutriente ed è fondamentale nella maggior parte degli incantesimi di rigenerazione o rafforzamento del corpo. Possono persino essere usati nelle pozioni da chi è abbastanza abile.',
+    Emerald: "Gli smeraldi eccellono negli incantesimi di legatura e controllo, rendendoli il punto focale preferito per gli incantesimi di automazione o i rituali di legatura dell'anima.",
+    Diamond: 'Per lo più considerati semplici rocce, recenti sviluppi magici hanno dimostrato che questi gioielli hanno la singolare capacità di influenzare la probabilità. Quali sono le probabilità?',
+    Onyx: "Questo gemma nera di mezzanotte ha una strana affinità per l'energia magica e può essere usata per generare potenti scudi... o attraversarli.",
+    Oricha: "Una gemma viola che splende di luce interna. La capacità di questa gemma di assorbire e dirigere l'energia la rende un punto focale potente per una vasta gamma di attività.",
+    Cerulean: "L'intensa e pura energia che emana da questa gemma rara reagisce in modi strani con la vita biologica. Correttamente controllata, è una parte chiave di molti potenti incantesimi di guarigione.",
+    Runestone: 'Una gemma più comune trasformata dalla presenza di Pure Runestone. Sebbene non sia specializzata come altre gemme, la Runestone è di gran lunga la più versatile.',
+    Zephyte: 'Una gemma così rara che spesso è chiamata un mito. Gli incantesimi creati con questa gemma come punto focale contengono un potere devastante, quasi divino.',
     Necromancer_Hat: "L'uniforme di una scuola reclusa di Necromanti che studiavano la connessione tra corpo e anima.",
-    Necromancer_Boots:
-        "L'Antico Necromante che ha fondato la scuola è stato considerato uno dei più potenti mai nati... o da allora.",
-    Necromancer_Bottoms:
-        "L'ossessione dell'Antico Necromante per l'anima alla fine lo ha portato alla follia. Queste vesti sono tutto ciò che è stato trovato dei suoi studenti.",
-    Necromancer_Robes:
-        'Oltre la città dei morti e attraverso il cuore oscuro della foresta, un Antico essere attende eroi coraggiosi per liberarlo dalla sua follia... o unirsi a lui e ai suoi Spiriti.',
-    Summoning_Shard_Red:
-        "Il sanguinoso frammento di un'anima errante. I frammenti rossi risuonano più fortemente con il versamento di sangue e la violenza. Sia per la protezione da essi, che per la perpetuazione.",
-    Summoning_Shard_Green:
-        "Un frammento vibrante di un'anima errante. I frammenti verdi risuonano meglio con gli Spiriti delle creature naturali. Sia animali che Spiriti elementali.",
-    Summoning_Shard_Blue:
-        "Un frammento scintillante di un'anima errante. I frammenti blu espandono la mente e attirano i curiosi. Gli Spiriti evocati con questi tendono a essere della varietà più intelligente.",
-    Summoning_Shard_Silver:
-        "Questo frammento luccica alla luce. Si dice che i frammenti d'argento attirino gli Spiriti della saggezza e della fortuna, quindi sono popolari tra artigiani e studiosi di ogni tipo.",
-    Summoning_Shard_Gold:
-        'Questo cristallo dorato agisce come un ponte che permette al evocatore di bilanciare più facilmente la sete di violenza del rosso e il desiderio di comprensione ordinata del blu.',
-    Summoning_Shard_Black:
-        "Proprio come l'oro aiuta a bilanciare il rosso e il blu, il Nero fa lo stesso per colmare il divario tra natura e creazione, consentendo così la nascita di miracoli.",
-    Summoning_Familiar_Golbin_Thief:
-        "Lo spirito di un golbin è facile da attirare, ma difficile da controllare. Un evocatore intelligente sa come dirigere l'energia di queste creature verso scopi più... produttivi.",
-    Summoning_Familiar_Ent:
-        "Questi spiriti che abitano gli alberi perdono regolarmente rami morti e migliorano la salute dell'albero ospitante. Il legno perduto da un Ent è molto ricercato.",
-    Summoning_Familiar_Mole:
-        "Questi spiriti della terra, anche se sembrano comuni talpe, hanno l'astuta capacità di fiutare i depositi minerali. Anche se nutrirli potrebbe costare più di quanto i nuovi evocatori possano permettersi.",
-    Summoning_Familiar_Occultist:
-        'Queste vecchie streghe cieche hanno un solo desiderio nella vita: torcere la mente dei deboli di spirito. Indicateli contro il vostro nemico e saranno lieti di mettere in atto la loro magia.',
-    Summoning_Familiar_Wolf:
-        'Si diceva che il Lupo Sempre Affamato fosse invincibile. Con ogni nemico che divorava, guariva e si faceva più forte. Quando fu infine ucciso, la sua anima fu intrappolata dal Re degli Spiriti per espiare i suoi peccati.',
+    Necromancer_Boots: "L'Antico Necromante che ha fondato la scuola si dice fosse uno dei più potenti del suo tempo... o da allora.",
+    Necromancer_Bottoms: "L'ossessione dell'Antico Necromante per l'anima alla fine lo ha portato alla follia. Queste vesti sono tutto ciò che è stato trovato dei suoi studenti.",
+    Necromancer_Robes: 'Oltre alla città dei morti, e attraverso il cuore oscuro della foresta, un Antico essere attende coraggiosi eroi per liberarlo dalla sua follia... o unirsi a lui e ai suoi Spiriti.',
+    Summoning_Shard_Red: "Il sanguinoso frammento di un'anima errante. I frammenti rossi risuonano più intensamente con l'effusione di sangue e la violenza, che sia per proteggerli o per perpetuarli.",
+    Summoning_Shard_Green: "Un vibrante frammento di un'anima errante. I frammenti verdi risuonano meglio con gli Spiriti di creature naturali; sia animali che Spiriti elementali.",
+    Summoning_Shard_Blue: "Un frammento scintillante di un'anima errante. I frammenti blu espandono la mente e attirano i curiosi. Gli Spiriti evocati con questi tendono ad essere della varietà più intelligente.",
+    Summoning_Shard_Silver: "Questo frammento luccica alla luce. Si dice che i frammenti d'argento attirino gli Spiriti della saggezza e della fortuna, ed è per questo che sono popolari tra gli artigiani e gli studiosi di ogni tipo.",
+    Summoning_Shard_Gold: 'Questo frammento di cristallo dorato funge da ponte, permettendo al sommozzatore di bilanciare meglio la sete di violenza del rosso e il desiderio di comprensione ordinata del blu.',
+    Summoning_Shard_Black: "Proprio come l'oro aiuta a bilanciare il rosso e il blu, il Nero colma il divario tra la natura e la creazione, consentendo così la nascita di miracoli.",
+    Summoning_Familiar_Golbin_Thief: "Lo spirito di un golbin è facile da attirare, ma difficile da controllare. Un sommozzatore intelligente sa come indirizzare l'energia di queste creature verso scopi più... produttivi.",
+    Summoning_Familiar_Ent: "Questi spiriti che abitano gli alberi perdono regolarmente rami morti e migliorano la salute dell'albero ospite. Il legno lasciato da un Ent è molto ricercato.",
+    Summoning_Familiar_Mole: 'Questi spiriti della terra, pur apparendo come una talpa comune, hanno la capacità astuta di fiutare i depositi minerali. Tuttavia, nutrirli potrebbe costare più di quanto i nuovi sommozzatori possano permettersi.',
+    Summoning_Familiar_Occultist: 'Queste streghe cieche hanno un solo desiderio nella vita: torcere la mente dei deboli di volontà. Indirizzatele contro il vostro nemico e lavoreranno volentieri la loro magia.',
+    Summoning_Familiar_Wolf: 'Si dice che il Lupo Sempre Affamato fosse invincibile. Con ogni nemico che divorava, guariva e diventava più forte. Quando fu infine ucciso, la sua anima fu intrappolata dal Re degli Spiriti per espiare i suoi peccati.',
     Summoning_Familiar_Octopus:
-        'Una vecchia leggenda di un pescatore narra di un uomo che una volta diede il suo ultimo pesce a una fame di polpo. Anni dopo, lo stesso uomo sostenne che un gigantesco Kraken gli aveva regalato il corpo di una balena.',
-    Summoning_Familiar_Minotaur:
-        'Esperti di guerra, i mercenari Minotauri sono tra i soldati più ricercati in tutto Melvor. Ma fate attenzione, il loro temperamento è affilato quanto la lama della loro ascia.',
-    Summoning_Familiar_Pig:
-        'Una favola narra la storia di un capo cuoco che rifiutava di condividere il suo cibo con chiunque altro. In punizione, gli dèi lo trasformarono in un maiale. Inarrestabile, il cuoco continuò il suo lavoro.',
-    Summoning_Familiar_Crow:
-        'I corvi sono stati a lungo i famigliari preferiti dai maghi, per i loro doni naturali nel canale delle energie magiche. Che sia per istinto o intelligenza innata, i corvi non stanno dicendo.',
-    Summoning_Familiar_Centaur:
-        "Feroci concorrenti dei Minotauri, le sanguinose guerre tra questi due popoli si sono trasformate nel corso degli anni in una competizione. Come mercenari, ora competono per l'oro.",
-    Summoning_Familiar_Witch:
-        "Si dice che l'anima di una strega possa essere intrappolata se si seguono i passi appropriati. Che ciò sia consigliabile o meno è oggetto di discussione, ma alcuni sono al di là di tali piccoli problemi.",
-    Summoning_Familiar_Leprechaun:
-        "Spiriti dell'oro, queste creature hanno una bramosia più profonda persino del drago più antico. Saranno disposti a fare qualsiasi cosa per far crescere il loro tesoro e, di conseguenza, il loro potere.",
-    Summoning_Familiar_Monkey:
-        'Sorprendentemente intelligenti, queste creature possono essere addestrate per compiere compiti semplici, rendendole popolari tra gli artigiani di tutti i campi. Ma non lasciate nulla di scintillante intorno a loro.',
-    Summoning_Familiar_Cyclops: 'La cultura dei Ciclopi ruota attorno alla caccia, e quindi',
-    Summoning_Familiar_Salamander:
-        'Questi Spiriti del Fuoco amano fare il pisolino in fornaci ben curate. I fabbri cercano di attirarli, poiché purificano e rafforzano le fiamme al loro interno, risultando in metalli di migliore qualità.',
-    Summoning_Familiar_Unicorn:
-        'Manifestazioni fisiche di magie curative, gli unicorni hanno ispirato innumerevoli leggende in tutto Melvor.',
-    Summoning_Familiar_Bear:
-        "La leggenda narra che i primi druidi hanno imparato quali erbe fossero sicure osservando gli enormi orsi delle foreste del nord mentre si preparavano per l'inverno.",
-    Summoning_Familiar_Devil:
-        'I diavoli non sono demoni. Piuttosto, sono ciò che si crea quando un Ent viene bruciato. Nati dalle ceneri, questi "Spiritelli delle Braci" cercano solo di crearne di più.',
-    Summoning_Familiar_Dragon:
-        "Le ossa di drago conservano deboli echi della loro gloria passata. Questi echi possono essere persuasi da un evocatore esperto. L'ombra risultante è un potente alleato.",
-    Summoning_Familiar_Lightning_Spirit:
-        'Pura Luce Elementale resa manifesta. Più golem che incantesimo, queste "creature" possono ricevere comandi semplici.',
-    Summoning_Familiar_Eagle:
-        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. L'Aquila evocava potenti venti in modo che i loro campioni fossero sempre un passo avanti.",
-    Summoning_Familiar_Owl:
-        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Gufo insegnava ai giusti i segreti delle stelle e del loro potere celeste.",
-    Summoning_Familiar_Siren:
-        "Altamente magici, le Sirene furono una volta cacciate quasi all'estinzione. Hanno imparato da allora a diffidare degli umani e le loro magie uniche li aiutano a rimanere nascosti dal mondo.",
-    Summoning_Familiar_Spider:
-        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Ragno si appostava e colpiva quando il nemico era più vulnerabile.",
-    Summoning_Familiar_Beaver:
-        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. Il Castoro insegnava all'uomo l'arte della lavorazione del legno, per costruire sia fortificazioni che archi.",
-    Summoning_Familiar_Fox:
-        "Uno dei cinque Spiriti Guardiani che hanno contribuito a sigillare un 'Grande Male'. La Volpe scorreva la Terra, cercando chiunque aiutasse a respingere l'oscura marea.",
-    Summoning_Familiar_Spectre:
-        'Nato dalla pura malizia che sgorga dalla Valle di Mezzanotte, il suo odio è senza scopo. Rendete i vostri nemici suoi.'
+        'Una vecchia leggenda dei pescatori racconta di un uomo che una volta aveva donato il suo ultimo pesce a un polpo affamato. Anni dopo, lo stesso uomo sostenne che un enorme Kraken gli avesse regalato il corpo di una balena.',
+    Summoning_Familiar_Minotaur: "Esperti di guerra, i mercenari Minotauri sono tra i soldati più ricercati di tutto Melvor. Ma fate attenzione, il loro temperamento è tagliente come la loro lama d'ascia.",
+    Summoning_Familiar_Pig: 'Una favola narra la storia di un grande chef che rifiutava di condividere il suo cibo con chiunque altro. In punizione, gli dèi lo trasformarono in un maiale. Inarrendevole, lo chef continuò il suo lavoro.',
+    Summoning_Familiar_Crow: 'I corvi sono da tempo i familiari preferiti dei maghi, per i loro doni naturali nel canale delle energie magiche. Che sia per istinto o intelligenza innata, i corvi non lo stanno dicendo.',
+    Summoning_Familiar_Centaur: "Feroci concorrenti dei Minotauri, le sanguinose guerre tra questi due gruppi si sono trasformate sempre più in una competizione nel corso degli anni. Ora, come mercenari, competono con l'oro.",
+    Summoning_Familiar_Witch: "Si dice che l'anima di una strega possa essere intrappolata se vengono seguiti i passi giusti. Che questo sia consigliabile o meno è oggetto di dibattito, ma alcuni sono al di sopra di tali preoccupazioni banali.",
+    Summoning_Familiar_Leprechaun: "Spiritelli dell'oro, queste creature hanno un'avidità più profonda persino dei draghi più antichi. Faranno qualsiasi cosa per aumentare il loro tesoro e, di conseguenza, il loro potere.",
+    Summoning_Familiar_Monkey: 'Sorprendentemente intelligenti, queste creature possono essere addestrate a compiere compiti semplici, rendendole popolari tra gli artigiani di tutti i campi. Basta non lasciare niente di brillante intorno a loro.',
+    Summoning_Familiar_Cyclops: 'La cultura dei Ciclopi ruota attorno alla caccia, e come tali sono felici di essere evocati per combattere ancora una volta.',
+    Summoning_Familiar_Salamander: "Gli Spiriti del Fuoco amano fare un pisolino in fornaci ben curate. I fabbri cercano di attirarli, poiché purificano e rafforzano le fiamme all'interno, producendo metalli di migliore qualità.",
+    Summoning_Familiar_Unicorn: 'Manifestazioni fisiche della magia curativa, gli unicorni hanno ispirato innumerevoli leggende in tutto Melvor.',
+    Summoning_Familiar_Bear: "La leggenda narra che i primi druidi abbiano imparato quali erbe fossero sicure osservando i grandi orsi delle foreste del nord mentre si preparavano per l'inverno.",
+    Summoning_Familiar_Devil: "I diavoli non sono demoni. Piuttosto, sono ciò che si crea quando un Ent viene bruciato. Nati dalle ceneri, questi 'Spiriti delle Ceneri' cercano solo di crearne di più.",
+    Summoning_Familiar_Dragon: "Le ossa di drago conservano deboli echi della loro antica gloria. Questi echi possono essere persuasi da un sommozzatore esperto. L'ombra risultante è un potente alleato.",
+    Summoning_Familiar_Lightning_Spirit: "Pura energia elettrica elementale fatta manifesta. Più golem che incantesimo, queste 'creature' possono ricevere comandi semplici.",
+    Summoning_Familiar_Eagle: "Uno dei cinque Spiriti Guardiani che hanno aiutato a sigillare un 'Grande Male'. L'Aquila evocava venti potenti in modo che i loro campioni fossero sempre un passo avanti.",
+    Summoning_Familiar_Owl: "Uno dei cinque Spiriti Guardiani che hanno aiutato a sigillare un 'Grande Male'. Il Gufo insegnava ai giusti i segreti delle Stelle e del loro potere Celestiale.",
+    Summoning_Familiar_Siren: "Altamente magici, un tempo le Sirene erano cacciate fino quasi all'estinzione. Da allora hanno imparato a diffidare degli esseri mortali, e le loro magie uniche li aiutano a rimanere nascosti dal mondo.",
+    Summoning_Familiar_Spider: "Uno dei cinque Spiriti Guardiani che hanno aiutato a sigillare un 'Grande Male'. Il Ragno ha aspettato, poi ha colpito quando il nemico era più vulnerabile.",
+    Summoning_Familiar_Beaver: "Uno dei cinque Spiriti Guardiani che hanno aiutato a sigillare un 'Grande Male'. Il Castoro ha insegnato all'uomo l'arte della lavorazione del legno, per costruire sia Fortezze che Archi.",
+    Summoning_Familiar_Fox: "Uno dei cinque Spiriti Guardiani che hanno aiutato a sigillare un 'Grande Male'. La Volpe ha perlustrato la Terra, cercando chiunque avrebbe aiutato a respingere l'oscura marea.",
+    Summoning_Familiar_Spectre: 'Nato dalla pura malizia che fuoriesce dalla Valle di Mezzanotte, il suo odio è senza scopo. Fate dei vostri nemici i suoi.'
 };

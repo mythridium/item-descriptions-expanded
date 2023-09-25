@@ -43,14 +43,7 @@ const descriptions = volumes
         const item = items.find(item => item.id === name.replace(/ /g, '_') || item.name === name);
 
         if (item === undefined) {
-            console.error(
-                `\x1b[31mUnable to locate item with name '${name}'\nTried: '${name.replace(
-                    / /g,
-                    '_'
-                )}' and '${name}'\n\n\x1b[34m`,
-                row,
-                '\x1b[0m'
-            );
+            console.error(`\x1b[31mUnable to locate item with name '${name}'\nTried: '${name.replace(/ /g, '_')}' and '${name}'\n\n\x1b[34m`, row, '\x1b[0m');
             return;
         }
 
@@ -118,9 +111,7 @@ const run = async () => {
     await writeFile(
         'src/languages/english.ts',
         `export const language = {
-        ${descriptions
-            .map(description => `${description.id}: "${description.description.replace(/"/g, '\\"')}"`)
-            .join(',\n')}
+        ${descriptions.map(description => `${description.id}: "${description.description.replace(/"/g, '\\"')}"`).join(',\n')}
 }`
     );
 };

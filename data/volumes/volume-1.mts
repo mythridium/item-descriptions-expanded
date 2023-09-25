@@ -69,7 +69,7 @@ Elite Amulet of Ranged - The Whistling Bandit once used this to amulet to slay a
 
 Elite Amulet of Magic - The gods capped this after an enchanter used it to create a better one. Then he used that to make and even better one. And again, and again.
 
-Elite Amulet of Glory - For when your glory is more glorious than the other guy's glory. / (alt) ALL GLORY TO THE HYP-*cough*. [Can't decide on this one]
+Elite Amulet of Glory - For when your glory is more glorious than the other guy's glory.
 
 Amulet of Fury - Each bead of this amulet is the polished scale of an ancient dragon, while the red gem is crystalized dragonfire.
 

@@ -3,410 +3,131 @@
     "namespace": "itemDescriptionsExpanded",
     "modifications": {
         "items": [
-            {
-                "id": "melvorTotH:Corundum_Arrows",
-                "expandedDescription": "Dangerous arrows tipped with Corundum metal. Lightweight but unimaginably sharp."
-            },
-            {
-                "id": "melvorTotH:Augite_Arrows",
-                "expandedDescription": "Deadly arrows tipped with metallized Augite crystals. Once used to hunt ancient sea dragons."
-            },
-            {
-                "id": "melvorTotH:Divine_Arrows",
-                "expandedDescription": "Cataclysmic arrows tipped with Divine metal. Split the earth and break the sky."
-            },
-            {
-                "id": "melvorTotH:Ethereal_Arrows",
-                "expandedDescription": "Divine arrows infused with the grudge of powerful spirits. Their ethereal nature can punch through any defense."
-            },
-            {
-                "id": "melvorTotH:Onyx_Bolts",
-                "expandedDescription": "Iron crossbow bolts tipped with splintered Onyx. Darker than the night."
-            },
-            {
-                "id": "melvorTotH:Meteorite_Bolts",
-                "expandedDescription": "Iron crossbow bolts tipped with Celestial metal. Call down the heavens on your foe!"
-            },
-            {
-                "id": "melvorTotH:Decay_Bolts",
-                "expandedDescription": "Onyx crossbow bolts covered in a potent poison. Deadly to the touch."
-            },
-            {
-                "id": "melvorTotH:Zephyte_Bolts",
-                "expandedDescription": "Iron crossbow bolts tipped with a splintered gem of divine origin. As destructive as it is beautiful."
-            },
-            {
-                "id": "melvorTotH:Burning_Amulet_of_Charcoal",
-                "expandedDescription": "A fire spirit gifted you this amulet after freeing it from the belly of a fire-eating snake. Firewood turns to charcoal at your touch."
-            },
-            {
-                "id": "melvorTotH:Woodcutting_Ring_Fragment",
-                "expandedDescription": "A strange metal ring found inside a raven's nest. It floats upward when tossed, as if attracted to something in the sky."
-            },
-            {
-                "id": "melvorTotH:Woodcutting_Amulet_Fragment",
-                "expandedDescription": "A strange metal ornament found inside a raven's nest. If you peer through the center at night, you can see previously unseen stars."
-            },
-            {
-                "id": "melvorTotH:Meteorite_Woodcutting_Amulet",
-                "expandedDescription": "After fusing with celestial metal, this amulet has awoken its true power. As you swing your axe at the tree, it glows like a shooting star."
-            },
-            {
-                "id": "melvorTotH:Iridium_Onyx_Necklace",
-                "expandedDescription": "When hit with a projectile, this necklace absorbs some of the energy, allowing you to return the blow."
-            },
-            {
-                "id": "melvorTotH:Palladium_Onyx_Necklace",
-                "expandedDescription": "A favorite of hunters the world over. This amulet increases your hand-eye coordination, making it easier to harvest valuable materials from slain foes."
-            },
-            {
-                "id": "melvorTotH:Iridium_Oricha_Necklace",
-                "expandedDescription": "This amulet absorbs magical energy, which can be redirected into a projectile of the wearer's choosing, increasing their destructive power."
-            },
-            {
-                "id": "melvorTotH:Palladium_Oricha_Necklace",
-                "expandedDescription": "A precise shot and a quick, clean kill can drastically increase the value of a target's pelt."
-            },
-            {
-                "id": "melvorTotH:Iridium_Cerulean_Necklace",
-                "expandedDescription": "The powerful life enchantment on this stone saps at the wearer's life force, preventing their wounds from healing... but can sap your foes as well."
-            },
-            {
-                "id": "melvorTotH:Palladium_Cerulean_Necklace",
-                "expandedDescription": "The powerful life enchantment on this stone has been tweaked to drastically increase your healing speed, but at the cost of more bodily resources."
-            },
-            {
-                "id": "melvorTotH:Iridium_Runestone_Necklace",
-                "expandedDescription": "This magical gemstone drastically amplifies magical energy in the heavy presence of metal... like your foes armor."
-            },
-            {
-                "id": "melvorTotH:Palladium_Runestone_Necklace",
-                "expandedDescription": "The magical gemstone can preserve materials in a temporal bubble, preventing spoilage and increasing their value."
-            },
-            {
-                "id": "melvorTotH:Iridium_Zephyte_Necklace",
-                "expandedDescription": "A divine necklace gifted to those who would fight titans. May your feet never falter."
-            },
-            {
-                "id": "melvorTotH:Palladium_Zephyte_Necklace",
-                "expandedDescription": "Created to bring the mighty low, the magic of this divine amulet will serve to even the field when fighting beasts of legend."
-            },
-            {
-                "id": "melvorTotH:Poison_Lifesteal_Amulet",
-                "expandedDescription": "Anything can be a medicine with the right dose. Even poison."
-            },
-            {
-                "id": "melvorTotH:Frostshield_Amulet",
-                "expandedDescription": "An amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice."
-            },
-            {
-                "id": "melvorTotH:Lightning_Amulet",
-                "expandedDescription": "Amulet of RaZu, Lord of the Skies. RaZu's grudge against his icy foe offers you some protection from the creature."
-            },
-            {
-                "id": "melvorTotH:FrostSpark_Amulet",
-                "expandedDescription": "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet."
-            },
-            {
-                "id": "melvorTotH:Allure_Amulet",
-                "expandedDescription": "An amulet crafted by the Misty Sirens of the great lake. Simply looking at it makes you feel sleepy."
-            },
-            {
-                "id": "melvorTotH:Amulet_of_Prayers",
-                "expandedDescription": "There are many forms of worship on Melvor. Some of those include hitting your foes in the face."
-            },
-            {
-                "id": "melvorTotH:Voodoo_Trinket",
-                "expandedDescription": "A small straw effigy used by occultists to place curses. You can swear you see something squirming within if you stare long enough."
-            },
+            { "id": "melvorTotH:Corundum_Arrows", "expandedDescription": "Dangerous arrows tipped with Corundum metal. Lightweight but unimaginably sharp." },
+            { "id": "melvorTotH:Augite_Arrows", "expandedDescription": "Deadly arrows tipped with metallized Augite crystals. Once used to hunt ancient sea dragons." },
+            { "id": "melvorTotH:Divine_Arrows", "expandedDescription": "Cataclysmic arrows tipped with Divine metal. Split the earth and break the sky." },
+            { "id": "melvorTotH:Ethereal_Arrows", "expandedDescription": "Divine arrows infused with the grudge of powerful spirits. Their ethereal nature can punch through any defense." },
+            { "id": "melvorTotH:Onyx_Bolts", "expandedDescription": "Iron crossbow bolts tipped with splintered Onyx. Darker than the night." },
+            { "id": "melvorTotH:Meteorite_Bolts", "expandedDescription": "Iron crossbow bolts tipped with Celestial metal. Call down the heavens on your foe!" },
+            { "id": "melvorTotH:Decay_Bolts", "expandedDescription": "Onyx crossbow bolts covered in a potent poison. Deadly to the touch." },
+            { "id": "melvorTotH:Zephyte_Bolts", "expandedDescription": "Iron crossbow bolts tipped with a splintered gem of divine origin. As destructive as it is beautiful." },
+            { "id": "melvorTotH:Burning_Amulet_of_Charcoal", "expandedDescription": "A fire spirit gifted you this amulet after freeing it from the belly of a fire-eating snake. Firewood turns to charcoal at your touch." },
+            { "id": "melvorTotH:Woodcutting_Ring_Fragment", "expandedDescription": "A strange metal ring found inside a raven's nest. It floats upward when tossed, as if attracted to something in the sky." },
+            { "id": "melvorTotH:Woodcutting_Amulet_Fragment", "expandedDescription": "A strange metal ornament found inside a raven's nest. If you peer through the center at night, you can see previously unseen stars." },
+            { "id": "melvorTotH:Meteorite_Woodcutting_Amulet", "expandedDescription": "After fusing with celestial metal, this amulet has awoken its true power. As you swing your axe at the tree, it glows like a shooting star." },
+            { "id": "melvorTotH:Iridium_Onyx_Necklace", "expandedDescription": "When hit with a projectile, this necklace absorbs some of the energy, allowing you to return the blow." },
+            { "id": "melvorTotH:Palladium_Onyx_Necklace", "expandedDescription": "A favorite of hunters the world over. This amulet increases your hand-eye coordination, making it easier to harvest valuable materials from slain foes." },
+            { "id": "melvorTotH:Iridium_Oricha_Necklace", "expandedDescription": "This amulet absorbs magical energy, which can be redirected into a projectile of the wearer's choosing, increasing their destructive power." },
+            { "id": "melvorTotH:Palladium_Oricha_Necklace", "expandedDescription": "A precise shot and a quick, clean kill can drastically increase the value of a target's pelt." },
+            { "id": "melvorTotH:Iridium_Cerulean_Necklace", "expandedDescription": "The powerful life enchantment on this stone saps at the wearer's life force, preventing their wounds from healing... but can sap your foes as well." },
+            { "id": "melvorTotH:Palladium_Cerulean_Necklace", "expandedDescription": "The powerful life enchantment on this stone has been tweaked to drastically increase your healing speed, but at the cost of more bodily resources." },
+            { "id": "melvorTotH:Iridium_Runestone_Necklace", "expandedDescription": "This magical gemstone drastically amplifies magical energy in the heavy presence of metal... like your foes armor." },
+            { "id": "melvorTotH:Palladium_Runestone_Necklace", "expandedDescription": "The magical gemstone can preserve materials in a temporal bubble, preventing spoilage and increasing their value." },
+            { "id": "melvorTotH:Iridium_Zephyte_Necklace", "expandedDescription": "A divine necklace gifted to those who would fight titans. May your feet never falter." },
+            { "id": "melvorTotH:Palladium_Zephyte_Necklace", "expandedDescription": "Created to bring the mighty low, the magic of this divine amulet will serve to even the field when fighting beasts of legend." },
+            { "id": "melvorTotH:Poison_Lifesteal_Amulet", "expandedDescription": "Anything can be a medicine with the right dose. Even poison." },
+            { "id": "melvorTotH:Frostshield_Amulet", "expandedDescription": "An amulet carved from the cold heart of a Ice Hydra. Its magic grants you some of the creature's power when surrounded by ice." },
+            { "id": "melvorTotH:Lightning_Amulet", "expandedDescription": "Amulet of RaZu, Lord of the Skies. RaZu's grudge against his icy foe offers you some protection from the creature." },
+            { "id": "melvorTotH:FrostSpark_Amulet", "expandedDescription": "By sating the Lord of the Sky's grudge with the chilling blood of the Ice Hydra, you have unlocked the true power of this amulet." },
+            { "id": "melvorTotH:Allure_Amulet", "expandedDescription": "An amulet crafted by the Misty Sirens of the great lake. Simply looking at it makes you feel sleepy." },
+            { "id": "melvorTotH:Amulet_of_Prayers", "expandedDescription": "There are many forms of worship on Melvor. Some of those include hitting your foes in the face." },
+            { "id": "melvorTotH:Voodoo_Trinket", "expandedDescription": "A small straw effigy used by occultists to place curses. You can swear you see something squirming within if you stare long enough." },
             {
                 "id": "melvorTotH:Amulet_of_Curse_Totem_Summon",
                 "expandedDescription": "A Great Spirit was once split into three parts by an evil Necromancer. This amulet was crafted from its body. Anyone who meets its gaze will be cursed for eternity."
             },
-            {
-                "id": "melvorTotH:Corundum_Arrowtips",
-                "expandedDescription": "Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds."
-            },
-            {
-                "id": "melvorTotH:Augite_Arrowtips",
-                "expandedDescription": "Augite crystals are said to be poisonous to dragons. Even now, arrowtips left by would-be hunters can be found in the hides of older beasts."
-            },
-            {
-                "id": "melvorTotH:Divine_Arrowtips",
-                "expandedDescription": "Arrow tips made from a metal rumored to be Divine in origin. Whatever the truth, no hide nor armor has been found that they cannot pierce."
-            },
-            {
-                "id": "melvorTotH:Artisan_Pouch",
-                "expandedDescription": "A small pouch filled with various supplies any Artisan might need for their next project."
-            },
-            {
-                "id": "melvorTotH:Artisan_Pouch_II",
-                "expandedDescription": "Contains a small Gnome named Bob who magically improves your creations when you're not looking. Just don't stick your hand inside; he's a biter."
-            },
-            {
-                "id": "melvorTotH:Kindling_Pouch",
-                "expandedDescription": "Artisans find the ashes produced from burning this special kindling exceptionally valuable. The flames it produces are a bright golden color."
-            },
-            {
-                "id": "melvorTotH:Kindling_Pouch_II",
-                "expandedDescription": "When burned in a hot enough flame, this special kindling produces golden flakes that can be sold for a high price."
-            },
-            {
-                "id": "melvorTotH:Stamina_Pouch",
-                "expandedDescription": "A small pouch of white pills said to boost Stamina and increase agility. Warning: if you find yourself on the obstacle course for more than 4 hours, consult a doctor."
-            },
-            {
-                "id": "melvorTotH:Spirit_Bag",
-                "expandedDescription": "Alchemy-in-a-bag! Stick an object and some runes inside, shake it around and pull out a solid gold replica!"
-            },
-            {
-                "id": "melvorTotH:Chefs_Bag",
-                "expandedDescription": "This heat-proof pouch attaches to the side of a stove, allowing easy access to all the spices and ingredients a chef needs to make their masterpiece."
-            },
-            {
-                "id": "melvorTotH:Summoners_Bag",
-                "expandedDescription": "A small bag used by Ritualists during summoning ceremonies. It can focus and direct energy in a way that increases the effects of the summoning process."
-            },
-            {
-                "id": "melvorTotH:Meteorite_Warrior_Ring",
-                "expandedDescription": "A Warrior once took up a Celestial Blade to fight an evil god. It was then he learned even gods could bleed"
-            },
-            {
-                "id": "melvorTotH:Meteorite_Marksman_Ring",
-                "expandedDescription": "An Archer once dreamed of shooting the very stars from the sky. When those stars fell, his enemies had no place to hide."
-            },
-            {
-                "id": "melvorTotH:Meteorite_Spellcaster_Ring",
-                "expandedDescription": "A Mage once stood between his home and an army, and prayed for help from the stars. When the ashes cleared, nothing of the army remained."
-            },
-            {
-                "id": "melvorTotH:Meteorite_Woodcutting_Ring",
-                "expandedDescription": "Having met that which it sought, this ring has awakened to its true form. A blow from an axe wielded by a hand wearing this ring can reduce a tree to ashes."
-            },
-            {
-                "id": "melvorTotH:Palladium_Onyx_Ring",
-                "expandedDescription": "This ring produces powerful magical shield designed to deflect fast moving projectiles from a bow or crossbow."
-            },
-            {
-                "id": "melvorTotH:Iridium_Onyx_Ring",
-                "expandedDescription": "Magical shields designed to stop fast moving projectiles are less effective against a slow, steady blade. This ring was created with that idea in mind."
-            },
-            {
-                "id": "melvorTotH:Iridium_Oricha_Ring",
-                "expandedDescription": "This ring drastically increases a projectiles accuracy and power the longer the wearer focuses on aiming, making it popular among snipers."
-            },
-            {
-                "id": "melvorTotH:Palladium_Oricha_Ring",
-                "expandedDescription": "Called the \"Magical Lightning Rod\" by its designer, this ring draws magical attacks away from the wearer's center mass."
-            },
-            {
-                "id": "melvorTotH:Iridium_Cerulean_Ring",
-                "expandedDescription": "Originally created with the idea of erasing hunger by \"feeding\" on magical energy, the experiment was deemed a failure. Regardless, its effects are still potent."
-            },
-            {
-                "id": "melvorTotH:Palladium_Cerulean_Ring",
-                "expandedDescription": "When placed around the shaft of a magical staff, this ring feeds on the staff's energy to produce a magical barrier around its wielder."
-            },
-            {
-                "id": "melvorTotH:Iridium_Runestone_Ring",
-                "expandedDescription": "When swung, a weapon by a hand wearing this ring produces a magical blade that drastically increases its power."
-            },
+            { "id": "melvorTotH:Corundum_Arrowtips", "expandedDescription": "Arrowtips forged from Corundum metal are so sharp that they can leave debilitating, lingering wounds." },
+            { "id": "melvorTotH:Augite_Arrowtips", "expandedDescription": "Augite crystals are said to be poisonous to dragons. Even now, arrowtips left by would-be hunters can be found in the hides of older beasts." },
+            { "id": "melvorTotH:Divine_Arrowtips", "expandedDescription": "Arrow tips made from a metal rumored to be Divine in origin. Whatever the truth, no hide nor armor has been found that they cannot pierce." },
+            { "id": "melvorTotH:Artisan_Pouch", "expandedDescription": "A small pouch filled with various supplies any Artisan might need for their next project." },
+            { "id": "melvorTotH:Artisan_Pouch_II", "expandedDescription": "Contains a small Gnome named Bob who magically improves your creations when you're not looking. Just don't stick your hand inside; he's a biter." },
+            { "id": "melvorTotH:Kindling_Pouch", "expandedDescription": "Artisans find the ashes produced from burning this special kindling exceptionally valuable. The flames it produces are a bright golden color." },
+            { "id": "melvorTotH:Kindling_Pouch_II", "expandedDescription": "When burned in a hot enough flame, this special kindling produces golden flakes that can be sold for a high price." },
+            { "id": "melvorTotH:Stamina_Pouch", "expandedDescription": "A small pouch of white pills said to boost Stamina and increase agility. Warning: if you find yourself on the obstacle course for more than 4 hours, consult a doctor." },
+            { "id": "melvorTotH:Spirit_Bag", "expandedDescription": "Alchemy-in-a-bag! Stick an object and some runes inside, shake it around and pull out a solid gold replica!" },
+            { "id": "melvorTotH:Chefs_Bag", "expandedDescription": "This heat-proof pouch attaches to the side of a stove, allowing easy access to all the spices and ingredients a chef needs to make their masterpiece." },
+            { "id": "melvorTotH:Summoners_Bag", "expandedDescription": "A small bag used by Ritualists during summoning ceremonies. It can focus and direct energy in a way that increases the effects of the summoning process." },
+            { "id": "melvorTotH:Meteorite_Warrior_Ring", "expandedDescription": "A Warrior once took up a Celestial Blade to fight an evil god. It was then he learned even gods could bleed" },
+            { "id": "melvorTotH:Meteorite_Marksman_Ring", "expandedDescription": "An Archer once dreamed of shooting the very stars from the sky. When those stars fell, his enemies had no place to hide." },
+            { "id": "melvorTotH:Meteorite_Spellcaster_Ring", "expandedDescription": "A Mage once stood between his home and an army, and prayed for help from the stars. When the ashes cleared, nothing of the army remained." },
+            { "id": "melvorTotH:Meteorite_Woodcutting_Ring", "expandedDescription": "Having met that which it sought, this ring has awakened to its true form. A blow from an axe wielded by a hand wearing this ring can reduce a tree to ashes." },
+            { "id": "melvorTotH:Palladium_Onyx_Ring", "expandedDescription": "This ring produces powerful magical shield designed to deflect fast moving projectiles from a bow or crossbow." },
+            { "id": "melvorTotH:Iridium_Onyx_Ring", "expandedDescription": "Magical shields designed to stop fast moving projectiles are less effective against a slow, steady blade. This ring was created with that idea in mind." },
+            { "id": "melvorTotH:Iridium_Oricha_Ring", "expandedDescription": "This ring drastically increases a projectiles accuracy and power the longer the wearer focuses on aiming, making it popular among snipers." },
+            { "id": "melvorTotH:Palladium_Oricha_Ring", "expandedDescription": "Called the \"Magical Lightning Rod\" by its designer, this ring draws magical attacks away from the wearer's center mass." },
+            { "id": "melvorTotH:Iridium_Cerulean_Ring", "expandedDescription": "Originally created with the idea of erasing hunger by \"feeding\" on magical energy, the experiment was deemed a failure. Regardless, its effects are still potent." },
+            { "id": "melvorTotH:Palladium_Cerulean_Ring", "expandedDescription": "When placed around the shaft of a magical staff, this ring feeds on the staff's energy to produce a magical barrier around its wielder." },
+            { "id": "melvorTotH:Iridium_Runestone_Ring", "expandedDescription": "When swung, a weapon by a hand wearing this ring produces a magical blade that drastically increases its power." },
             {
                 "id": "melvorTotH:Palladium_Runestone_Ring",
                 "expandedDescription": "Building on the Silver Sapphire ring, When powered, this ring produces a small shield of energy around the wear's forearm. This shield is far sturdier and more reliable."
             },
-            {
-                "id": "melvorTotH:Iridium_Zephyte_Ring",
-                "expandedDescription": "This Divine gem causes the wearer's weapon to resonate on the same frequency as the armor it strikes, increasing the effectiveness of the blow."
-            },
-            {
-                "id": "melvorTotH:Palladium_Zephyte_Ring",
-                "expandedDescription": "The best Defense is a good Offense. This ring's Divine power allows you to strike with the force of the heavens, but makes you more susceptible to that same power."
-            },
-            {
-                "id": "melvorTotH:Ring_of_Curse_Protection",
-                "expandedDescription": "A ring granted to servants of Lady Darkheart, mostly to protect them from their own power."
-            },
+            { "id": "melvorTotH:Iridium_Zephyte_Ring", "expandedDescription": "This Divine gem causes the wearer's weapon to resonate on the same frequency as the armor it strikes, increasing the effectiveness of the blow." },
+            { "id": "melvorTotH:Palladium_Zephyte_Ring", "expandedDescription": "The best Defense is a good Offense. This ring's Divine power allows you to strike with the force of the heavens, but makes you more susceptible to that same power." },
+            { "id": "melvorTotH:Ring_of_Curse_Protection", "expandedDescription": "A ring granted to servants of Lady Darkheart, mostly to protect them from their own power." },
             {
                 "id": "melvorTotH:Ring_of_Phantom_Summon",
                 "expandedDescription": "A Great Spirit was once split into three parts by an evil Necromancer. This Ring was crafted from its soul. It still retains echos of its former self, which may manifest at the wearer's whim."
             },
-            {
-                "id": "melvorTotH:Blood_Ring",
-                "expandedDescription": "A ring used by vampires to gather the blood of their victims. Such greedy creatures can't bare to waste even a single drop."
-            },
-            {
-                "id": "melvorTotH:Burning_Embers_Book",
-                "expandedDescription": "A book of fiery spells stolen from the corpse of a burning demon. Its origins and author are unknown, but its power as a magical focus shouldn't be underestimated."
-            },
-            {
-                "id": "melvorTotH:Book_of_the_Ancients",
-                "expandedDescription": "The complete works of an Ancient, magical civilization lost to time. Once broken apart for fear of what this knowledge might unleash, it is once again whole."
-            },
-            {
-                "id": "melvorTotH:Hunters_Journal",
-                "expandedDescription": "Some hunters seek out mighty beasts. Others prefer more glittering prey."
-            },
-            {
-                "id": "melvorTotH:Mortar_and_Pestle",
-                "expandedDescription": "A true sage knows that Cooking and Alchemy are but a single step apart."
-            },
-            {
-                "id": "melvorTotH:Slayer_Torch",
-                "expandedDescription": "These cleansing flames are one of the few protections against the corruption of the Afflicted City. Careful not to run out, lest you become part of the city yourself."
-            },
-            {
-                "id": "melvorTotH:Mystic_Lantern",
-                "expandedDescription": "The magical darkness of the Midnight Valley hides even darker things. The light of this Lantern can repel vile spirits and dispel illusions."
-            },
-            {
-                "id": "melvorTotH:Explorers_Map",
-                "expandedDescription": "The Slayer's Lodge often hires experienced Explorers to scout out areas before a hunt. The information they bring back is well worth the cost."
-            },
-            {
-                "id": "melvorTotH:Explorers_Map_II",
-                "expandedDescription": "A map commissioned from a Veteran Explorer. The level of detail and information contained here boggles your mind."
-            },
-            {
-                "id": "melvorTotH:Summoning_Scrolls",
-                "expandedDescription": "Most Necromancers prefer bones and bodies for their art. Few ever quite reached the level of summoning Spirits, as Fiozor did."
-            },
-            {
-                "id": "melvorTotH:Travellers_Compass",
-                "expandedDescription": "A peculiar compass sold to a traveling merchant for a pittance. Rather than pointing North, it points to something high above."
-            },
-            {
-                "id": "melvorTotH:Portable_Rations",
-                "expandedDescription": "Specially designed for those traveling long distances, each pack is its own self-contained meal."
-            },
-            {
-                "id": "melvorTotH:Portable_Rations_II",
-                "expandedDescription": "Your Grandma's secret blend of 11 Herbs and Spices has made these rations far more palatable than normal."
-            },
-            {
-                "id": "melvorTotH:Blood_Vial",
-                "expandedDescription": "Jokingly called a \"Health Potion\" in the vampire community, this thick red solution isn't truly blood, but a blood substitute used to curb the Hunger."
-            },
-            {
-                "id": "melvorTotH:Blood_Vial_II",
-                "expandedDescription": "The Vampire Lords in their dark realm have long turned to Alchemy to sate their gnawing Hunger. This is their latest advancement in that pursuit."
-            },
-            {
-                "id": "melvorTotH:Masquerade_Mask",
-                "expandedDescription": "These enchanted masks offer total anonymity, despite how little they cover. Beware however, as they are fragile."
-            },
-            {
-                "id": "melvorTotH:Golden_Reel",
-                "expandedDescription": "Woven from the hair and scales of a Siren, this gold-red fishing line attracts fish even when unbaited. Beware, however, lest you fall under its spell as well."
-            },
-            {
-                "id": "melvorTotH:Burning_Reel",
-                "expandedDescription": "A strange fishing line made of an unknown material. It appears mundane at first, but when soaked in water, it will ignite on contact with open air."
-            },
-            {
-                "id": "melvorTotH:Pure_Essence",
-                "expandedDescription": "The Academia Arcanum was built atop the purest vein of magic known to Melvor. The essence mined here is so concentrated, even the gemstones have become something else."
-            },
+            { "id": "melvorTotH:Blood_Ring", "expandedDescription": "A ring used by vampires to gather the blood of their victims. Such greedy creatures can't bare to waste even a single drop." },
+            { "id": "melvorTotH:Burning_Embers_Book", "expandedDescription": "A book of fiery spells stolen from the corpse of a burning demon. Its origins and author are unknown, but its power as a magical focus shouldn't be underestimated." },
+            { "id": "melvorTotH:Book_of_the_Ancients", "expandedDescription": "The complete works of an Ancient, magical civilization lost to time. Once broken apart for fear of what this knowledge might unleash, it is once again whole." },
+            { "id": "melvorTotH:Hunters_Journal", "expandedDescription": "Some hunters seek out mighty beasts. Others prefer more glittering prey." },
+            { "id": "melvorTotH:Mortar_and_Pestle", "expandedDescription": "A true sage knows that Cooking and Alchemy are but a single step apart." },
+            { "id": "melvorTotH:Slayer_Torch", "expandedDescription": "These cleansing flames are one of the few protections against the corruption of the Afflicted City. Careful not to run out, lest you become part of the city yourself." },
+            { "id": "melvorTotH:Mystic_Lantern", "expandedDescription": "The magical darkness of the Midnight Valley hides even darker things. The light of this Lantern can repel vile spirits and dispel illusions." },
+            { "id": "melvorTotH:Explorers_Map", "expandedDescription": "The Slayer's Lodge often hires experienced Explorers to scout out areas before a hunt. The information they bring back is well worth the cost." },
+            { "id": "melvorTotH:Explorers_Map_II", "expandedDescription": "A map commissioned from a Veteran Explorer. The level of detail and information contained here boggles your mind." },
+            { "id": "melvorTotH:Summoning_Scrolls", "expandedDescription": "Most Necromancers prefer bones and bodies for their art. Few ever quite reached the level of summoning Spirits, as Fiozor did." },
+            { "id": "melvorTotH:Travellers_Compass", "expandedDescription": "A peculiar compass sold to a traveling merchant for a pittance. Rather than pointing North, it points to something high above." },
+            { "id": "melvorTotH:Portable_Rations", "expandedDescription": "Specially designed for those traveling long distances, each pack is its own self-contained meal." },
+            { "id": "melvorTotH:Portable_Rations_II", "expandedDescription": "Your Grandma's secret blend of 11 Herbs and Spices has made these rations far more palatable than normal." },
+            { "id": "melvorTotH:Blood_Vial", "expandedDescription": "Jokingly called a \"Health Potion\" in the vampire community, this thick red solution isn't truly blood, but a blood substitute used to curb the Hunger." },
+            { "id": "melvorTotH:Blood_Vial_II", "expandedDescription": "The Vampire Lords in their dark realm have long turned to Alchemy to sate their gnawing Hunger. This is their latest advancement in that pursuit." },
+            { "id": "melvorTotH:Masquerade_Mask", "expandedDescription": "These enchanted masks offer total anonymity, despite how little they cover. Beware however, as they are fragile." },
+            { "id": "melvorTotH:Golden_Reel", "expandedDescription": "Woven from the hair and scales of a Siren, this gold-red fishing line attracts fish even when unbaited. Beware, however, lest you fall under its spell as well." },
+            { "id": "melvorTotH:Burning_Reel", "expandedDescription": "A strange fishing line made of an unknown material. It appears mundane at first, but when soaked in water, it will ignite on contact with open air." },
+            { "id": "melvorTotH:Pure_Essence", "expandedDescription": "The Academia Arcanum was built atop the purest vein of magic known to Melvor. The essence mined here is so concentrated, even the gemstones have become something else." },
             {
                 "id": "melvorTotH:Corundumite_Ore",
                 "expandedDescription": "This ore was once thought useless, until an innovative technique by a young blacksmith unlocked its true potential. The gold-rush that followed made many men, and broke many more."
             },
-            {
-                "id": "melvorTotH:Iridium_Ore",
-                "expandedDescription": "Wars have been fought over small deposits of this mineral. In modern times, deposits, both known and unknown, are considered the exclusive property of the Crown."
-            },
-            {
-                "id": "melvorTotH:Palladium_Ore",
-                "expandedDescription": "The few locations where this rare, magically conductive metal can be can be found are jealously guarded. More so is the method to properly work it."
-            },
+            { "id": "melvorTotH:Iridium_Ore", "expandedDescription": "Wars have been fought over small deposits of this mineral. In modern times, deposits, both known and unknown, are considered the exclusive property of the Crown." },
+            { "id": "melvorTotH:Palladium_Ore", "expandedDescription": "The few locations where this rare, magically conductive metal can be can be found are jealously guarded. More so is the method to properly work it." },
             {
                 "id": "melvorTotH:Augite_Ore",
                 "expandedDescription": "Augite crystals are known as the \"growing stone\" for its ability to propagate itself. While a slow process, crystals still need to be regularly culled, lest they eat into other ore deposits."
             },
-            {
-                "id": "melvorTotH:Meteorite_Ore",
-                "expandedDescription": "What happens when a star dies? This ore is filled with vast amounts of Celestial power, but only those who regularly study the heavens have any hope of ever finding it."
-            },
+            { "id": "melvorTotH:Meteorite_Ore", "expandedDescription": "What happens when a star dies? This ore is filled with vast amounts of Celestial power, but only those who regularly study the heavens have any hope of ever finding it." },
             {
                 "id": "melvorTotH:Divinite_Ore",
                 "expandedDescription": "No one quite knows where this ore comes from. It appears seemingly at random in abandoned mines that are otherwise long empty. Over time, people just attributed it to the whim of the gods."
             },
-            {
-                "id": "melvorTotH:Iridium_Bar",
-                "expandedDescription": "Iridium's ability to amplify forces, both magical and mundane, makes it exceedingly valuable. So much so that trade between nations is done in Iridium rather than gold."
-            },
-            {
-                "id": "melvorTotH:Corundumite_Bar",
-                "expandedDescription": "When properly worked, Corundumite weapons can produce a magical blade so sharp that they can cut through any defense and leave debilitating wounds."
-            },
-            {
-                "id": "melvorTotH:Palladium_Bar",
-                "expandedDescription": "Palladium is prized for its ability to conduct magical energy and is theorized to be the key to many lost technologies. Scholars are only now relearning its secrets."
-            },
+            { "id": "melvorTotH:Iridium_Bar", "expandedDescription": "Iridium's ability to amplify forces, both magical and mundane, makes it exceedingly valuable. So much so that trade between nations is done in Iridium rather than gold." },
+            { "id": "melvorTotH:Corundumite_Bar", "expandedDescription": "When properly worked, Corundumite weapons can produce a magical blade so sharp that they can cut through any defense and leave debilitating wounds." },
+            { "id": "melvorTotH:Palladium_Bar", "expandedDescription": "Palladium is prized for its ability to conduct magical energy and is theorized to be the key to many lost technologies. Scholars are only now relearning its secrets." },
             {
                 "id": "melvorTotH:Augite_Bar",
                 "expandedDescription": "A wound from an Augite blade can turn a man into crystal in hours, while Augite armor has the ability to \"regrow\" if given enough time, giving it the nickname of the \"living metal.\""
             },
-            {
-                "id": "melvorTotH:Meteorite_Bar",
-                "expandedDescription": "These Celestial Bars have strange properties that aren't fully understood. One moment they are light enough to float, the next, so heavy that they sink into the earth."
-            },
-            {
-                "id": "melvorTotH:Divinite_Bar",
-                "expandedDescription": "It was once thought that only gods could work this metal. Now it is mortal hands that make the miracles into reality. Go forth and create Legends."
-            },
-            {
-                "id": "melvorTotH:Onyx",
-                "expandedDescription": "This midnight black gem has an odd affinity to magical energy, and can be used to generate powerful shields... or break through them."
-            },
-            {
-                "id": "melvorTotH:Oricha",
-                "expandedDescription": "A purple gem that glows with an inner light. This gem's ability to absorb and direct energy makes it a powerful focus for a wide range of pursuits."
-            },
-            {
-                "id": "melvorTotH:Cerulean",
-                "expandedDescription": "The intense, pure energy that radiates from this rare gem reacts with biological life in strange ways. Correctly controlled, is a key piece of many powerful healing enchantments."
-            },
-            {
-                "id": "melvorTotH:Runestone",
-                "expandedDescription": "A more common gem transformed by the presence of Pure Runestone. While not as specialized as other gems, Runestone is by-far the more versatile."
-            },
-            {
-                "id": "melvorTotH:Zephyte",
-                "expandedDescription": "A gemstone so rare it is often called a myth. Enchantments created with this gem as their focus contain devastating, almost divine, power."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Lightning_Spirit",
-                "expandedDescription": "Pure Elemental Lightning made manifest. More golem than Spell, these \"creatures\" can be given simple commands ."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Eagle",
-                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Eagle called forth mighty winds so that their champions would always be one step ahead."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Owl",
-                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Owl taught the righteous the secrets of the Stars and their Celestial power."
-            },
+            { "id": "melvorTotH:Meteorite_Bar", "expandedDescription": "These Celestial Bars have strange properties that aren't fully understood. One moment they are light enough to float, the next, so heavy that they sink into the earth." },
+            { "id": "melvorTotH:Divinite_Bar", "expandedDescription": "It was once thought that only gods could work this metal. Now it is mortal hands that make the miracles into reality. Go forth and create Legends." },
+            { "id": "melvorTotH:Onyx", "expandedDescription": "This midnight black gem has an odd affinity to magical energy, and can be used to generate powerful shields... or break through them." },
+            { "id": "melvorTotH:Oricha", "expandedDescription": "A purple gem that glows with an inner light. This gem's ability to absorb and direct energy makes it a powerful focus for a wide range of pursuits." },
+            { "id": "melvorTotH:Cerulean", "expandedDescription": "The intense, pure energy that radiates from this rare gem reacts with biological life in strange ways. Correctly controlled, is a key piece of many powerful healing enchantments." },
+            { "id": "melvorTotH:Runestone", "expandedDescription": "A more common gem transformed by the presence of Pure Runestone. While not as specialized as other gems, Runestone is by-far the more versatile." },
+            { "id": "melvorTotH:Zephyte", "expandedDescription": "A gemstone so rare it is often called a myth. Enchantments created with this gem as their focus contain devastating, almost divine, power." },
+            { "id": "melvorTotH:Summoning_Familiar_Lightning_Spirit", "expandedDescription": "Pure Elemental Lightning made manifest. More golem than Spell, these \"creatures\" can be given simple commands ." },
+            { "id": "melvorTotH:Summoning_Familiar_Eagle", "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Eagle called forth mighty winds so that their champions would always be one step ahead." },
+            { "id": "melvorTotH:Summoning_Familiar_Owl", "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Owl taught the righteous the secrets of the Stars and their Celestial power." },
             {
                 "id": "melvorTotH:Summoning_Familiar_Siren",
                 "expandedDescription": "Highly magical, Sirens were once hunted to near extinction. They have since learned to be wary of mortal kind, and their unique magics help them to stay hidden from the world."
             },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Spider",
-                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Spider laid in wait, then struck when the enemy was at their most vulnerable."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Beaver",
-                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Beaver taught man the art of woodworking, to build both Fortress and Bow."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Fox",
-                "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Fox scoured the Land, searching for any that would help beat back the dark tide."
-            },
-            {
-                "id": "melvorTotH:Summoning_Familiar_Spectre",
-                "expandedDescription": "Born from the pure malice that seeps out of the Midnight Valley, its hatred is undirected. Make your enemies its own."
-            }
+            { "id": "melvorTotH:Summoning_Familiar_Spider", "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Spider laid in wait, then struck when the enemy was at their most vulnerable." },
+            { "id": "melvorTotH:Summoning_Familiar_Beaver", "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Beaver taught man the art of woodworking, to build both Fortress and Bow." },
+            { "id": "melvorTotH:Summoning_Familiar_Fox", "expandedDescription": "One of five Guardian Spirits that helped seal away a \"Great Evil\". The Fox scoured the Land, searching for any that would help beat back the dark tide." },
+            { "id": "melvorTotH:Summoning_Familiar_Spectre", "expandedDescription": "Born from the pure malice that seeps out of the Midnight Valley, its hatred is undirected. Make your enemies its own." }
         ]
     }
 }
